@@ -8,6 +8,11 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+# Visusal Studio Project files
+*.sdf
+*.user
+*.opensdf
+
 # Windows Installer files
 *.cab
 *.msi
@@ -41,3 +46,5 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+Debug/
+ipch/

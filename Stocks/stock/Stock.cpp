@@ -71,6 +71,7 @@ void splitString(const std::string& src, const std::string& separator , std::vec
 Stock::Stock(const std::string& symbol)
 	: m_symbol(symbol)
 	, m_vaild(true)
+	, m_group("Unknown")
 {
 	initWithFile();
 }
@@ -116,7 +117,6 @@ void Stock::initWithFileContent(const std::string& content)
 				if(lineVec.size() == 1)
 				{
 					m_group = lineVec[0];
-					++lineHeader;
 				}
 				lineVec.clear();
 				dateVec.clear();

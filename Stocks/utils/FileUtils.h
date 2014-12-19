@@ -4,7 +4,7 @@
 #include <vector>
 
 
-class __declspec(dllexport) FileUtils
+class USE_DLL FileUtils
 {
 public:
 	static FileUtils& getInstance()

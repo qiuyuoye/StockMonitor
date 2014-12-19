@@ -13,4 +13,6 @@
 
 void Log(const char * pszFormat, ...);
 
+#define LOG(format, ...)      Log(format, ##__VA_ARGS__)
+#define USE_DLL     __declspec(dllexport)
 // TODO: 在此处引用程序需要的其他头文件

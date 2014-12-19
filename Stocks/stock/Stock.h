@@ -50,6 +50,11 @@ public:
 		return m_group;
 	}
 
+	const ItemVec& getItems() const 
+	{
+		return m_items;
+	}
+
 private:
 	void initWithFile();
 

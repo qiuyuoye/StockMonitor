@@ -79,6 +79,8 @@
     <None Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="analyse\Analyse.h" />
+    <ClInclude Include="analyse\DataAnalyse.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="stock\Stock.h" />
     <ClInclude Include="stock\StockConfig.h" />
@@ -90,6 +92,8 @@
     <ClInclude Include="utils\TimeUtils.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="analyse\Analyse.cpp" />
+    <ClCompile Include="analyse\DataAnalyse.cpp" />
     <ClCompile Include="dllmain.cpp">
       <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</CompileAsManaged>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">

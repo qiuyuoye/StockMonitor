@@ -60,6 +60,9 @@
     <ClInclude Include="analyse\DataAnalyse.h">
       <Filter>analyse</Filter>
     </ClInclude>
+    <ClInclude Include="utils\StringUtils.h">
+      <Filter>utils</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp">
@@ -91,6 +94,9 @@
     </ClCompile>
     <ClCompile Include="analyse\DataAnalyse.cpp">
       <Filter>analyse</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\StringUtils.cpp">
+      <Filter>utils</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

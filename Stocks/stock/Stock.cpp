@@ -9,6 +9,7 @@
 #include "utils/FileUtils.h"
 #include "StockRequest.h"
 #include "StockConfig.h"
+#include "../utils/StringUtils.h"
 
 using namespace std;
 
@@ -29,43 +30,6 @@ static bool itemSort(const StockItem& item1, const StockItem& item2)
 static bool itemCompare(const StockItem& item1, const StockItem& item2)
 {
 	return item1.year == item2.year && item1.month == item2.month && item1.day == item2.day;
-}
-
-
-void splitString(const std::string& src, const std::string& separator , std::vector<std::string>& dest)
-{
-	string::size_type start = 0, index;
-	string substring;
-	do
-	{
-		index = src.find(separator,start);
-		if (index != string::npos)
-		{    
-			if(index == start)
-			{
-				index = start + separator.length();
-				start += separator.length();
-				continue;
-			}
-			substring = src.substr(start, index - start);
-			dest.push_back(substring);
-			start = index + separator.size();
-			index = src.find(separator,start);
-		}
-		else
-		{
-			if(start == 0)
-			{
-				substring = src.substr(start);
-				dest.push_back(substring);
-			}
-			return;
-		}
-	}while(index != string::npos);
-
-	//the last token
-	substring = src.substr(start);
-	dest.push_back(substring);
 }
 
 Stock::Stock(const std::string& symbol)
@@ -113,7 +77,7 @@ void Stock::initWithFileContent(const std::string& content)
 		case 0:
 			{
 				++lineHeader;
-				splitString(line, ",", lineVec);
+				StringUtils::splitString(line, ",", lineVec);
 				if(lineVec.size() == 1)
 				{
 					m_group = lineVec[0];
@@ -131,7 +95,7 @@ void Stock::initWithFileContent(const std::string& content)
 			{
 				do 
 				{
-					splitString(line, ",", lineVec);
+					StringUtils::splitString(line, ",", lineVec);
 					if(lineVec.size() != 7)
 					{
 						Log("Invalid stock line %s", line.c_str());
@@ -139,7 +103,7 @@ void Stock::initWithFileContent(const std::string& content)
 					}
 
 					StockItem item;
-					splitString(lineVec[0], "-", dateVec);
+					StringUtils::splitString(lineVec[0], "-", dateVec);
 					if(dateVec.size() != 3)
 					{
 						Log("Invalid date %s", lineVec[0].c_str());
@@ -238,7 +202,7 @@ void Stock::insert(const std::string& content)
 
 		do 
 		{
-			splitString(line, ",", lineVec);
+			StringUtils::splitString(line, ",", lineVec);
 			if(lineVec.size() != 7)
 			{
 				if(line.size() > 500)
@@ -251,7 +215,7 @@ void Stock::insert(const std::string& content)
 			}
 
 			StockItem item;
-			splitString(lineVec[0], "-", dateVec);
+			StringUtils::splitString(lineVec[0], "-", dateVec);
 			if(dateVec.size() != 3)
 			{
 				if(line.size() > 500)

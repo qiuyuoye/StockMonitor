@@ -6,6 +6,7 @@
 #include <string>
 #include "stock/StockManager.h"
 #include "analyse/DataAnalyse.h"
+#include "analyse/TrendAnalyse.h"
 
 
 int _tmain(int argc, _TCHAR* argv[])
@@ -24,7 +25,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	//StockManager::getInstance().updateAll();
 
 	Stock *pStock = StockManager::getInstance().getStock("SS_600030");
-	DataAnalyse anaylse;
+	TrendAnalyse anaylse;
 	anaylse.analyse(pStock);
  	return 0;
 }

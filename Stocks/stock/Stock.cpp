@@ -289,3 +289,57 @@ std::string Stock::toString()
 	}
 	return oss.str();
 }
+
+void Stock::getAllOpen( std::vector<double>& datas ) const
+{
+	datas.clear();
+	for(ItemVec::const_iterator iter = m_items.begin(); iter != m_items.end(); ++iter)
+	{
+		datas.push_back(iter->open);
+	}
+}
+
+void Stock::getAllHigh( std::vector<double>& datas ) const
+{
+	datas.clear();
+	for(ItemVec::const_iterator iter = m_items.begin(); iter != m_items.end(); ++iter)
+	{
+		datas.push_back(iter->high);
+	}
+}
+
+void Stock::getAllLow( std::vector<double>& datas ) const
+{
+	datas.clear();
+	for(ItemVec::const_iterator iter = m_items.begin(); iter != m_items.end(); ++iter)
+	{
+		datas.push_back(iter->low);
+	}
+}
+
+void Stock::getAllClose( std::vector<double>& datas ) const
+{
+	datas.clear();
+	for(ItemVec::const_iterator iter = m_items.begin(); iter != m_items.end(); ++iter)
+	{
+		datas.push_back(iter->close);
+	}
+}
+
+void Stock::getAllVolumn( std::vector<double>& datas ) const
+{
+	datas.clear();
+	for(ItemVec::const_iterator iter = m_items.begin(); iter != m_items.end(); ++iter)
+	{
+		datas.push_back((double)(iter->volume));
+	}
+}
+
+void Stock::getAllAdjustClose( std::vector<double>& datas ) const
+{
+	datas.clear();
+	for(ItemVec::const_iterator iter = m_items.begin(); iter != m_items.end(); ++iter)
+	{
+		datas.push_back(iter->adjClose);
+	}
+}

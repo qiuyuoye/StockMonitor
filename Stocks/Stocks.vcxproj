@@ -81,6 +81,7 @@
   <ItemGroup>
     <ClInclude Include="analyse\Analyse.h" />
     <ClInclude Include="analyse\DataAnalyse.h" />
+    <ClInclude Include="analyse\TrendAnalyse.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="stock\Stock.h" />
     <ClInclude Include="stock\StockConfig.h" />
@@ -95,6 +96,7 @@
   <ItemGroup>
     <ClCompile Include="analyse\Analyse.cpp" />
     <ClCompile Include="analyse\DataAnalyse.cpp" />
+    <ClCompile Include="analyse\TrendAnalyse.cpp" />
     <ClCompile Include="dllmain.cpp">
       <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</CompileAsManaged>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">

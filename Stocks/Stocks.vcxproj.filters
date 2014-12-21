@@ -20,7 +20,7 @@
       <UniqueIdentifier>{07f0e31a-ad3d-478f-972f-061776da3849}</UniqueIdentifier>
     </Filter>
     <Filter Include="analyse">
-      <UniqueIdentifier>{a5f116dc-834e-4349-850e-6ec83574a56b}</UniqueIdentifier>
+      <UniqueIdentifier>{39a00ab7-7c62-4676-b6e1-efe1b7add99e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -54,14 +54,17 @@
     <ClInclude Include="utils\TimeUtils.h">
       <Filter>utils</Filter>
     </ClInclude>
+    <ClInclude Include="utils\StringUtils.h">
+      <Filter>utils</Filter>
+    </ClInclude>
     <ClInclude Include="analyse\Analyse.h">
       <Filter>analyse</Filter>
     </ClInclude>
     <ClInclude Include="analyse\DataAnalyse.h">
       <Filter>analyse</Filter>
     </ClInclude>
-    <ClInclude Include="utils\StringUtils.h">
-      <Filter>utils</Filter>
+    <ClInclude Include="analyse\TrendAnalyse.h">
+      <Filter>analyse</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -89,14 +92,17 @@
     <ClCompile Include="utils\TimeUtils.cpp">
       <Filter>utils</Filter>
     </ClCompile>
+    <ClCompile Include="utils\StringUtils.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
     <ClCompile Include="analyse\Analyse.cpp">
       <Filter>analyse</Filter>
     </ClCompile>
     <ClCompile Include="analyse\DataAnalyse.cpp">
       <Filter>analyse</Filter>
     </ClCompile>
-    <ClCompile Include="utils\StringUtils.cpp">
-      <Filter>utils</Filter>
+    <ClCompile Include="analyse\TrendAnalyse.cpp">
+      <Filter>analyse</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

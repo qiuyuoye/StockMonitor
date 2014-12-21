@@ -29,6 +29,18 @@ public:
 	void update();
 
 	void save();
+
+	void getAllOpen(std::vector<double>& datas) const;
+
+	void getAllHigh(std::vector<double>& datas) const;
+
+	void getAllLow(std::vector<double>& datas) const;
+
+	void getAllClose(std::vector<double>& datas) const;
+
+	void getAllVolumn(std::vector<double>& datas) const;
+
+	void getAllAdjustClose(std::vector<double>& datas) const;
 	
 	const std::string& getSymbol() const
 	{
@@ -54,6 +66,7 @@ public:
 	{
 		return m_items;
 	}
+
 
 private:
 	void initWithFile();

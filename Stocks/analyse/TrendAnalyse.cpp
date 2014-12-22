@@ -62,6 +62,22 @@ void TrendAnalyse::getPVs(const std::vector<double>& datas, PVItemVec& items )
 	getDividePVs(datas, items);
 	getFluctuatePVs(items);
 
+	int maxInter = 0;
+	int minInter = 9999999;
+	for(PVItemVec::iterator iter = items.begin(); iter != items.end(); ++iter)
+	{
+		PVItemVec::iterator iterNext = iter + 1;
+		if(iterNext == items.end())
+		{
+			break;
+		}
+
+		int interval = iterNext->m_index - iter->m_index;
+		maxInter = (maxInter < interval ? interval : maxInter); 
+		minInter = (minInter > interval ? interval : minInter);
+	}
+	Log("Max iterval: %d", maxInter);
+	Log("Min iterval: %d", minInter);
 }
 
 static void initMaxMinTemp(PVItem& tempMax, PVItem& tempMin)
@@ -171,6 +187,47 @@ void TrendAnalyse::getFluctuatePVs( PVItemVec& items )
 
 void TrendAnalyse::getPeriods( const PVItemVec& pvItems, PeriodItemVec& prdItems )
 {
+	PeriodItem *pItem = NULL;
+	for(PVItemVec::const_iterator iter = pvItems.begin(); iter != pvItems.end(); ++iter)
+	{
+		if(pItem == NULL)
+		{
+			PeriodItem item;
+			pItem = &item;
+
+			pItem->m_max = iter->m_value;
+			pItem->m_min = iter->m_value;
+			pItem->m_startIndex = iter->m_index;
+
+			continue;
+		}
+
+		switch(pItem->m_period)
+		{
+		case E_PRD_NONE:
+			{
+
+			}
+			break;
+		case E_PRD_UP:
+			{
+
+			}
+			break;
+		case E_PRD_DOWN:
+			{
+
+			}
+			break;
+		case E_PRD_SHOCK:
+			{
+
+			}
+			break;
+
+		}
+
+	}
 
 }
 

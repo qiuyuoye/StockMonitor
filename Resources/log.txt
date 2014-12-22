@@ -458,3 +458,4 @@ Average Volume: 1,340,849 hands
 Max Volume: 13,844,997 hands
 Min Volume: 312,742 hands
 -------------------
+Max iterval: 11

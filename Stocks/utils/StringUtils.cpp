@@ -1,5 +1,6 @@
 #include "StdAfx.h"
 #include "StringUtils.h"
+#include <sstream>
 
 using namespace std;
 
@@ -48,4 +49,19 @@ void StringUtils::splitString(const std::string& src, const std::string& separat
 	//the last token
 	substring = src.substr(start);
 	dest.push_back(substring);
+}
+
+std::string StringUtils::volumeToString(const std::string& symbol, double volume)
+{
+	if(symbol.find("SS_") != string::npos || symbol.find("SZ_") != string::npos)
+	{
+		volume = volume / 100;
+		string result = formatWithCommas((ULONGLONG)volume);
+		return result + " hands";
+	}
+	else
+	{
+		return formatWithCommas((ULONGLONG)volume);
+	}
+	
 }

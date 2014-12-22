@@ -48,3 +48,7 @@ Temporary Items
 .apdisk
 Debug/
 ipch/
+
+*.suo
+StockMonitor.suo
+*.suo

@@ -70,7 +70,7 @@ void Stock::initWithFileContent(const std::string& content)
 	vector<string> dateVec;
 	int lineHeader = 0;
 
-	while (getline(iss, line)) 
+	while (!getline(iss, line).eof()) 
 	{
 		switch(lineHeader)
 		{

@@ -1,5 +1,6 @@
 #include "StdAfx.h"
 #include "DataAnalyse.h"
+#include "utils/StringUtils.h"
 
 
 DataResult::DataResult()
@@ -64,10 +65,9 @@ void DataAnalyse::onAnalyse(const Stock* pStock)
 
 void DataAnalyse::printResult(const Stock* pStock)
 {
-	Log("----DataAnalyse----");
-	Log("Stock: %s", pStock->getSymbol().c_str());
-	Log("Average Volume: %.0f", m_avgVol);
-	Log("Max Volume: %.0f", m_maxVol);
-	Log("Min Volume: %.0f", m_minVol);
+	Log("----   DataAnalyse : %s  ----", pStock->getSymbol().c_str());
+	Log("Average Volume: %s", StringUtils::volumeToString(pStock->getSymbol(), m_avgVol).c_str());
+	Log("Max Volume: %s", StringUtils::volumeToString(pStock->getSymbol(), m_maxVol).c_str());
+	Log("Min Volume: %s", StringUtils::volumeToString(pStock->getSymbol(), m_minVol).c_str());
 	Log("-------------------");
 }

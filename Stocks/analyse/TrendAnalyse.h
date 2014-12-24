@@ -5,24 +5,6 @@
 
 #include <vector>
 
-enum PV
-{
-	E_PV_NONE,
-	E_PV_Peak,
-	E_PV_Valley,
-};
-
-class __declspec(dllexport) PVItem
-{
-public:
-	PVItem();
-	~PVItem();
-
-	PV m_pv;
-	double m_value;
-	unsigned int m_index;
-};
-
 enum Period
 {
 	E_PRD_NONE,
@@ -37,15 +19,27 @@ public:
 	PeriodItem();
 	~PeriodItem();
 
+	void compute(const std::vector<double>& datas);
+
+	void computeParams(const std::vector<double>& datas);
+
+	void computeTrend(const std::vector<double>& datas);
+
+	int getDays() const {	return m_endIndex - m_startIndex + 1;};
+
 	Period m_period;
-	double m_max;
-	double m_min;
-	float m_rate;
+
 	unsigned int m_startIndex;
 	unsigned int m_endIndex;
+
+	ULONGLONG m_avg;
+	ULONGLONG m_max;
+	ULONGLONG m_min;
+
+	double m_avgSlope;
+	double m_slopSD;	   //Standard Deviation
 };
 
-typedef std::vector<PVItem> PVItemVec;
 typedef std::vector<PeriodItem> PeriodItemVec;
 
 class __declspec(dllexport) TrendAnalyse : public Analyse
@@ -60,13 +54,12 @@ protected:
 	virtual void printResult(const Stock* pStock);
 
 private:
-	void getPVs(const std::vector<double>& datas, PVItemVec& items);
 
-	void getDividePVs(const std::vector<double>& datas, PVItemVec& items);
+	void analysisPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems);
 
-	void getFluctuatePVs(PVItemVec& items);
+	void initPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems);
 
-	void getPeriods(const PVItemVec& pvItems, PeriodItemVec& prdItems);
+	PeriodItemVec mergePeriods(const std::vector<double>& datas, const PeriodItemVec& prdItems, int day);
 
 };
 

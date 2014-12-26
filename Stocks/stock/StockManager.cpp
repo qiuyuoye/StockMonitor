@@ -26,7 +26,7 @@ void StockManager::initialize()
 	clear();
 	vector<string> stockFiles;
 	FileUtils::getInstance().listFiles("data", stockFiles, false, false);
-	for(vector<string>::iterator iter = stockFiles.begin(); iter != stockFiles.end(); ++iter)
+	for(auto iter = stockFiles.begin(); iter != stockFiles.end(); ++iter)
 	{
 		if(iter->find(".csv") == string::npos)
 		{
@@ -41,7 +41,7 @@ void StockManager::initialize()
 
 void StockManager::clear()
 {
-	for(StocksMap::iterator iter = m_stocksMap.begin(); iter != m_stocksMap.end(); ++iter)
+	for(auto iter = m_stocksMap.begin(); iter != m_stocksMap.end(); ++iter)
 	{
 		delete iter->second;
 	}
@@ -56,7 +56,7 @@ Stock* StockManager::getStock(const std::string& symbol)
 		initialize();
 	}
 
-	StocksMap::iterator iter = m_stocksMap.find(symbol);
+	auto iter = m_stocksMap.find(symbol);
 	if(iter != m_stocksMap.end())
 	{
 		return iter->second;
@@ -82,7 +82,7 @@ void StockManager::updateAll()
 		initialize();
 	}
 
-	for(StocksMap::iterator iter = m_stocksMap.begin(); iter != m_stocksMap.end(); ++iter)
+	for(auto iter = m_stocksMap.begin(); iter != m_stocksMap.end(); ++iter)
 	{
 		iter->second->update();
 		iter->second->save();

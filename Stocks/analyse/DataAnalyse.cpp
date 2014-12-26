@@ -47,7 +47,7 @@ void DataAnalyse::onAnalyse(const Stock* pStock)
 		return;
 	}
 
-	for(ItemVec::const_iterator iter = items.begin(); iter != items.end(); ++iter)
+	for(auto iter = items.begin(); iter != items.end(); ++iter)
 	{
 		if(iter->volume < 1)
 		{

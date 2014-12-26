@@ -66,6 +66,9 @@
     <ClInclude Include="analyse\TrendAnalyse.h">
       <Filter>analyse</Filter>
     </ClInclude>
+    <ClInclude Include="utils\MathUtil.h">
+      <Filter>utils</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp">
@@ -103,6 +106,9 @@
     </ClCompile>
     <ClCompile Include="analyse\TrendAnalyse.cpp">
       <Filter>analyse</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\MathUtil.cpp">
+      <Filter>utils</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

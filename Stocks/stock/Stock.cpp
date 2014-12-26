@@ -153,7 +153,7 @@ void Stock::update()
 	}
 	else
 	{
-		ItemVec::reverse_iterator iter = m_items.rbegin();
+		auto iter = m_items.rbegin();
 		content = StockRequest::requestHistory(m_symbol,
 			iter->year, iter->month, iter->day,
 			pTimeInfo->tm_year + 1900, pTimeInfo->tm_mon + 1, pTimeInfo->tm_mday);
@@ -245,7 +245,7 @@ void Stock::insert(const std::string& content)
 	}
 
 	std::sort(m_items.begin(), m_items.end(), itemSort);
-	ItemVec::iterator it = std::unique (m_items.begin(), m_items.end(), itemCompare);
+	auto it = std::unique (m_items.begin(), m_items.end(), itemCompare);
 	m_items.resize(std::distance(m_items.begin(), it));
 
 }
@@ -266,7 +266,7 @@ std::string Stock::toString()
 	oss << m_group;
 	oss << "\n";
 	oss << "Date,Open,High,Low,Close,Volume,Adjusted Close\n";
-	for(ItemVec::iterator iter = m_items.begin(); iter != m_items.end(); ++iter)
+	for(auto iter = m_items.begin(); iter != m_items.end(); ++iter)
 	{
 		oss << iter->year;
 		oss << "-";
@@ -290,55 +290,111 @@ std::string Stock::toString()
 	return oss.str();
 }
 
-void Stock::getAllOpen( std::vector<double>& datas ) const
+static void getIterators(const ItemVec& items, int start, int size, ItemVec::const_iterator& iterBegin, ItemVec::const_iterator& iterEnd)
+{
+	if(start < 0)
+	{
+		start = 0;
+	}
+
+	if(start + size >= items.size())
+	{
+		size = -1;
+	}
+
+	iterBegin = items.begin(); 
+	std::advance(iterBegin, start);
+
+	iterEnd = iterBegin;
+	if(size < 0)
+	{
+		iterEnd = items.end();
+	}
+	else
+	{
+		std::advance(iterEnd, size);
+	}
+}
+
+void Stock::getOpens(std::vector<double>& datas, int start /*= 0*/, int size /*= -1*/) const
 {
 	datas.clear();
-	for(ItemVec::const_iterator iter = m_items.begin(); iter != m_items.end(); ++iter)
+
+	auto iterBegin = m_items.begin(); 
+	auto iterEnd = m_items.begin(); 
+	getIterators(m_items, start, size, iterBegin, iterEnd);
+	
+	for(auto iter = iterBegin; iter != iterEnd; ++iter)
 	{
 		datas.push_back(iter->open);
 	}
 }
 
-void Stock::getAllHigh( std::vector<double>& datas ) const
+void Stock::getAllHigh( std::vector<double>& datas, int start /*= 0*/, int size /*= -1*/) const
 {
 	datas.clear();
-	for(ItemVec::const_iterator iter = m_items.begin(); iter != m_items.end(); ++iter)
+
+	auto iterBegin = m_items.begin(); 
+	auto iterEnd = m_items.begin(); 
+	getIterators(m_items, start, size, iterBegin, iterEnd);
+
+	for(auto iter = iterBegin; iter != iterEnd; ++iter)
 	{
 		datas.push_back(iter->high);
 	}
 }
 
-void Stock::getAllLow( std::vector<double>& datas ) const
+void Stock::getAllLow( std::vector<double>& datas, int start /*= 0*/, int size /*= -1*/ ) const
 {
 	datas.clear();
-	for(ItemVec::const_iterator iter = m_items.begin(); iter != m_items.end(); ++iter)
+
+	auto iterBegin = m_items.begin(); 
+	auto iterEnd = m_items.begin(); 
+	getIterators(m_items, start, size, iterBegin, iterEnd);
+
+	for(auto iter = iterBegin; iter != iterEnd; ++iter)
 	{
 		datas.push_back(iter->low);
 	}
 }
 
-void Stock::getAllClose( std::vector<double>& datas ) const
+void Stock::getAllClose( std::vector<double>& datas, int start /*= 0*/, int size /*= -1*/ ) const
 {
 	datas.clear();
-	for(ItemVec::const_iterator iter = m_items.begin(); iter != m_items.end(); ++iter)
+	
+	auto iterBegin = m_items.begin(); 
+	auto iterEnd = m_items.begin(); 
+	getIterators(m_items, start, size, iterBegin, iterEnd);
+
+	for(auto iter = iterBegin; iter != iterEnd; ++iter)
 	{
 		datas.push_back(iter->close);
 	}
 }
 
-void Stock::getAllVolumn( std::vector<double>& datas ) const
+void Stock::getAllVolumn( std::vector<double>& datas, int start /*= 0*/, int size /*= -1*/ ) const
 {
 	datas.clear();
-	for(ItemVec::const_iterator iter = m_items.begin(); iter != m_items.end(); ++iter)
+	
+	auto iterBegin = m_items.begin(); 
+	auto iterEnd = m_items.begin(); 
+	getIterators(m_items, start, size, iterBegin, iterEnd);
+
+	for(auto iter = iterBegin; iter != iterEnd; ++iter)
 	{
 		datas.push_back((double)(iter->volume));
 	}
 }
 
-void Stock::getAllAdjustClose( std::vector<double>& datas ) const
+void Stock::getAllAdjustClose( std::vector<double>& datas, int start /*= 0*/, int size /*= -1*/ ) const
 {
 	datas.clear();
-	for(ItemVec::const_iterator iter = m_items.begin(); iter != m_items.end(); ++iter)
+	
+	auto iterBegin = m_items.begin(); 
+	auto iterEnd = m_items.begin(); 
+	getIterators(m_items, start, size, iterBegin, iterEnd);
+
+	for(auto iter = iterBegin; iter != iterEnd; ++iter)
 	{
 		datas.push_back(iter->adjClose);
 	}

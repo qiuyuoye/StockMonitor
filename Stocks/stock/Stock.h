@@ -30,17 +30,17 @@ public:
 
 	void save();
 
-	void getAllOpen(std::vector<double>& datas) const;
+	void getOpens(std::vector<double>& datas, int start = 0, int size = -1) const;
 
-	void getAllHigh(std::vector<double>& datas) const;
+	void getAllHigh(std::vector<double>& datas, int start = 0, int size = -1) const;
 
-	void getAllLow(std::vector<double>& datas) const;
+	void getAllLow(std::vector<double>& datas, int start = 0, int size = -1) const;
 
-	void getAllClose(std::vector<double>& datas) const;
+	void getAllClose(std::vector<double>& datas, int start = 0, int size = -1) const;
 
-	void getAllVolumn(std::vector<double>& datas) const;
+	void getAllVolumn(std::vector<double>& datas, int start = 0, int size = -1) const;
 
-	void getAllAdjustClose(std::vector<double>& datas) const;
+	void getAllAdjustClose(std::vector<double>& datas, int start = 0, int size = -1) const;
 	
 	const std::string& getSymbol() const
 	{

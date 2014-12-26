@@ -10,20 +10,28 @@ enum Period
 	E_PRD_NONE,
 	E_PRD_UP,
 	E_PRD_DOWN,
-	E_PRD_SHOCK,
 };
 
 class __declspec(dllexport) PeriodItem
 {
 public:
+	static double getSlopDiff(const PeriodItem& item1, const PeriodItem& item2);
+
+	static double getSDDiff(const PeriodItem& item1, const PeriodItem& item2);
+
 	PeriodItem();
+	explicit PeriodItem(float ratio);
 	~PeriodItem();
+
+	void initResult();
 
 	void compute(const std::vector<double>& datas);
 
 	void computeParams(const std::vector<double>& datas);
 
 	void computeTrend(const std::vector<double>& datas);
+
+	void print(const Stock& stocks, int offset);
 
 	int getDays() const {	return m_endIndex - m_startIndex + 1;};
 
@@ -32,12 +40,18 @@ public:
 	unsigned int m_startIndex;
 	unsigned int m_endIndex;
 
-	ULONGLONG m_avg;
-	ULONGLONG m_max;
-	ULONGLONG m_min;
+	double m_avg;
+	double m_max;
+	double m_min;
 
 	double m_avgSlope;
 	double m_slopSD;	   //Standard Deviation
+
+	double m_maxGain;
+	double m_maxLoss;
+
+private:
+	float m_ratio;
 };
 
 typedef std::vector<PeriodItem> PeriodItemVec;
@@ -59,7 +73,15 @@ private:
 
 	void initPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems);
 
-	PeriodItemVec mergePeriods(const std::vector<double>& datas, const PeriodItemVec& prdItems, int day);
+	void mergePeriods(const std::vector<double>& datas, unsigned int size, PeriodItemVec& prdItems);
+
+	void mergeSimilarPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems, double minSlopDiff, double minSDDiff);
+
+	void removeInvalides(PeriodItemVec& prdItems);
+
+	double getAvgSlops(const PeriodItemVec& prdItems);
+
+	double getAvgStandardDeviation(const PeriodItemVec& prdItems);
 
 };
 

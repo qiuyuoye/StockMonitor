@@ -5,3 +5,109 @@ Request http://www.quandl.com/api/v1/datasets/YAHOO/SS_600030.csv?&trim_start=20
 Request http://www.quandl.com/api/v1/datasets/YAHOO/SS_600030.csv?&trim_start=2013-1-1&trim_end=2014-12-21&sort_order=asc&auth_token=VyrhmHKJ18XpKy2mcviN
 Request http://www.quandl.com/api/v1/datasets/YAHOO/SS_600030.csv?&trim_start=2013-1-1&trim_end=2014-12-21&sort_order=asc&auth_token=VyrhmHKJ18XpKy2mcviN
 Request http://www.quandl.com/api/v1/datasets/YAHOO/SS_600030.csv?&trim_start=2013-1-1&trim_end=2014-12-21&sort_order=asc&auth_token=VyrhmHKJ18XpKy2mcviN
+Request http://www.quandl.com/api/v1/datasets/YAHOO/SS_600030.csv?&trim_start=2013-1-1&trim_end=2014-12-27&sort_order=asc&auth_token=VyrhmHKJ18XpKy2mcviN
+2014-3-14   2014-4-23
+Trend Up
+Max: 12.1500, Min: 9.9500, Avg: 10.9200
+Slop: 0.0047, Standard Deviation: 2.1495
+Max Gain: 2.9000, Max Loss -1.7200
+2014-4-23   2014-12-10
+Trend Up
+Max: 27.2700, Min: 10.9500, Avg: 13.0762
+Slop: 0.0108, Standard Deviation: 26.3226
+Max Gain: 26.2700, Max Loss -10.3100
+2014-12-10   2014-12-11
+Trend Down
+Max: 27.2700, Min: 24.7100, Avg: 25.9900
+Slop: -0.2847, Standard Deviation: 5.1769
+Max Gain: 0.0000, Max Loss -2.5600
+2014-12-11   2014-12-17
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 27.9520
+Slop: 0.2236, Standard Deviation: 16.0344
+Max Gain: 8.0400, Max Loss 0.0000
+2014-12-17   2014-12-18
+Trend Down
+Max: 32.7500, Min: 31.7400, Avg: 32.2450
+Slop: -0.1123, Standard Deviation: 0.8058
+Max Gain: 0.0000, Max Loss -1.0100
+2014-12-18   2014-12-19
+Trend Up
+Max: 32.2300, Min: 31.7400, Avg: 31.9850
+Slop: 0.0545, Standard Deviation: 0.1897
+Max Gain: 0.4900, Max Loss 0.0000
+2014-12-19   2014-12-22
+Trend Down
+Max: 32.2300, Min: 30.7400, Avg: 31.4850
+Slop: -0.1657, Standard Deviation: 1.7537
+Max Gain: 0.0000, Max Loss -1.4900
+2014-12-22   2014-12-23
+Trend Up
+Max: 31.0100, Min: 30.7400, Avg: 30.8750
+Slop: 0.0300, Standard Deviation: 0.0576
+Max Gain: 0.2700, Max Loss 0.0000
+2014-12-23   2014-12-24
+Trend Down
+Max: 31.0100, Min: 28.2000, Avg: 29.6050
+Slop: -0.3125, Standard Deviation: 6.2374
+Max Gain: 0.0000, Max Loss -2.8100
+2014-12-24   2014-12-25
+Trend Up
+Max: 29.2000, Min: 28.2000, Avg: 28.7000
+Slop: 0.1112, Standard Deviation: 0.7899
+Max Gain: 1.0000, Max Loss 0.0000
+Request http://www.quandl.com/api/v1/datasets/YAHOO/SS_600030.csv?&trim_start=2013-1-1&trim_end=2014-12-27&sort_order=asc&auth_token=VyrhmHKJ18XpKy2mcviN
+2014-3-14   2014-4-23
+Trend Up
+Max: 12.1500, Min: 9.9500, Avg: 10.9200
+Slop: 0.0047, Standard Deviation: 2.1495
+Max Gain: 2.9000, Max Loss -1.7200
+2014-4-23   2014-12-10
+Trend Up
+Max: 27.2700, Min: 10.9500, Avg: 13.0762
+Slop: 0.0108, Standard Deviation: 26.3226
+Max Gain: 26.2700, Max Loss -10.3100
+2014-12-10   2014-12-11
+Trend Down
+Max: 27.2700, Min: 24.7100, Avg: 25.9900
+Slop: -0.2847, Standard Deviation: 5.1769
+Max Gain: 0.0000, Max Loss -2.5600
+2014-12-11   2014-12-17
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 27.9520
+Slop: 0.2236, Standard Deviation: 16.0344
+Max Gain: 8.0400, Max Loss 0.0000
+2014-12-17   2014-12-18
+Trend Down
+Max: 32.7500, Min: 31.7400, Avg: 32.2450
+Slop: -0.1123, Standard Deviation: 0.8058
+Max Gain: 0.0000, Max Loss -1.0100
+2014-12-18   2014-12-19
+Trend Up
+Max: 32.2300, Min: 31.7400, Avg: 31.9850
+Slop: 0.0545, Standard Deviation: 0.1897
+Max Gain: 0.4900, Max Loss 0.0000
+2014-12-19   2014-12-22
+Trend Down
+Max: 32.2300, Min: 30.7400, Avg: 31.4850
+Slop: -0.1657, Standard Deviation: 1.7537
+Max Gain: 0.0000, Max Loss -1.4900
+2014-12-22   2014-12-23
+Trend Up
+Max: 31.0100, Min: 30.7400, Avg: 30.8750
+Slop: 0.0300, Standard Deviation: 0.0576
+Max Gain: 0.2700, Max Loss 0.0000
+2014-12-23   2014-12-24
+Trend Down
+Max: 31.0100, Min: 28.2000, Avg: 29.6050
+Slop: -0.3125, Standard Deviation: 6.2374
+Max Gain: 0.0000, Max Loss -2.8100
+2014-12-24   2014-12-25
+Trend Up
+Max: 29.2000, Min: 28.2000, Avg: 28.7000
+Slop: 0.1112, Standard Deviation: 0.7899
+Max Gain: 1.0000, Max Loss 0.0000
+Request http://www.quandl.com/api/v1/datasets/YAHOO/SS_600030.csv?&trim_start=2013-1-1&trim_end=2014-12-27&sort_order=asc&auth_token=VyrhmHKJ18XpKy2mcviN
+Stock: not a valid content!
+No such stock symbol: SS_600030
+Request http://www.quandl.com/api/v1/datasets/YAHOO/SS_600030.csv?&trim_start=2013-1-1&trim_end=2014-12-27&sort_order=asc&auth_token=VyrhmHKJ18XpKy2mcviN

@@ -19,6 +19,8 @@ public:
 
 	static double getSDDiff(const PeriodItem& item1, const PeriodItem& item2);
 
+	static double getFluctuationDiff(const PeriodItem& item1, const PeriodItem& item2);
+
 	PeriodItem();
 	explicit PeriodItem(float ratio);
 	~PeriodItem();
@@ -46,6 +48,8 @@ public:
 
 	double m_avgSlope;
 	double m_slopSD;	   //Standard Deviation
+
+	double m_fluctuation;
 
 	double m_maxGain;
 	double m_maxLoss;
@@ -75,7 +79,7 @@ private:
 
 	void mergePeriods(const std::vector<double>& datas, unsigned int size, PeriodItemVec& prdItems);
 
-	void mergeSimilarPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems, double minSlopDiff, double minSDDiff);
+	void mergeSimilarPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems, double minSlopDiff, double minFluDiff);
 
 	void removeInvalides(PeriodItemVec& prdItems);
 

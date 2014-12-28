@@ -11,7 +11,7 @@ double PeriodItem::getSlopDiff(const PeriodItem& item1, const PeriodItem& item2)
 	if((item1.m_avgSlope > 0.0 && item2.m_avgSlope < 0.0)
 		|| (item1.m_avgSlope < 0.0 && item2.m_avgSlope > 0.0))
 	{
-		return abs(item1.m_avgSlope - item2.m_avgSlope) * 2.5;
+		return abs(item1.m_avgSlope - item2.m_avgSlope) * 2.0;
 	}
 	return abs(item1.m_avgSlope - item2.m_avgSlope);
 }
@@ -19,6 +19,11 @@ double PeriodItem::getSlopDiff(const PeriodItem& item1, const PeriodItem& item2)
 double PeriodItem::getSDDiff(const PeriodItem& item1, const PeriodItem& item2)
 {
 	return MathUtil::difference(item1.m_slopSD, item2.m_slopSD);
+}
+
+double PeriodItem::getFluctuationDiff(const PeriodItem& item1, const PeriodItem& item2)
+{
+	return MathUtil::difference(item1.m_fluctuation, item2.m_fluctuation);
 }
 
 PeriodItem::PeriodItem(float ratio)
@@ -62,11 +67,12 @@ void PeriodItem::initResult()
 {
 	m_max = 0;
 	m_min = 99999999999;
-	m_avg = 0;
-	m_avgSlope = 0;
-	m_slopSD = 0;
-	m_maxGain = 0;
-	m_maxLoss = 0;
+	m_avg = 0.0;
+	m_avgSlope = 0.0;
+	m_slopSD = 0.0;
+	m_maxGain = 0.0;
+	m_maxLoss = 0.0;
+	m_fluctuation = 0.0;
 }
 
 void PeriodItem::compute(const std::vector<double>& datas)
@@ -112,21 +118,23 @@ void PeriodItem::computeTrend(const std::vector<double>& datas)
 		m_period = E_PRD_DOWN;
 	}
 
+	double increase = 0.0;
 	for(unsigned int i = m_startIndex; i < m_endIndex; ++i)
 	{
 		double x = (datas[i + 1] - datas[i]);
 
-		m_slopSD = m_slopSD + (x - m_avgSlope) * (x - m_avgSlope);
-
 		if(x > 0.0f)
 		{
 			m_maxGain += x;
+			++increase;
 		}
 		else
 		{
 			m_maxLoss += x;
 		}
 	}
+
+	m_fluctuation = increase / (m_endIndex - m_startIndex);
 }
 
 void PeriodItem::print(const Stock& stocks, int offset)
@@ -181,6 +189,8 @@ void TrendAnalyse::analysisPeriods( const std::vector<double>& datas, PeriodItem
 
 	initPeriods(datas, prdItems);
 	mergePeriods(datas, 20, prdItems);
+
+	int j = 0;
 }
 
 void TrendAnalyse::initPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems)
@@ -255,7 +265,9 @@ void TrendAnalyse::mergePeriods(const std::vector<double>& datas, unsigned int s
 	}
 
 	
-	double a = 0.4f;
+	double a = 0.3f;
+	double b = 0.6f;
+	bool swither = false;
 	while(prdItems.size() > size)
 	{
 		auto unmergeSize = prdItems.size();
@@ -263,16 +275,44 @@ void TrendAnalyse::mergePeriods(const std::vector<double>& datas, unsigned int s
 		double avgSlop = getAvgSlops(prdItems);
 		double avgSD = getAvgStandardDeviation(prdItems);
 
-		mergeSimilarPeriods(datas, prdItems, avgSlop * a, avgSD * 1.2);
-		
-		unmergeSize == prdItems.size() ? a += 0.1f : a = 0.6f;
+		mergeSimilarPeriods(datas, prdItems, avgSlop * a, avgSD * b);
+
+		if(unmergeSize == prdItems.size())
+		{
+			if(a < 0.8)
+			{
+				swither = false;
+				a += 0.1;
+			}
+			else
+			{
+				if(swither)
+				{
+					b += 0.1f;
+					swither = false;
+				}
+				else
+				{
+					a += 0.1f;
+					swither = true;
+				}
+			}
+		}
+		else
+		{
+
+			Log("Merge: from %d to %d, a %.4f, b %.4f", unmergeSize, prdItems.size(), a, b);
+			a = 0.4f;
+			b = 0.6f;
+			swither = false;
+		}
 
 	}
 
 	int j  =0 ;
 }
 
-void TrendAnalyse::mergeSimilarPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems, double minSlopDiff, double minSDDiff)
+void TrendAnalyse::mergeSimilarPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems, double minSlopDiff, double minFluDiff)
 {
 	if(prdItems.empty())
 	{
@@ -288,9 +328,9 @@ void TrendAnalyse::mergeSimilarPeriods(const std::vector<double>& datas, PeriodI
 		int merge = 0; //0: not merge  1: merge front 2: merge next
 
 		double diffSlopPre = PeriodItem::getSlopDiff(*iterPre, *iter);
-		double diffSDPre = PeriodItem::getSDDiff(*iterPre, *iter);
+		double diffFluPre = PeriodItem::getFluctuationDiff(*iterPre, *iter);
 		
-		if(diffSlopPre <= minSlopDiff && diffSDPre <= minSDDiff)
+		if(diffSlopPre <= minSlopDiff)// && diffFluPre <= minFluDiff)
 		{
 			merge = 1;
 		}
@@ -298,9 +338,9 @@ void TrendAnalyse::mergeSimilarPeriods(const std::vector<double>& datas, PeriodI
 		if(iterNext != prdItems.end())
 		{
 			double diffSlopNext = PeriodItem::getSlopDiff(*iter, *iterNext);
-			double diffSDNext = PeriodItem::getSDDiff(*iter, *iterNext);
-			if((merge == 0 && diffSlopNext <= minSlopDiff && diffSDNext <= minSDDiff)
-				|| (merge == 1 && diffSlopNext <= diffSlopPre && diffSDNext <= diffSDPre))
+			double diffFluNext = PeriodItem::getFluctuationDiff(*iter, *iterNext);
+			if((merge == 0 && diffSlopNext <= minSlopDiff)// && diffFluNext <= minFluDiff)
+				|| (merge == 1 && diffSlopNext < diffSlopPre))// && diffFluNext < diffFluPre))
 			{
 				merge = 2;
 			}

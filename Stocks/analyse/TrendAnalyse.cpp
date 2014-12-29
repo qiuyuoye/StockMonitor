@@ -11,7 +11,7 @@ double PeriodItem::getSlopDiff(const PeriodItem& item1, const PeriodItem& item2)
 	if((item1.m_avgSlope > 0.0 && item2.m_avgSlope < 0.0)
 		|| (item1.m_avgSlope < 0.0 && item2.m_avgSlope > 0.0))
 	{
-		return abs(item1.m_avgSlope - item2.m_avgSlope) * 2.0;
+		return abs(item1.m_avgSlope - item2.m_avgSlope) * 1.1;
 	}
 	return abs(item1.m_avgSlope - item2.m_avgSlope);
 }
@@ -149,6 +149,8 @@ void PeriodItem::print(const Stock& stocks, int offset)
 	
 }
 
+static const Stock* s_pStock = NULL;
+
 TrendAnalyse::TrendAnalyse(void)
 {
 }
@@ -160,6 +162,8 @@ TrendAnalyse::~TrendAnalyse(void)
 
 void TrendAnalyse::onAnalyse( const Stock* pStock )
 {
+	s_pStock = pStock;
+
 	vector<double> adjCloseVec;
 	pStock->getAllAdjustClose(adjCloseVec, 311);
 
@@ -176,7 +180,7 @@ void TrendAnalyse::onAnalyse( const Stock* pStock )
 
 void TrendAnalyse::printResult( const Stock* pStock )
 {
-
+	s_pStock = NULL;
 }
 
 void TrendAnalyse::analysisPeriods( const std::vector<double>& datas, PeriodItemVec& prdItems )
@@ -302,9 +306,17 @@ void TrendAnalyse::mergePeriods(const std::vector<double>& datas, unsigned int s
 		{
 
 			Log("Merge: from %d to %d, a %.4f, b %.4f", unmergeSize, prdItems.size(), a, b);
-			a = 0.4f;
-			b = 0.6f;
+			a = 0.2f;
+			b = 0.4f;
 			swither = false;
+
+			if(prdItems.size() == 29)
+			{
+				for(auto iter = prdItems.begin(); iter != prdItems.end(); ++iter)
+				{
+					iter->print(*s_pStock, 311);
+				}
+			}
 		}
 
 	}

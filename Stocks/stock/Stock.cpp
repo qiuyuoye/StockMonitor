@@ -316,7 +316,7 @@ static void getIterators(const ItemVec& items, int start, int size, ItemVec::con
 	}
 }
 
-void Stock::getOpens(std::vector<double>& datas, int start /*= 0*/, int size /*= -1*/) const
+void Stock::getAllOpens(std::vector<double>& datas, int start /*= 0*/, int size /*= -1*/) const
 {
 	datas.clear();
 
@@ -397,5 +397,30 @@ void Stock::getAllAdjustClose( std::vector<double>& datas, int start /*= 0*/, in
 	for(auto iter = iterBegin; iter != iterEnd; ++iter)
 	{
 		datas.push_back(iter->adjClose);
+	}
+}
+
+void Stock::getDatasByIndex(std::vector<double>& datas, IndexType idxType, int start /*= 0*/, int size /*= -1*/) const
+{
+	switch(idxType)
+	{
+	case E_OPEN:
+		getAllOpens(datas, start, size);
+		break;
+	case E_HIGH:
+		getAllHigh(datas, start, size);
+		break;
+	case E_LOW:
+		getAllLow(datas, start, size);
+		break;
+	case E_CLOSE:
+		getAllClose(datas, start, size);
+		break;
+	case E_VOLUME:
+		getAllVolumn(datas, start, size);
+		break;
+	case E_ADJ_CLOSE:
+		getAllAdjustClose(datas, start, size);
+		break;
 	}
 }

@@ -6,14 +6,17 @@
 class __declspec(dllexport) Analyse
 {
 public:
-	Analyse(void);
+	explicit Analyse(StockCPtr stockPtr);
 	~Analyse(void);
 
-	void analyse(const Stock* pStock);
+	void analyse();
 
 protected:
-	virtual void onAnalyse(const Stock* pStock){};
+	virtual void onAnalyse(){};
 
-	virtual void printResult(const Stock* pStock){};
+	virtual void printResult(){};
+
+	StockCPtr m_stockPtr;
+	
 };
 

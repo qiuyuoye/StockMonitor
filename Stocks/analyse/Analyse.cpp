@@ -2,7 +2,8 @@
 #include "Analyse.h"
 
 
-Analyse::Analyse(void)
+Analyse::Analyse(StockCPtr stockPtr)
+	:m_stockPtr(stockPtr)
 {
 }
 
@@ -11,8 +12,8 @@ Analyse::~Analyse(void)
 {
 }
 
-void Analyse::analyse(const Stock* pStock)
+void Analyse::analyse()
 {
-	onAnalyse(pStock);
-	printResult(pStock);
+	onAnalyse();
+	printResult();
 }

@@ -19,6 +19,17 @@ typedef __declspec(dllexport) struct
 
 typedef std::vector<StockItem> ItemVec;
 
+enum IndexType
+{
+	E_OPEN,
+	E_HIGH,
+	E_LOW,
+	E_CLOSE,
+	E_ADJ_CLOSE,
+	E_VOLUME,
+};
+
+
 #pragma warning(disable: 4251)
 class __declspec(dllexport) Stock
 {
@@ -30,7 +41,9 @@ public:
 
 	void save();
 
-	void getOpens(std::vector<double>& datas, int start = 0, int size = -1) const;
+	void getDatasByIndex(std::vector<double>& datas, IndexType idxType, int start = 0, int size = -1) const;
+
+	void getAllOpens(std::vector<double>& datas, int start = 0, int size = -1) const;
 
 	void getAllHigh(std::vector<double>& datas, int start = 0, int size = -1) const;
 
@@ -90,3 +103,4 @@ private:
 	bool m_vaild;
 };
 
+typedef std::shared_ptr<const Stock> StockCPtr;

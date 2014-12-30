@@ -13233,3 +13233,2290 @@ Merge: from 70 to 69, a 0.2000, b 0.4000
 Merge: from 69 to 53, a 0.4000, b 0.4000
 Merge: from 53 to 52, a 0.3000, b 0.4000
 Merge: from 52 to 51, a 0.2000, b 0.4000
+Merge: from 106 to 85, a 0.3000, b 0.6000
+Merge: from 85 to 84, a 0.2000, b 0.4000
+Merge: from 84 to 76, a 0.3000, b 0.4000
+Merge: from 76 to 74, a 0.2000, b 0.4000
+Merge: from 74 to 71, a 0.3000, b 0.4000
+Merge: from 71 to 70, a 0.3000, b 0.4000
+Merge: from 70 to 69, a 0.2000, b 0.4000
+Merge: from 69 to 53, a 0.4000, b 0.4000
+Merge: from 53 to 52, a 0.3000, b 0.4000
+Merge: from 52 to 51, a 0.2000, b 0.4000
+Merge: from 106 to 54, a 0.0500,
+Merge: from 54 to 33, a 0.0500,
+Merge: from 33 to 23, a 0.0500,
+Merge: from 23 to 18, a 0.0500,
+2014-3-14   2014-3-27
+Trend Up
+Max: 10.6500, Min: 9.9500, Avg: 10.3070
+Slop: 0.0038, Standard Deviation: 0.0217
+Max Gain: 0.7400, Max Loss -0.4400
+2014-3-27   2014-4-2
+Trend Up
+Max: 10.6700, Min: 10.4200, Avg: 10.5340
+Slop: 0.0068, Standard Deviation: 0.0133
+Max Gain: 0.3700, Max Loss -0.1300
+2014-4-2   2014-4-7
+Trend Up
+Max: 10.8000, Min: 10.6700, Avg: 10.7350
+Slop: 0.0049, Standard Deviation: 0.0070
+Max Gain: 0.1300, Max Loss 0.0000
+2014-4-7   2014-4-9
+Trend Up
+Max: 11.1500, Min: 10.8000, Avg: 11.0100
+Slop: 0.0160, Standard Deviation: 0.0239
+Max Gain: 0.3500, Max Loss -0.0700
+2014-4-9   2014-4-10
+Trend Up
+Max: 12.1500, Min: 11.0800, Avg: 11.6150
+Slop: 0.1220, Standard Deviation: 0.0000
+Max Gain: 1.0700, Max Loss 0.0000
+2014-4-10   2014-5-14
+Trend Down
+Max: 12.1500, Min: 11.0600, Avg: 11.5052
+Slop: -0.0017, Standard Deviation: 0.0209
+Max Gain: 1.2800, Max Loss -1.6300
+2014-5-14   2014-5-19
+Trend Down
+Max: 11.8000, Min: 10.9500, Avg: 11.3700
+Slop: -0.0323, Standard Deviation: 0.0011
+Max Gain: 0.0000, Max Loss -0.8500
+2014-5-19   2014-6-25
+Trend Up
+Max: 11.5300, Min: 10.9500, Avg: 11.2146
+Slop: 0.0008, Standard Deviation: 0.0161
+Max Gain: 1.6800, Max Loss -1.4800
+2014-6-25   2014-7-14
+Trend Up
+Max: 11.5900, Min: 11.1500, Avg: 11.3486
+Slop: 0.0039, Standard Deviation: 0.0091
+Max Gain: 0.6500, Max Loss -0.2100
+2014-7-14   2014-7-21
+Trend Up
+Max: 11.7300, Min: 11.5500, Avg: 11.6083
+Slop: 0.0011, Standard Deviation: 0.0095
+Max Gain: 0.1800, Max Loss -0.1300
+2014-7-21   2014-7-28
+Trend Up
+Max: 13.0800, Min: 11.6400, Avg: 12.2517
+Slop: 0.0328, Standard Deviation: 0.0181
+Max Gain: 1.4400, Max Loss 0.0000
+2014-7-28   2014-8-4
+Trend Up
+Max: 13.4700, Min: 12.7000, Avg: 13.0300
+Slop: 0.0089, Standard Deviation: 0.0430
+Max Gain: 0.9100, Max Loss -0.5200
+2014-8-4   2014-11-6
+Trend Down
+Max: 13.6300, Min: 12.3300, Avg: 13.1423
+Slop: -0.0005, Standard Deviation: 0.0207
+Max Gain: 4.6500, Max Loss -4.9400
+2014-11-6   2014-11-12
+Trend Up
+Max: 15.3800, Min: 13.1800, Avg: 14.1140
+Slop: 0.0627, Standard Deviation: 0.0406
+Max Gain: 2.2000, Max Loss 0.0000
+2014-11-12   2014-11-24
+Trend Up
+Max: 16.5400, Min: 14.4000, Avg: 15.1600
+Slop: 0.0165, Standard Deviation: 0.0615
+Max Gain: 2.4600, Max Loss -1.3000
+2014-11-24   2014-11-28
+Trend Up
+Max: 17.5100, Min: 16.4600, Avg: 16.9580
+Slop: 0.0205, Standard Deviation: 0.0400
+Max Gain: 1.0500, Max Loss -0.3300
+2014-11-28   2014-12-10
+Trend Up
+Max: 27.2700, Min: 17.2600, Avg: 21.8100
+Slop: 0.1426, Standard Deviation: 0.0849
+Max Gain: 10.0100, Max Loss 0.0000
+2014-12-10   2014-12-18
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 28.3957
+Slop: 0.0849, Standard Deviation: 0.2260
+Max Gain: 8.0400, Max Loss -3.5700
+Merge: from 106 to 54, a 0.0500,
+Merge: from 54 to 33, a 0.0500,
+Merge: from 33 to 23, a 0.0500,
+Merge: from 23 to 18, a 0.0500,
+2014-3-14   2014-3-27
+Trend Up
+Max: 10.6500, Min: 9.9500, Avg: 10.3070
+Slop: 0.0038, Standard Deviation: 0.0217
+Max Gain: 0.7400, Max Loss -0.4400
+2014-3-27   2014-4-2
+Trend Up
+Max: 10.6700, Min: 10.4200, Avg: 10.5340
+Slop: 0.0068, Standard Deviation: 0.0133
+Max Gain: 0.3700, Max Loss -0.1300
+2014-4-2   2014-4-7
+Trend Up
+Max: 10.8000, Min: 10.6700, Avg: 10.7350
+Slop: 0.0049, Standard Deviation: 0.0070
+Max Gain: 0.1300, Max Loss 0.0000
+2014-4-7   2014-4-9
+Trend Up
+Max: 11.1500, Min: 10.8000, Avg: 11.0100
+Slop: 0.0160, Standard Deviation: 0.0239
+Max Gain: 0.3500, Max Loss -0.0700
+2014-4-9   2014-4-10
+Trend Up
+Max: 12.1500, Min: 11.0800, Avg: 11.6150
+Slop: 0.1220, Standard Deviation: 0.0000
+Max Gain: 1.0700, Max Loss 0.0000
+2014-4-10   2014-5-14
+Trend Down
+Max: 12.1500, Min: 11.0600, Avg: 11.5052
+Slop: -0.0017, Standard Deviation: 0.0209
+Max Gain: 1.2800, Max Loss -1.6300
+2014-5-14   2014-5-19
+Trend Down
+Max: 11.8000, Min: 10.9500, Avg: 11.3700
+Slop: -0.0323, Standard Deviation: 0.0011
+Max Gain: 0.0000, Max Loss -0.8500
+2014-5-19   2014-6-25
+Trend Up
+Max: 11.5300, Min: 10.9500, Avg: 11.2146
+Slop: 0.0008, Standard Deviation: 0.0161
+Max Gain: 1.6800, Max Loss -1.4800
+2014-6-25   2014-7-14
+Trend Up
+Max: 11.5900, Min: 11.1500, Avg: 11.3486
+Slop: 0.0039, Standard Deviation: 0.0091
+Max Gain: 0.6500, Max Loss -0.2100
+2014-7-14   2014-7-21
+Trend Up
+Max: 11.7300, Min: 11.5500, Avg: 11.6083
+Slop: 0.0011, Standard Deviation: 0.0095
+Max Gain: 0.1800, Max Loss -0.1300
+2014-7-21   2014-7-28
+Trend Up
+Max: 13.0800, Min: 11.6400, Avg: 12.2517
+Slop: 0.0328, Standard Deviation: 0.0181
+Max Gain: 1.4400, Max Loss 0.0000
+2014-7-28   2014-8-4
+Trend Up
+Max: 13.4700, Min: 12.7000, Avg: 13.0300
+Slop: 0.0089, Standard Deviation: 0.0430
+Max Gain: 0.9100, Max Loss -0.5200
+2014-8-4   2014-11-6
+Trend Down
+Max: 13.6300, Min: 12.3300, Avg: 13.1423
+Slop: -0.0005, Standard Deviation: 0.0207
+Max Gain: 4.6500, Max Loss -4.9400
+2014-11-6   2014-11-12
+Trend Up
+Max: 15.3800, Min: 13.1800, Avg: 14.1140
+Slop: 0.0627, Standard Deviation: 0.0406
+Max Gain: 2.2000, Max Loss 0.0000
+2014-11-12   2014-11-24
+Trend Up
+Max: 16.5400, Min: 14.4000, Avg: 15.1600
+Slop: 0.0165, Standard Deviation: 0.0615
+Max Gain: 2.4600, Max Loss -1.3000
+2014-11-24   2014-11-28
+Trend Up
+Max: 17.5100, Min: 16.4600, Avg: 16.9580
+Slop: 0.0205, Standard Deviation: 0.0400
+Max Gain: 1.0500, Max Loss -0.3300
+2014-11-28   2014-12-10
+Trend Up
+Max: 27.2700, Min: 17.2600, Avg: 21.8100
+Slop: 0.1426, Standard Deviation: 0.0849
+Max Gain: 10.0100, Max Loss 0.0000
+2014-12-10   2014-12-18
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 28.3957
+Slop: 0.0849, Standard Deviation: 0.2260
+Max Gain: 8.0400, Max Loss -3.5700
+Merge: from 106 to 51, a 0.2000,
+Merge: from 51 to 30, a 0.2000,
+Merge: from 30 to 20, a 0.2000,
+2014-3-14   2014-4-7
+Trend Up
+Max: 10.8000, Min: 9.9500, Avg: 10.4459
+Slop: 0.0048, Standard Deviation: 0.0179
+Max Gain: 1.2400, Max Loss -0.5700
+2014-4-7   2014-4-9
+Trend Up
+Max: 11.1500, Min: 10.8000, Avg: 11.0100
+Slop: 0.0160, Standard Deviation: 0.0239
+Max Gain: 0.3500, Max Loss -0.0700
+2014-4-9   2014-4-10
+Trend Up
+Max: 12.1500, Min: 11.0800, Avg: 11.6150
+Slop: 0.1220, Standard Deviation: 0.0000
+Max Gain: 1.0700, Max Loss 0.0000
+2014-4-10   2014-4-21
+Trend Down
+Max: 12.1500, Min: 11.2800, Avg: 11.7738
+Slop: -0.0142, Standard Deviation: 0.0242
+Max Gain: 0.1500, Max Loss -1.0200
+2014-4-21   2014-5-7
+Trend Up
+Max: 11.4100, Min: 11.0600, Avg: 11.2754
+Slop: 0.0001, Standard Deviation: 0.0129
+Max Gain: 0.4900, Max Loss -0.4800
+2014-5-7   2014-5-14
+Trend Up
+Max: 11.8600, Min: 11.2900, Avg: 11.5717
+Slop: 0.0116, Standard Deviation: 0.0216
+Max Gain: 0.6400, Max Loss -0.1300
+2014-5-14   2014-5-19
+Trend Down
+Max: 11.8000, Min: 10.9500, Avg: 11.3700
+Slop: -0.0323, Standard Deviation: 0.0011
+Max Gain: 0.0000, Max Loss -0.8500
+2014-5-19   2014-5-28
+Trend Up
+Max: 11.3600, Min: 10.9500, Avg: 11.1588
+Slop: 0.0067, Standard Deviation: 0.0168
+Max Gain: 0.6700, Max Loss -0.2600
+2014-5-28   2014-7-10
+Trend Down
+Max: 11.5300, Min: 11.0700, Avg: 11.2766
+Slop: -0.0003, Standard Deviation: 0.0131
+Max Gain: 1.3500, Max Loss -1.4300
+2014-7-10   2014-7-14
+Trend Up
+Max: 11.5900, Min: 11.2800, Avg: 11.4200
+Slop: 0.0177, Standard Deviation: 0.0051
+Max Gain: 0.3100, Max Loss 0.0000
+2014-7-14   2014-7-21
+Trend Up
+Max: 11.7300, Min: 11.5500, Avg: 11.6083
+Slop: 0.0011, Standard Deviation: 0.0095
+Max Gain: 0.1800, Max Loss -0.1300
+2014-7-21   2014-7-28
+Trend Up
+Max: 13.0800, Min: 11.6400, Avg: 12.2517
+Slop: 0.0328, Standard Deviation: 0.0181
+Max Gain: 1.4400, Max Loss 0.0000
+2014-7-28   2014-8-8
+Trend Down
+Max: 13.4700, Min: 12.7000, Avg: 13.0680
+Slop: -0.0019, Standard Deviation: 0.0364
+Max Gain: 0.9500, Max Loss -1.1000
+2014-8-8   2014-8-21
+Trend Down
+Max: 13.3200, Min: 12.8500, Avg: 13.1290
+Slop: -0.0010, Standard Deviation: 0.0217
+Max Gain: 0.7200, Max Loss -0.8000
+2014-8-21   2014-9-24
+Trend Up
+Max: 13.6300, Min: 12.6200, Avg: 13.1056
+Slop: 0.0030, Standard Deviation: 0.0218
+Max Gain: 2.1200, Max Loss -1.4800
+2014-9-24   2014-11-6
+Trend Down
+Max: 13.4900, Min: 12.3300, Avg: 13.1622
+Slop: -0.0011, Standard Deviation: 0.0187
+Max Gain: 1.7700, Max Loss -2.0800
+2014-11-6   2014-11-12
+Trend Up
+Max: 15.3800, Min: 13.1800, Avg: 14.1140
+Slop: 0.0627, Standard Deviation: 0.0406
+Max Gain: 2.2000, Max Loss 0.0000
+2014-11-12   2014-11-28
+Trend Up
+Max: 17.5100, Min: 14.4000, Avg: 15.7454
+Slop: 0.0179, Standard Deviation: 0.0553
+Max Gain: 3.5100, Max Loss -1.6300
+2014-11-28   2014-12-10
+Trend Up
+Max: 27.2700, Min: 17.2600, Avg: 21.8100
+Slop: 0.1426, Standard Deviation: 0.0849
+Max Gain: 10.0100, Max Loss 0.0000
+2014-12-10   2014-12-18
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 28.3957
+Slop: 0.0849, Standard Deviation: 0.2260
+Max Gain: 8.0400, Max Loss -3.5700
+Merge: from 106 to 99, a 0.2000,
+Merge: from 99 to 98, a 0.2000,
+Merge: from 98 to 97, a 0.2000,
+Merge: from 97 to 95, a 0.2000,
+No changes. Try again.
+Merge: from 95 to 87, a 0.2500,
+No changes. Try again.
+Merge: from 87 to 83, a 0.2500,
+Merge: from 83 to 81, a 0.2000,
+No changes. Try again.
+Merge: from 81 to 78, a 0.2500,
+No changes. Try again.
+No changes. Try again.
+Merge: from 78 to 73, a 0.3000,
+No changes. Try again.
+Merge: from 73 to 72, a 0.2500,
+Merge: from 72 to 71, a 0.2000,
+No changes. Try again.
+No changes. Try again.
+Merge: from 71 to 69, a 0.3000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 69 to 56, a 0.3500,
+No changes. Try again.
+No changes. Try again.
+Merge: from 56 to 55, a 0.3000,
+Merge: from 55 to 54, a 0.2000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 54 to 49, a 0.3500,
+Merge: from 49 to 48, a 0.2000,
+Merge: from 48 to 47, a 0.2000,
+Merge: from 47 to 46, a 0.2000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 46 to 41, a 0.3500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 41 to 38, a 0.3500,
+No changes. Try again.
+Merge: from 38 to 37, a 0.2500,
+No changes. Try again.
+Merge: from 37 to 36, a 0.2500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 36 to 33, a 0.3500,
+Merge: from 33 to 32, a 0.2000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 32 to 26, a 0.3500,
+Merge: from 26 to 24, a 0.2000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 24 to 17, a 0.3500,
+2014-3-14   2014-4-9
+Trend Up
+Max: 11.1500, Min: 9.9500, Avg: 10.5163
+Slop: 0.0060, Standard Deviation: 0.0190
+Max Gain: 1.5900, Max Loss -0.6400
+2014-4-9   2014-4-10
+Trend Up
+Max: 12.1500, Min: 11.0800, Avg: 11.6150
+Slop: 0.1220, Standard Deviation: 0.0000
+Max Gain: 1.0700, Max Loss 0.0000
+2014-4-10   2014-8-1
+Trend Up
+Max: 13.0800, Min: 10.9500, Avg: 11.5080
+Slop: 0.0008, Standard Deviation: 0.0196
+Max Gain: 5.3700, Max Loss -4.8200
+2014-8-1   2014-8-4
+Trend Up
+Max: 13.4700, Min: 12.7000, Avg: 13.0850
+Slop: 0.0878, Standard Deviation: 0.0000
+Max Gain: 0.7700, Max Loss 0.0000
+2014-8-4   2014-11-6
+Trend Down
+Max: 13.6300, Min: 12.3300, Avg: 13.1423
+Slop: -0.0005, Standard Deviation: 0.0207
+Max Gain: 4.6500, Max Loss -4.9400
+2014-11-6   2014-11-12
+Trend Up
+Max: 15.3800, Min: 13.1800, Avg: 14.1140
+Slop: 0.0627, Standard Deviation: 0.0406
+Max Gain: 2.2000, Max Loss 0.0000
+2014-11-12   2014-11-13
+Trend Down
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: -0.0365, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.3200
+2014-11-13   2014-11-14
+Trend Up
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: 0.0365, Standard Deviation: 0.0000
+Max Gain: 0.3200, Max Loss 0.0000
+2014-11-14   2014-11-19
+Trend Down
+Max: 15.3800, Min: 14.4000, Avg: 14.8225
+Slop: -0.0372, Standard Deviation: 0.0142
+Max Gain: 0.0000, Max Loss -0.9800
+2014-11-19   2014-11-24
+Trend Up
+Max: 16.5400, Min: 14.4000, Avg: 15.2775
+Slop: 0.0813, Standard Deviation: 0.0414
+Max Gain: 2.1400, Max Loss 0.0000
+2014-11-24   2014-11-25
+Trend Down
+Max: 16.5400, Min: 16.4600, Avg: 16.5000
+Slop: -0.0091, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.0800
+2014-11-25   2014-11-27
+Trend Up
+Max: 17.5100, Min: 16.4600, Avg: 16.9967
+Slop: 0.0599, Standard Deviation: 0.0040
+Max Gain: 1.0500, Max Loss 0.0000
+2014-11-27   2014-11-28
+Trend Down
+Max: 17.5100, Min: 17.2600, Avg: 17.3850
+Slop: -0.0285, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.2500
+2014-11-28   2014-12-10
+Trend Up
+Max: 27.2700, Min: 17.2600, Avg: 21.8100
+Slop: 0.1426, Standard Deviation: 0.0849
+Max Gain: 10.0100, Max Loss 0.0000
+2014-12-10   2014-12-11
+Trend Down
+Max: 27.2700, Min: 24.7100, Avg: 25.9900
+Slop: -0.2918, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -2.5600
+2014-12-11   2014-12-17
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 27.9520
+Slop: 0.2291, Standard Deviation: 0.1015
+Max Gain: 8.0400, Max Loss 0.0000
+2014-12-17   2014-12-18
+Trend Down
+Max: 32.7500, Min: 31.7400, Avg: 32.2450
+Slop: -0.1151, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -1.0100
+Merge: from 106 to 99, a 0.2000,
+Merge: from 99 to 98, a 0.2000,
+Merge: from 98 to 97, a 0.2000,
+Merge: from 97 to 96, a 0.2000,
+No changes. Try again.
+Merge: from 96 to 93, a 0.2500,
+No changes. Try again.
+Merge: from 93 to 92, a 0.2500,
+Merge: from 92 to 91, a 0.2000,
+No changes. Try again.
+No changes. Try again.
+Merge: from 91 to 80, a 0.3000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 80 to 77, a 0.3500,
+Merge: from 77 to 76, a 0.2000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 76 to 73, a 0.4000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 73 to 72, a 0.3500,
+No changes. Try again.
+Merge: from 72 to 71, a 0.2500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 71 to 57, a 0.4500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 57 to 56, a 0.4500,
+No changes. Try again.
+Merge: from 56 to 55, a 0.2500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 55 to 51, a 0.5000,
+No changes. Try again.
+No changes. Try again.
+Merge: from 51 to 50, a 0.3000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 50 to 49, a 0.3500,
+No changes. Try again.
+Merge: from 49 to 48, a 0.2500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 48 to 44, a 0.5500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 44 to 41, a 0.6000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 41 to 40, a 0.5500,
+Merge: from 40 to 39, a 0.2000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 39 to 38, a 0.6000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 38 to 37, a 0.4000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 37 to 36, a 0.5000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 36 to 34, a 0.6500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 34 to 30, a 0.7000,
+Merge: from 30 to 29, a 0.2000,
+2014-3-14   2014-3-20
+Trend Down
+Max: 10.1700, Min: 9.9500, Avg: 10.0760
+Slop: -0.0051, Standard Deviation: 0.0062
+Max Gain: 0.0400, Max Loss -0.2200
+2014-3-20   2014-4-9
+Trend Up
+Max: 11.1500, Min: 9.9500, Avg: 10.6253
+Slop: 0.0092, Standard Deviation: 0.0202
+Max Gain: 1.5500, Max Loss -0.4200
+2014-4-9   2014-4-10
+Trend Up
+Max: 12.1500, Min: 11.0800, Avg: 11.6150
+Slop: 0.1220, Standard Deviation: 0.0000
+Max Gain: 1.0700, Max Loss 0.0000
+2014-4-10   2014-4-18
+Trend Down
+Max: 12.1500, Min: 11.5900, Avg: 11.8443
+Slop: -0.0078, Standard Deviation: 0.0200
+Max Gain: 0.1500, Max Loss -0.5600
+2014-4-18   2014-4-21
+Trend Down
+Max: 11.7400, Min: 11.2800, Avg: 11.5100
+Slop: -0.0524, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.4600
+2014-4-21   2014-5-14
+Trend Up
+Max: 11.8600, Min: 11.0600, Avg: 11.3733
+Slop: 0.0035, Standard Deviation: 0.0168
+Max Gain: 1.1300, Max Loss -0.6100
+2014-5-14   2014-5-19
+Trend Down
+Max: 11.8000, Min: 10.9500, Avg: 11.3700
+Slop: -0.0323, Standard Deviation: 0.0011
+Max Gain: 0.0000, Max Loss -0.8500
+2014-5-19   2014-7-31
+Trend Up
+Max: 13.0800, Min: 10.9500, Avg: 11.4926
+Slop: 0.0045, Standard Deviation: 0.0169
+Max Gain: 4.0900, Max Loss -2.0100
+2014-7-31   2014-8-1
+Trend Down
+Max: 13.0300, Min: 12.7000, Avg: 12.8650
+Slop: -0.0376, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.3300
+2014-8-1   2014-8-4
+Trend Up
+Max: 13.4700, Min: 12.7000, Avg: 13.0850
+Slop: 0.0878, Standard Deviation: 0.0000
+Max Gain: 0.7700, Max Loss 0.0000
+2014-8-4   2014-8-8
+Trend Down
+Max: 13.4700, Min: 12.9300, Avg: 13.1940
+Slop: -0.0154, Standard Deviation: 0.0185
+Max Gain: 0.0400, Max Loss -0.5800
+2014-8-8   2014-8-11
+Trend Up
+Max: 13.2200, Min: 12.9300, Avg: 13.0750
+Slop: 0.0331, Standard Deviation: 0.0000
+Max Gain: 0.2900, Max Loss 0.0000
+2014-8-11   2014-9-22
+Trend Down
+Max: 13.6300, Min: 12.6200, Avg: 13.1165
+Slop: -0.0014, Standard Deviation: 0.0197
+Max Gain: 1.9000, Max Loss -2.2800
+2014-9-22   2014-9-24
+Trend Up
+Max: 13.4900, Min: 12.8400, Avg: 13.1267
+Slop: 0.0371, Standard Deviation: 0.0131
+Max Gain: 0.6500, Max Loss 0.0000
+2014-9-24   2014-10-14
+Trend Down
+Max: 13.4900, Min: 12.9800, Avg: 13.2967
+Slop: -0.0042, Standard Deviation: 0.0092
+Max Gain: 0.1800, Max Loss -0.6900
+2014-10-14   2014-10-15
+Trend Up
+Max: 13.3400, Min: 12.9800, Avg: 13.1600
+Slop: 0.0410, Standard Deviation: 0.0000
+Max Gain: 0.3600, Max Loss 0.0000
+2014-10-15   2014-11-6
+Trend Down
+Max: 13.3400, Min: 12.3300, Avg: 13.0435
+Slop: -0.0011, Standard Deviation: 0.0221
+Max Gain: 1.2300, Max Loss -1.3900
+2014-11-6   2014-11-12
+Trend Up
+Max: 15.3800, Min: 13.1800, Avg: 14.1140
+Slop: 0.0627, Standard Deviation: 0.0406
+Max Gain: 2.2000, Max Loss 0.0000
+2014-11-12   2014-11-13
+Trend Down
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: -0.0365, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.3200
+2014-11-13   2014-11-14
+Trend Up
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: 0.0365, Standard Deviation: 0.0000
+Max Gain: 0.3200, Max Loss 0.0000
+2014-11-14   2014-11-19
+Trend Down
+Max: 15.3800, Min: 14.4000, Avg: 14.8225
+Slop: -0.0372, Standard Deviation: 0.0142
+Max Gain: 0.0000, Max Loss -0.9800
+2014-11-19   2014-11-24
+Trend Up
+Max: 16.5400, Min: 14.4000, Avg: 15.2775
+Slop: 0.0813, Standard Deviation: 0.0414
+Max Gain: 2.1400, Max Loss 0.0000
+2014-11-24   2014-11-25
+Trend Down
+Max: 16.5400, Min: 16.4600, Avg: 16.5000
+Slop: -0.0091, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.0800
+2014-11-25   2014-11-27
+Trend Up
+Max: 17.5100, Min: 16.4600, Avg: 16.9967
+Slop: 0.0599, Standard Deviation: 0.0040
+Max Gain: 1.0500, Max Loss 0.0000
+2014-11-27   2014-11-28
+Trend Down
+Max: 17.5100, Min: 17.2600, Avg: 17.3850
+Slop: -0.0285, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.2500
+2014-11-28   2014-12-10
+Trend Up
+Max: 27.2700, Min: 17.2600, Avg: 21.8100
+Slop: 0.1426, Standard Deviation: 0.0849
+Max Gain: 10.0100, Max Loss 0.0000
+2014-12-10   2014-12-11
+Trend Down
+Max: 27.2700, Min: 24.7100, Avg: 25.9900
+Slop: -0.2918, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -2.5600
+2014-12-11   2014-12-17
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 27.9520
+Slop: 0.2291, Standard Deviation: 0.1015
+Max Gain: 8.0400, Max Loss 0.0000
+2014-12-17   2014-12-18
+Trend Down
+Max: 32.7500, Min: 31.7400, Avg: 32.2450
+Slop: -0.1151, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -1.0100
+No changes. Try again.
+No changes. Try again.
+Merge: from 29 to 28, a 0.3000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 28 to 27, a 0.7000,
+No changes. Try again.
+No changes. Try again.
+Merge: from 27 to 26, a 0.3000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 26 to 24, a 0.7500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 24 to 19, a 0.8000,
+2014-3-14   2014-4-9
+Trend Up
+Max: 11.1500, Min: 9.9500, Avg: 10.5163
+Slop: 0.0060, Standard Deviation: 0.0190
+Max Gain: 1.5900, Max Loss -0.6400
+2014-4-9   2014-4-10
+Trend Up
+Max: 12.1500, Min: 11.0800, Avg: 11.6150
+Slop: 0.1220, Standard Deviation: 0.0000
+Max Gain: 1.0700, Max Loss 0.0000
+2014-4-10   2014-8-1
+Trend Up
+Max: 13.0800, Min: 10.9500, Avg: 11.5080
+Slop: 0.0008, Standard Deviation: 0.0196
+Max Gain: 5.3700, Max Loss -4.8200
+2014-8-1   2014-8-4
+Trend Up
+Max: 13.4700, Min: 12.7000, Avg: 13.0850
+Slop: 0.0878, Standard Deviation: 0.0000
+Max Gain: 0.7700, Max Loss 0.0000
+2014-8-4   2014-10-14
+Trend Down
+Max: 13.6300, Min: 12.6200, Avg: 13.1746
+Slop: -0.0011, Standard Deviation: 0.0196
+Max Gain: 3.0600, Max Loss -3.5500
+2014-10-14   2014-10-15
+Trend Up
+Max: 13.3400, Min: 12.9800, Avg: 13.1600
+Slop: 0.0410, Standard Deviation: 0.0000
+Max Gain: 0.3600, Max Loss 0.0000
+2014-10-15   2014-11-6
+Trend Down
+Max: 13.3400, Min: 12.3300, Avg: 13.0435
+Slop: -0.0011, Standard Deviation: 0.0221
+Max Gain: 1.2300, Max Loss -1.3900
+2014-11-6   2014-11-12
+Trend Up
+Max: 15.3800, Min: 13.1800, Avg: 14.1140
+Slop: 0.0627, Standard Deviation: 0.0406
+Max Gain: 2.2000, Max Loss 0.0000
+2014-11-12   2014-11-13
+Trend Down
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: -0.0365, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.3200
+2014-11-13   2014-11-14
+Trend Up
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: 0.0365, Standard Deviation: 0.0000
+Max Gain: 0.3200, Max Loss 0.0000
+2014-11-14   2014-11-19
+Trend Down
+Max: 15.3800, Min: 14.4000, Avg: 14.8225
+Slop: -0.0372, Standard Deviation: 0.0142
+Max Gain: 0.0000, Max Loss -0.9800
+2014-11-19   2014-11-24
+Trend Up
+Max: 16.5400, Min: 14.4000, Avg: 15.2775
+Slop: 0.0813, Standard Deviation: 0.0414
+Max Gain: 2.1400, Max Loss 0.0000
+2014-11-24   2014-11-25
+Trend Down
+Max: 16.5400, Min: 16.4600, Avg: 16.5000
+Slop: -0.0091, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.0800
+2014-11-25   2014-11-27
+Trend Up
+Max: 17.5100, Min: 16.4600, Avg: 16.9967
+Slop: 0.0599, Standard Deviation: 0.0040
+Max Gain: 1.0500, Max Loss 0.0000
+2014-11-27   2014-11-28
+Trend Down
+Max: 17.5100, Min: 17.2600, Avg: 17.3850
+Slop: -0.0285, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.2500
+2014-11-28   2014-12-10
+Trend Up
+Max: 27.2700, Min: 17.2600, Avg: 21.8100
+Slop: 0.1426, Standard Deviation: 0.0849
+Max Gain: 10.0100, Max Loss 0.0000
+2014-12-10   2014-12-11
+Trend Down
+Max: 27.2700, Min: 24.7100, Avg: 25.9900
+Slop: -0.2918, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -2.5600
+2014-12-11   2014-12-17
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 27.9520
+Slop: 0.2291, Standard Deviation: 0.1015
+Max Gain: 8.0400, Max Loss 0.0000
+2014-12-17   2014-12-18
+Trend Down
+Max: 32.7500, Min: 31.7400, Avg: 32.2450
+Slop: -0.1151, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -1.0100
+No changes. Try again.
+Merge: from 106 to 101, a 0.1500,
+Merge: from 101 to 100, a 0.1000,
+No changes. Try again.
+No changes. Try again.
+Merge: from 100 to 98, a 0.2000,
+Merge: from 98 to 97, a 0.1000,
+No changes. Try again.
+No changes. Try again.
+Merge: from 97 to 96, a 0.2000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 96 to 93, a 0.2500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 93 to 92, a 0.2500,
+No changes. Try again.
+Merge: from 92 to 91, a 0.1500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 91 to 80, a 0.3000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 80 to 77, a 0.3500,
+Merge: from 77 to 76, a 0.1000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 76 to 73, a 0.4000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 73 to 72, a 0.3500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 72 to 71, a 0.2500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 71 to 57, a 0.4500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 57 to 56, a 0.4500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 56 to 55, a 0.2500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 55 to 51, a 0.5000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 51 to 50, a 0.3000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 50 to 49, a 0.3500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 49 to 48, a 0.2500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 48 to 44, a 0.5500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 44 to 41, a 0.6000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 41 to 40, a 0.5500,
+Merge: from 40 to 39, a 0.1000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 39 to 38, a 0.6000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 38 to 37, a 0.4000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 37 to 36, a 0.5000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 36 to 34, a 0.6500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 34 to 30, a 0.7000,
+No changes. Try again.
+Merge: from 30 to 29, a 0.1500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 29 to 28, a 0.3000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 28 to 27, a 0.7000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 27 to 26, a 0.3000,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 26 to 24, a 0.7500,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 24 to 19, a 0.8000,
+2014-3-14   2014-4-9
+Trend Up
+Max: 11.1500, Min: 9.9500, Avg: 10.5163
+Slop: 0.0060, Standard Deviation: 0.0190
+Max Gain: 1.5900, Max Loss -0.6400
+2014-4-9   2014-4-10
+Trend Up
+Max: 12.1500, Min: 11.0800, Avg: 11.6150
+Slop: 0.1220, Standard Deviation: 0.0000
+Max Gain: 1.0700, Max Loss 0.0000
+2014-4-10   2014-8-1
+Trend Up
+Max: 13.0800, Min: 10.9500, Avg: 11.5080
+Slop: 0.0008, Standard Deviation: 0.0196
+Max Gain: 5.3700, Max Loss -4.8200
+2014-8-1   2014-8-4
+Trend Up
+Max: 13.4700, Min: 12.7000, Avg: 13.0850
+Slop: 0.0878, Standard Deviation: 0.0000
+Max Gain: 0.7700, Max Loss 0.0000
+2014-8-4   2014-10-14
+Trend Down
+Max: 13.6300, Min: 12.6200, Avg: 13.1746
+Slop: -0.0011, Standard Deviation: 0.0196
+Max Gain: 3.0600, Max Loss -3.5500
+2014-10-14   2014-10-15
+Trend Up
+Max: 13.3400, Min: 12.9800, Avg: 13.1600
+Slop: 0.0410, Standard Deviation: 0.0000
+Max Gain: 0.3600, Max Loss 0.0000
+2014-10-15   2014-11-6
+Trend Down
+Max: 13.3400, Min: 12.3300, Avg: 13.0435
+Slop: -0.0011, Standard Deviation: 0.0221
+Max Gain: 1.2300, Max Loss -1.3900
+2014-11-6   2014-11-12
+Trend Up
+Max: 15.3800, Min: 13.1800, Avg: 14.1140
+Slop: 0.0627, Standard Deviation: 0.0406
+Max Gain: 2.2000, Max Loss 0.0000
+2014-11-12   2014-11-13
+Trend Down
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: -0.0365, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.3200
+2014-11-13   2014-11-14
+Trend Up
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: 0.0365, Standard Deviation: 0.0000
+Max Gain: 0.3200, Max Loss 0.0000
+2014-11-14   2014-11-19
+Trend Down
+Max: 15.3800, Min: 14.4000, Avg: 14.8225
+Slop: -0.0372, Standard Deviation: 0.0142
+Max Gain: 0.0000, Max Loss -0.9800
+2014-11-19   2014-11-24
+Trend Up
+Max: 16.5400, Min: 14.4000, Avg: 15.2775
+Slop: 0.0813, Standard Deviation: 0.0414
+Max Gain: 2.1400, Max Loss 0.0000
+2014-11-24   2014-11-25
+Trend Down
+Max: 16.5400, Min: 16.4600, Avg: 16.5000
+Slop: -0.0091, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.0800
+2014-11-25   2014-11-27
+Trend Up
+Max: 17.5100, Min: 16.4600, Avg: 16.9967
+Slop: 0.0599, Standard Deviation: 0.0040
+Max Gain: 1.0500, Max Loss 0.0000
+2014-11-27   2014-11-28
+Trend Down
+Max: 17.5100, Min: 17.2600, Avg: 17.3850
+Slop: -0.0285, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.2500
+2014-11-28   2014-12-10
+Trend Up
+Max: 27.2700, Min: 17.2600, Avg: 21.8100
+Slop: 0.1426, Standard Deviation: 0.0849
+Max Gain: 10.0100, Max Loss 0.0000
+2014-12-10   2014-12-11
+Trend Down
+Max: 27.2700, Min: 24.7100, Avg: 25.9900
+Slop: -0.2918, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -2.5600
+2014-12-11   2014-12-17
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 27.9520
+Slop: 0.2291, Standard Deviation: 0.1015
+Max Gain: 8.0400, Max Loss 0.0000
+2014-12-17   2014-12-18
+Trend Down
+Max: 32.7500, Min: 31.7400, Avg: 32.2450
+Slop: -0.1151, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -1.0100
+No changes. Try again.
+Merge: from 106 to 101, a 0.0084,
+Merge: from 101 to 100, a 0.0056,
+No changes. Try again.
+No changes. Try again.
+Merge: from 100 to 98, a 0.0112,
+Merge: from 98 to 97, a 0.0056,
+No changes. Try again.
+No changes. Try again.
+Merge: from 97 to 96, a 0.0112,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 96 to 93, a 0.0140,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 93 to 92, a 0.0140,
+No changes. Try again.
+Merge: from 92 to 91, a 0.0084,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 91 to 80, a 0.0168,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 80 to 77, a 0.0196,
+Merge: from 77 to 76, a 0.0056,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 76 to 73, a 0.0224,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 73 to 72, a 0.0196,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 72 to 71, a 0.0140,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 71 to 57, a 0.0252,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 57 to 56, a 0.0252,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 56 to 55, a 0.0140,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 55 to 51, a 0.0280,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 51 to 50, a 0.0168,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 50 to 49, a 0.0196,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 49 to 48, a 0.0140,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 48 to 44, a 0.0308,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 44 to 41, a 0.0336,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 41 to 40, a 0.0308,
+Merge: from 40 to 39, a 0.0056,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 39 to 38, a 0.0336,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 38 to 37, a 0.0224,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 37 to 36, a 0.0280,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 36 to 34, a 0.0364,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 34 to 30, a 0.0392,
+No changes. Try again.
+Merge: from 30 to 29, a 0.0084,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 29 to 28, a 0.0168,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 28 to 27, a 0.0392,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 27 to 26, a 0.0168,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 26 to 24, a 0.0420,
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+No changes. Try again.
+Merge: from 24 to 19, a 0.0448,
+2014-3-14   2014-4-9
+Trend Up
+Max: 11.1500, Min: 9.9500, Avg: 10.5163
+Slop: 0.0060, Standard Deviation: 0.0190
+Max Gain: 1.5900, Max Loss -0.6400
+2014-4-9   2014-4-10
+Trend Up
+Max: 12.1500, Min: 11.0800, Avg: 11.6150
+Slop: 0.1220, Standard Deviation: 0.0000
+Max Gain: 1.0700, Max Loss 0.0000
+2014-4-10   2014-8-1
+Trend Up
+Max: 13.0800, Min: 10.9500, Avg: 11.5080
+Slop: 0.0008, Standard Deviation: 0.0196
+Max Gain: 5.3700, Max Loss -4.8200
+2014-8-1   2014-8-4
+Trend Up
+Max: 13.4700, Min: 12.7000, Avg: 13.0850
+Slop: 0.0878, Standard Deviation: 0.0000
+Max Gain: 0.7700, Max Loss 0.0000
+2014-8-4   2014-10-14
+Trend Down
+Max: 13.6300, Min: 12.6200, Avg: 13.1746
+Slop: -0.0011, Standard Deviation: 0.0196
+Max Gain: 3.0600, Max Loss -3.5500
+2014-10-14   2014-10-15
+Trend Up
+Max: 13.3400, Min: 12.9800, Avg: 13.1600
+Slop: 0.0410, Standard Deviation: 0.0000
+Max Gain: 0.3600, Max Loss 0.0000
+2014-10-15   2014-11-6
+Trend Down
+Max: 13.3400, Min: 12.3300, Avg: 13.0435
+Slop: -0.0011, Standard Deviation: 0.0221
+Max Gain: 1.2300, Max Loss -1.3900
+2014-11-6   2014-11-12
+Trend Up
+Max: 15.3800, Min: 13.1800, Avg: 14.1140
+Slop: 0.0627, Standard Deviation: 0.0406
+Max Gain: 2.2000, Max Loss 0.0000
+2014-11-12   2014-11-13
+Trend Down
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: -0.0365, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.3200
+2014-11-13   2014-11-14
+Trend Up
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: 0.0365, Standard Deviation: 0.0000
+Max Gain: 0.3200, Max Loss 0.0000
+2014-11-14   2014-11-19
+Trend Down
+Max: 15.3800, Min: 14.4000, Avg: 14.8225
+Slop: -0.0372, Standard Deviation: 0.0142
+Max Gain: 0.0000, Max Loss -0.9800
+2014-11-19   2014-11-24
+Trend Up
+Max: 16.5400, Min: 14.4000, Avg: 15.2775
+Slop: 0.0813, Standard Deviation: 0.0414
+Max Gain: 2.1400, Max Loss 0.0000
+2014-11-24   2014-11-25
+Trend Down
+Max: 16.5400, Min: 16.4600, Avg: 16.5000
+Slop: -0.0091, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.0800
+2014-11-25   2014-11-27
+Trend Up
+Max: 17.5100, Min: 16.4600, Avg: 16.9967
+Slop: 0.0599, Standard Deviation: 0.0040
+Max Gain: 1.0500, Max Loss 0.0000
+2014-11-27   2014-11-28
+Trend Down
+Max: 17.5100, Min: 17.2600, Avg: 17.3850
+Slop: -0.0285, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.2500
+2014-11-28   2014-12-10
+Trend Up
+Max: 27.2700, Min: 17.2600, Avg: 21.8100
+Slop: 0.1426, Standard Deviation: 0.0849
+Max Gain: 10.0100, Max Loss 0.0000
+2014-12-10   2014-12-11
+Trend Down
+Max: 27.2700, Min: 24.7100, Avg: 25.9900
+Slop: -0.2918, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -2.5600
+2014-12-11   2014-12-17
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 27.9520
+Slop: 0.2291, Standard Deviation: 0.1015
+Max Gain: 8.0400, Max Loss 0.0000
+2014-12-17   2014-12-18
+Trend Down
+Max: 32.7500, Min: 31.7400, Avg: 32.2450
+Slop: -0.1151, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -1.0100
+Merge: from 106 to 101, a 0.0084,
+Merge: from 101 to 100, a 0.0056,
+Merge: from 100 to 98, a 0.0112,
+Merge: from 98 to 97, a 0.0056,
+Merge: from 97 to 96, a 0.0112,
+Merge: from 96 to 93, a 0.0140,
+Merge: from 93 to 92, a 0.0140,
+Merge: from 92 to 91, a 0.0084,
+Merge: from 91 to 80, a 0.0168,
+Merge: from 80 to 77, a 0.0196,
+Merge: from 77 to 76, a 0.0056,
+Merge: from 76 to 73, a 0.0224,
+Merge: from 73 to 72, a 0.0196,
+Merge: from 72 to 71, a 0.0140,
+Merge: from 71 to 57, a 0.0252,
+Merge: from 57 to 56, a 0.0252,
+Merge: from 56 to 55, a 0.0140,
+Merge: from 55 to 51, a 0.0280,
+Merge: from 51 to 50, a 0.0168,
+Merge: from 50 to 49, a 0.0196,
+Merge: from 49 to 48, a 0.0140,
+Merge: from 48 to 44, a 0.0308,
+Merge: from 44 to 41, a 0.0336,
+Merge: from 41 to 40, a 0.0308,
+Merge: from 40 to 39, a 0.0056,
+Merge: from 39 to 38, a 0.0336,
+Merge: from 38 to 37, a 0.0224,
+Merge: from 37 to 36, a 0.0280,
+Merge: from 36 to 34, a 0.0364,
+Merge: from 34 to 30, a 0.0392,
+Merge: from 30 to 29, a 0.0084,
+Merge: from 29 to 28, a 0.0168,
+Merge: from 28 to 27, a 0.0392,
+Merge: from 27 to 26, a 0.0168,
+Merge: from 26 to 24, a 0.0420,
+Merge: from 24 to 19, a 0.0448,
+2014-3-14   2014-4-9
+Trend Up
+Max: 11.1500, Min: 9.9500, Avg: 10.5163
+Slop: 0.0060, Standard Deviation: 0.0190
+Max Gain: 1.5900, Max Loss -0.6400
+2014-4-9   2014-4-10
+Trend Up
+Max: 12.1500, Min: 11.0800, Avg: 11.6150
+Slop: 0.1220, Standard Deviation: 0.0000
+Max Gain: 1.0700, Max Loss 0.0000
+2014-4-10   2014-8-1
+Trend Up
+Max: 13.0800, Min: 10.9500, Avg: 11.5080
+Slop: 0.0008, Standard Deviation: 0.0196
+Max Gain: 5.3700, Max Loss -4.8200
+2014-8-1   2014-8-4
+Trend Up
+Max: 13.4700, Min: 12.7000, Avg: 13.0850
+Slop: 0.0878, Standard Deviation: 0.0000
+Max Gain: 0.7700, Max Loss 0.0000
+2014-8-4   2014-10-14
+Trend Down
+Max: 13.6300, Min: 12.6200, Avg: 13.1746
+Slop: -0.0011, Standard Deviation: 0.0196
+Max Gain: 3.0600, Max Loss -3.5500
+2014-10-14   2014-10-15
+Trend Up
+Max: 13.3400, Min: 12.9800, Avg: 13.1600
+Slop: 0.0410, Standard Deviation: 0.0000
+Max Gain: 0.3600, Max Loss 0.0000
+2014-10-15   2014-11-6
+Trend Down
+Max: 13.3400, Min: 12.3300, Avg: 13.0435
+Slop: -0.0011, Standard Deviation: 0.0221
+Max Gain: 1.2300, Max Loss -1.3900
+2014-11-6   2014-11-12
+Trend Up
+Max: 15.3800, Min: 13.1800, Avg: 14.1140
+Slop: 0.0627, Standard Deviation: 0.0406
+Max Gain: 2.2000, Max Loss 0.0000
+2014-11-12   2014-11-13
+Trend Down
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: -0.0365, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.3200
+2014-11-13   2014-11-14
+Trend Up
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: 0.0365, Standard Deviation: 0.0000
+Max Gain: 0.3200, Max Loss 0.0000
+2014-11-14   2014-11-19
+Trend Down
+Max: 15.3800, Min: 14.4000, Avg: 14.8225
+Slop: -0.0372, Standard Deviation: 0.0142
+Max Gain: 0.0000, Max Loss -0.9800
+2014-11-19   2014-11-24
+Trend Up
+Max: 16.5400, Min: 14.4000, Avg: 15.2775
+Slop: 0.0813, Standard Deviation: 0.0414
+Max Gain: 2.1400, Max Loss 0.0000
+2014-11-24   2014-11-25
+Trend Down
+Max: 16.5400, Min: 16.4600, Avg: 16.5000
+Slop: -0.0091, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.0800
+2014-11-25   2014-11-27
+Trend Up
+Max: 17.5100, Min: 16.4600, Avg: 16.9967
+Slop: 0.0599, Standard Deviation: 0.0040
+Max Gain: 1.0500, Max Loss 0.0000
+2014-11-27   2014-11-28
+Trend Down
+Max: 17.5100, Min: 17.2600, Avg: 17.3850
+Slop: -0.0285, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.2500
+2014-11-28   2014-12-10
+Trend Up
+Max: 27.2700, Min: 17.2600, Avg: 21.8100
+Slop: 0.1426, Standard Deviation: 0.0849
+Max Gain: 10.0100, Max Loss 0.0000
+2014-12-10   2014-12-11
+Trend Down
+Max: 27.2700, Min: 24.7100, Avg: 25.9900
+Slop: -0.2918, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -2.5600
+2014-12-11   2014-12-17
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 27.9520
+Slop: 0.2291, Standard Deviation: 0.1015
+Max Gain: 8.0400, Max Loss 0.0000
+2014-12-17   2014-12-18
+Trend Down
+Max: 32.7500, Min: 31.7400, Avg: 32.2450
+Slop: -0.1151, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -1.0100
+Merge 0.056018
+Merge: from 106 to 101, a 0.0084,
+Merge: from 101 to 100, a 0.0056,
+Merge: from 100 to 98, a 0.0112,
+Merge: from 98 to 97, a 0.0056,
+Merge: from 97 to 96, a 0.0112,
+Merge: from 96 to 93, a 0.0140,
+Merge: from 93 to 92, a 0.0140,
+Merge: from 92 to 91, a 0.0084,
+Merge: from 91 to 80, a 0.0168,
+Merge: from 80 to 77, a 0.0196,
+Merge: from 77 to 76, a 0.0056,
+Merge: from 76 to 73, a 0.0224,
+Merge: from 73 to 72, a 0.0196,
+Merge: from 72 to 71, a 0.0140,
+Merge: from 71 to 57, a 0.0252,
+Merge: from 57 to 56, a 0.0252,
+Merge: from 56 to 55, a 0.0140,
+Merge: from 55 to 51, a 0.0280,
+Merge: from 51 to 50, a 0.0168,
+Merge: from 50 to 49, a 0.0196,
+Merge: from 49 to 48, a 0.0140,
+Merge: from 48 to 44, a 0.0308,
+Merge: from 44 to 41, a 0.0336,
+Merge: from 41 to 40, a 0.0308,
+Merge: from 40 to 39, a 0.0056,
+Merge: from 39 to 38, a 0.0336,
+Merge: from 38 to 37, a 0.0224,
+Merge: from 37 to 36, a 0.0280,
+Merge: from 36 to 34, a 0.0364,
+Merge: from 34 to 30, a 0.0392,
+Merge: from 30 to 29, a 0.0084,
+Merge: from 29 to 28, a 0.0168,
+Merge: from 28 to 27, a 0.0392,
+Merge: from 27 to 26, a 0.0168,
+Merge: from 26 to 24, a 0.0420,
+Merge: from 24 to 19, a 0.0448,
+2014-3-14   2014-4-9
+Trend Up
+Max: 11.1500, Min: 9.9500, Avg: 10.5163
+Slop: 0.0060, Standard Deviation: 0.0190
+Max Gain: 1.5900, Max Loss -0.6400
+2014-4-9   2014-4-10
+Trend Up
+Max: 12.1500, Min: 11.0800, Avg: 11.6150
+Slop: 0.1220, Standard Deviation: 0.0000
+Max Gain: 1.0700, Max Loss 0.0000
+2014-4-10   2014-8-1
+Trend Up
+Max: 13.0800, Min: 10.9500, Avg: 11.5080
+Slop: 0.0008, Standard Deviation: 0.0196
+Max Gain: 5.3700, Max Loss -4.8200
+2014-8-1   2014-8-4
+Trend Up
+Max: 13.4700, Min: 12.7000, Avg: 13.0850
+Slop: 0.0878, Standard Deviation: 0.0000
+Max Gain: 0.7700, Max Loss 0.0000
+2014-8-4   2014-10-14
+Trend Down
+Max: 13.6300, Min: 12.6200, Avg: 13.1746
+Slop: -0.0011, Standard Deviation: 0.0196
+Max Gain: 3.0600, Max Loss -3.5500
+2014-10-14   2014-10-15
+Trend Up
+Max: 13.3400, Min: 12.9800, Avg: 13.1600
+Slop: 0.0410, Standard Deviation: 0.0000
+Max Gain: 0.3600, Max Loss 0.0000
+2014-10-15   2014-11-6
+Trend Down
+Max: 13.3400, Min: 12.3300, Avg: 13.0435
+Slop: -0.0011, Standard Deviation: 0.0221
+Max Gain: 1.2300, Max Loss -1.3900
+2014-11-6   2014-11-12
+Trend Up
+Max: 15.3800, Min: 13.1800, Avg: 14.1140
+Slop: 0.0627, Standard Deviation: 0.0406
+Max Gain: 2.2000, Max Loss 0.0000
+2014-11-12   2014-11-13
+Trend Down
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: -0.0365, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.3200
+2014-11-13   2014-11-14
+Trend Up
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: 0.0365, Standard Deviation: 0.0000
+Max Gain: 0.3200, Max Loss 0.0000
+2014-11-14   2014-11-19
+Trend Down
+Max: 15.3800, Min: 14.4000, Avg: 14.8225
+Slop: -0.0372, Standard Deviation: 0.0142
+Max Gain: 0.0000, Max Loss -0.9800
+2014-11-19   2014-11-24
+Trend Up
+Max: 16.5400, Min: 14.4000, Avg: 15.2775
+Slop: 0.0813, Standard Deviation: 0.0414
+Max Gain: 2.1400, Max Loss 0.0000
+2014-11-24   2014-11-25
+Trend Down
+Max: 16.5400, Min: 16.4600, Avg: 16.5000
+Slop: -0.0091, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.0800
+2014-11-25   2014-11-27
+Trend Up
+Max: 17.5100, Min: 16.4600, Avg: 16.9967
+Slop: 0.0599, Standard Deviation: 0.0040
+Max Gain: 1.0500, Max Loss 0.0000
+2014-11-27   2014-11-28
+Trend Down
+Max: 17.5100, Min: 17.2600, Avg: 17.3850
+Slop: -0.0285, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.2500
+2014-11-28   2014-12-10
+Trend Up
+Max: 27.2700, Min: 17.2600, Avg: 21.8100
+Slop: 0.1426, Standard Deviation: 0.0849
+Max Gain: 10.0100, Max Loss 0.0000
+2014-12-10   2014-12-11
+Trend Down
+Max: 27.2700, Min: 24.7100, Avg: 25.9900
+Slop: -0.2918, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -2.5600
+2014-12-11   2014-12-17
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 27.9520
+Slop: 0.2291, Standard Deviation: 0.1015
+Max Gain: 8.0400, Max Loss 0.0000
+2014-12-17   2014-12-18
+Trend Down
+Max: 32.7500, Min: 31.7400, Avg: 32.2450
+Slop: -0.1151, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -1.0100
+Merge 0.056018
+Merge: from 106 to 101, avg 0.0084, a 0.1500
+Merge: from 101 to 100, avg 0.0056, a 0.1000
+Merge: from 100 to 98, avg 0.0112, a 0.2000
+Merge: from 98 to 97, avg 0.0056, a 0.1000
+Merge: from 97 to 96, avg 0.0112, a 0.2000
+Merge: from 96 to 93, avg 0.0140, a 0.2500
+Merge: from 93 to 92, avg 0.0140, a 0.2500
+Merge: from 92 to 91, avg 0.0084, a 0.1500
+Merge: from 91 to 80, avg 0.0168, a 0.3000
+Merge: from 80 to 77, avg 0.0196, a 0.3500
+Merge: from 77 to 76, avg 0.0056, a 0.1000
+Merge: from 76 to 73, avg 0.0224, a 0.4000
+Merge: from 73 to 72, avg 0.0196, a 0.3500
+Merge: from 72 to 71, avg 0.0140, a 0.2500
+Merge: from 71 to 57, avg 0.0252, a 0.4500
+Merge: from 57 to 56, avg 0.0252, a 0.4500
+Merge: from 56 to 55, avg 0.0140, a 0.2500
+Merge: from 55 to 51, avg 0.0280, a 0.5000
+Merge: from 51 to 50, avg 0.0168, a 0.3000
+Merge: from 50 to 49, avg 0.0196, a 0.3500
+Merge: from 49 to 48, avg 0.0140, a 0.2500
+Merge: from 48 to 44, avg 0.0308, a 0.5500
+Merge: from 44 to 41, avg 0.0336, a 0.6000
+Merge: from 41 to 40, avg 0.0308, a 0.5500
+Merge: from 40 to 39, avg 0.0056, a 0.1000
+Merge: from 39 to 38, avg 0.0336, a 0.6000
+Merge: from 38 to 37, avg 0.0224, a 0.4000
+Merge: from 37 to 36, avg 0.0280, a 0.5000
+Merge: from 36 to 34, avg 0.0364, a 0.6500
+Merge: from 34 to 30, avg 0.0392, a 0.7000
+Merge: from 30 to 29, avg 0.0084, a 0.1500
+Merge: from 29 to 28, avg 0.0168, a 0.3000
+Merge: from 28 to 27, avg 0.0392, a 0.7000
+Merge: from 27 to 26, avg 0.0168, a 0.3000
+Merge: from 26 to 24, avg 0.0420, a 0.7500
+Merge: from 24 to 19, avg 0.0448, a 0.8000
+2014-3-14   2014-4-9
+Trend Up
+Max: 11.1500, Min: 9.9500, Avg: 10.5163
+Slop: 0.0060, Standard Deviation: 0.0190
+Max Gain: 1.5900, Max Loss -0.6400
+2014-4-9   2014-4-10
+Trend Up
+Max: 12.1500, Min: 11.0800, Avg: 11.6150
+Slop: 0.1220, Standard Deviation: 0.0000
+Max Gain: 1.0700, Max Loss 0.0000
+2014-4-10   2014-8-1
+Trend Up
+Max: 13.0800, Min: 10.9500, Avg: 11.5080
+Slop: 0.0008, Standard Deviation: 0.0196
+Max Gain: 5.3700, Max Loss -4.8200
+2014-8-1   2014-8-4
+Trend Up
+Max: 13.4700, Min: 12.7000, Avg: 13.0850
+Slop: 0.0878, Standard Deviation: 0.0000
+Max Gain: 0.7700, Max Loss 0.0000
+2014-8-4   2014-10-14
+Trend Down
+Max: 13.6300, Min: 12.6200, Avg: 13.1746
+Slop: -0.0011, Standard Deviation: 0.0196
+Max Gain: 3.0600, Max Loss -3.5500
+2014-10-14   2014-10-15
+Trend Up
+Max: 13.3400, Min: 12.9800, Avg: 13.1600
+Slop: 0.0410, Standard Deviation: 0.0000
+Max Gain: 0.3600, Max Loss 0.0000
+2014-10-15   2014-11-6
+Trend Down
+Max: 13.3400, Min: 12.3300, Avg: 13.0435
+Slop: -0.0011, Standard Deviation: 0.0221
+Max Gain: 1.2300, Max Loss -1.3900
+2014-11-6   2014-11-12
+Trend Up
+Max: 15.3800, Min: 13.1800, Avg: 14.1140
+Slop: 0.0627, Standard Deviation: 0.0406
+Max Gain: 2.2000, Max Loss 0.0000
+2014-11-12   2014-11-13
+Trend Down
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: -0.0365, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.3200
+2014-11-13   2014-11-14
+Trend Up
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: 0.0365, Standard Deviation: 0.0000
+Max Gain: 0.3200, Max Loss 0.0000
+2014-11-14   2014-11-19
+Trend Down
+Max: 15.3800, Min: 14.4000, Avg: 14.8225
+Slop: -0.0372, Standard Deviation: 0.0142
+Max Gain: 0.0000, Max Loss -0.9800
+2014-11-19   2014-11-24
+Trend Up
+Max: 16.5400, Min: 14.4000, Avg: 15.2775
+Slop: 0.0813, Standard Deviation: 0.0414
+Max Gain: 2.1400, Max Loss 0.0000
+2014-11-24   2014-11-25
+Trend Down
+Max: 16.5400, Min: 16.4600, Avg: 16.5000
+Slop: -0.0091, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.0800
+2014-11-25   2014-11-27
+Trend Up
+Max: 17.5100, Min: 16.4600, Avg: 16.9967
+Slop: 0.0599, Standard Deviation: 0.0040
+Max Gain: 1.0500, Max Loss 0.0000
+2014-11-27   2014-11-28
+Trend Down
+Max: 17.5100, Min: 17.2600, Avg: 17.3850
+Slop: -0.0285, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.2500
+2014-11-28   2014-12-10
+Trend Up
+Max: 27.2700, Min: 17.2600, Avg: 21.8100
+Slop: 0.1426, Standard Deviation: 0.0849
+Max Gain: 10.0100, Max Loss 0.0000
+2014-12-10   2014-12-11
+Trend Down
+Max: 27.2700, Min: 24.7100, Avg: 25.9900
+Slop: -0.2918, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -2.5600
+2014-12-11   2014-12-17
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 27.9520
+Slop: 0.2291, Standard Deviation: 0.1015
+Max Gain: 8.0400, Max Loss 0.0000
+2014-12-17   2014-12-18
+Trend Down
+Max: 32.7500, Min: 31.7400, Avg: 32.2450
+Slop: -0.1151, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -1.0100
+Merge 0.056018
+Merge: from 106 to 101, avg 0.0084, a 0.1500
+Merge: from 101 to 100, avg 0.0056, a 0.1000
+Merge: from 100 to 98, avg 0.0112, a 0.2000
+Merge: from 98 to 97, avg 0.0056, a 0.1000
+Merge: from 97 to 96, avg 0.0112, a 0.2000
+Merge: from 96 to 93, avg 0.0140, a 0.2500
+Merge: from 93 to 92, avg 0.0140, a 0.2500
+Merge: from 92 to 91, avg 0.0084, a 0.1500
+Merge: from 91 to 80, avg 0.0168, a 0.3000
+Merge: from 80 to 77, avg 0.0196, a 0.3500
+Merge: from 77 to 76, avg 0.0056, a 0.1000
+Merge: from 76 to 73, avg 0.0224, a 0.4000
+Merge: from 73 to 72, avg 0.0196, a 0.3500
+Merge: from 72 to 71, avg 0.0140, a 0.2500
+Merge: from 71 to 57, avg 0.0252, a 0.4500
+Merge: from 57 to 56, avg 0.0252, a 0.4500
+Merge: from 56 to 55, avg 0.0140, a 0.2500
+Merge: from 55 to 51, avg 0.0280, a 0.5000
+Merge: from 51 to 50, avg 0.0168, a 0.3000
+Merge: from 50 to 49, avg 0.0196, a 0.3500
+Merge: from 49 to 48, avg 0.0140, a 0.2500
+Merge: from 48 to 44, avg 0.0308, a 0.5500
+Merge: from 44 to 41, avg 0.0336, a 0.6000
+Merge: from 41 to 40, avg 0.0308, a 0.5500
+Merge: from 40 to 39, avg 0.0056, a 0.1000
+Merge: from 39 to 38, avg 0.0336, a 0.6000
+Merge: from 38 to 37, avg 0.0224, a 0.4000
+Merge: from 37 to 36, avg 0.0280, a 0.5000
+Merge: from 36 to 34, avg 0.0364, a 0.6500
+Merge: from 34 to 30, avg 0.0392, a 0.7000
+2014-3-14   2014-3-20
+Trend Down
+Max: 10.1700, Min: 9.9500, Avg: 10.0760
+Slop: -0.0051, Standard Deviation: 0.0062
+Max Gain: 0.0400, Max Loss -0.2200
+2014-3-20   2014-4-9
+Trend Up
+Max: 11.1500, Min: 9.9500, Avg: 10.6253
+Slop: 0.0092, Standard Deviation: 0.0202
+Max Gain: 1.5500, Max Loss -0.4200
+2014-4-9   2014-4-10
+Trend Up
+Max: 12.1500, Min: 11.0800, Avg: 11.6150
+Slop: 0.1220, Standard Deviation: 0.0000
+Max Gain: 1.0700, Max Loss 0.0000
+2014-4-10   2014-4-18
+Trend Down
+Max: 12.1500, Min: 11.5900, Avg: 11.8443
+Slop: -0.0078, Standard Deviation: 0.0200
+Max Gain: 0.1500, Max Loss -0.5600
+2014-4-18   2014-4-21
+Trend Down
+Max: 11.7400, Min: 11.2800, Avg: 11.5100
+Slop: -0.0524, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.4600
+2014-4-21   2014-5-14
+Trend Up
+Max: 11.8600, Min: 11.0600, Avg: 11.3733
+Slop: 0.0035, Standard Deviation: 0.0168
+Max Gain: 1.1300, Max Loss -0.6100
+2014-5-14   2014-5-19
+Trend Down
+Max: 11.8000, Min: 10.9500, Avg: 11.3700
+Slop: -0.0323, Standard Deviation: 0.0011
+Max Gain: 0.0000, Max Loss -0.8500
+2014-5-19   2014-7-31
+Trend Up
+Max: 13.0800, Min: 10.9500, Avg: 11.4926
+Slop: 0.0045, Standard Deviation: 0.0169
+Max Gain: 4.0900, Max Loss -2.0100
+2014-7-31   2014-8-1
+Trend Down
+Max: 13.0300, Min: 12.7000, Avg: 12.8650
+Slop: -0.0376, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.3300
+2014-8-1   2014-8-4
+Trend Up
+Max: 13.4700, Min: 12.7000, Avg: 13.0850
+Slop: 0.0878, Standard Deviation: 0.0000
+Max Gain: 0.7700, Max Loss 0.0000
+2014-8-4   2014-8-8
+Trend Down
+Max: 13.4700, Min: 12.9300, Avg: 13.1940
+Slop: -0.0154, Standard Deviation: 0.0185
+Max Gain: 0.0400, Max Loss -0.5800
+2014-8-8   2014-8-11
+Trend Up
+Max: 13.2200, Min: 12.9300, Avg: 13.0750
+Slop: 0.0331, Standard Deviation: 0.0000
+Max Gain: 0.2900, Max Loss 0.0000
+2014-8-11   2014-8-14
+Trend Down
+Max: 13.2400, Min: 13.0400, Avg: 13.1475
+Slop: -0.0068, Standard Deviation: 0.0172
+Max Gain: 0.1500, Max Loss -0.3300
+2014-8-14   2014-9-22
+Trend Down
+Max: 13.6300, Min: 12.6200, Avg: 13.1093
+Slop: -0.0008, Standard Deviation: 0.0198
+Max Gain: 1.7500, Max Loss -1.9500
+2014-9-22   2014-9-24
+Trend Up
+Max: 13.4900, Min: 12.8400, Avg: 13.1267
+Slop: 0.0371, Standard Deviation: 0.0131
+Max Gain: 0.6500, Max Loss 0.0000
+2014-9-24   2014-10-14
+Trend Down
+Max: 13.4900, Min: 12.9800, Avg: 13.2967
+Slop: -0.0042, Standard Deviation: 0.0092
+Max Gain: 0.1800, Max Loss -0.6900
+2014-10-14   2014-10-15
+Trend Up
+Max: 13.3400, Min: 12.9800, Avg: 13.1600
+Slop: 0.0410, Standard Deviation: 0.0000
+Max Gain: 0.3600, Max Loss 0.0000
+2014-10-15   2014-11-6
+Trend Down
+Max: 13.3400, Min: 12.3300, Avg: 13.0435
+Slop: -0.0011, Standard Deviation: 0.0221
+Max Gain: 1.2300, Max Loss -1.3900
+2014-11-6   2014-11-12
+Trend Up
+Max: 15.3800, Min: 13.1800, Avg: 14.1140
+Slop: 0.0627, Standard Deviation: 0.0406
+Max Gain: 2.2000, Max Loss 0.0000
+2014-11-12   2014-11-13
+Trend Down
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: -0.0365, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.3200
+2014-11-13   2014-11-14
+Trend Up
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: 0.0365, Standard Deviation: 0.0000
+Max Gain: 0.3200, Max Loss 0.0000
+2014-11-14   2014-11-19
+Trend Down
+Max: 15.3800, Min: 14.4000, Avg: 14.8225
+Slop: -0.0372, Standard Deviation: 0.0142
+Max Gain: 0.0000, Max Loss -0.9800
+2014-11-19   2014-11-24
+Trend Up
+Max: 16.5400, Min: 14.4000, Avg: 15.2775
+Slop: 0.0813, Standard Deviation: 0.0414
+Max Gain: 2.1400, Max Loss 0.0000
+2014-11-24   2014-11-25
+Trend Down
+Max: 16.5400, Min: 16.4600, Avg: 16.5000
+Slop: -0.0091, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.0800
+2014-11-25   2014-11-27
+Trend Up
+Max: 17.5100, Min: 16.4600, Avg: 16.9967
+Slop: 0.0599, Standard Deviation: 0.0040
+Max Gain: 1.0500, Max Loss 0.0000
+2014-11-27   2014-11-28
+Trend Down
+Max: 17.5100, Min: 17.2600, Avg: 17.3850
+Slop: -0.0285, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.2500
+2014-11-28   2014-12-10
+Trend Up
+Max: 27.2700, Min: 17.2600, Avg: 21.8100
+Slop: 0.1426, Standard Deviation: 0.0849
+Max Gain: 10.0100, Max Loss 0.0000
+2014-12-10   2014-12-11
+Trend Down
+Max: 27.2700, Min: 24.7100, Avg: 25.9900
+Slop: -0.2918, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -2.5600
+2014-12-11   2014-12-17
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 27.9520
+Slop: 0.2291, Standard Deviation: 0.1015
+Max Gain: 8.0400, Max Loss 0.0000
+2014-12-17   2014-12-18
+Trend Down
+Max: 32.7500, Min: 31.7400, Avg: 32.2450
+Slop: -0.1151, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -1.0100
+Merge 0.056018
+2014-4-8   2014-4-9
+Trend Down
+Max: 11.1500, Min: 11.0800, Avg: 11.1150
+Slop: -0.0080, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.0700
+2014-4-9   2014-4-10
+Trend Up
+Max: 12.1500, Min: 11.0800, Avg: 11.6150
+Slop: 0.1220, Standard Deviation: 0.0000
+Max Gain: 1.0700, Max Loss 0.0000
+2014-7-30   2014-7-31
+Trend Up
+Max: 13.0300, Min: 12.8900, Avg: 12.9600
+Slop: 0.0160, Standard Deviation: 0.0000
+Max Gain: 0.1400, Max Loss 0.0000
+2014-7-31   2014-8-1
+Trend Down
+Max: 13.0300, Min: 12.7000, Avg: 12.8650
+Slop: -0.0376, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.3300
+2014-8-1   2014-8-4
+Trend Up
+Max: 13.4700, Min: 12.7000, Avg: 13.0850
+Slop: 0.0878, Standard Deviation: 0.0000
+Max Gain: 0.7700, Max Loss 0.0000
+2014-9-19   2014-9-22
+Trend Down
+Max: 13.1100, Min: 12.8400, Avg: 12.9750
+Slop: -0.0308, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.2700
+2014-9-22   2014-9-24
+Trend Up
+Max: 13.4900, Min: 12.8400, Avg: 13.1267
+Slop: 0.0371, Standard Deviation: 0.0131
+Max Gain: 0.6500, Max Loss 0.0000
+2014-11-5   2014-11-6
+Trend Down
+Max: 13.2600, Min: 13.1800, Avg: 13.2200
+Slop: -0.0091, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.0800
+2014-11-6   2014-11-12
+Trend Up
+Max: 15.3800, Min: 13.1800, Avg: 14.1140
+Slop: 0.0627, Standard Deviation: 0.0406
+Max Gain: 2.2000, Max Loss 0.0000
+2014-11-12   2014-11-13
+Trend Down
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: -0.0365, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.3200
+2014-11-13   2014-11-14
+Trend Up
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: 0.0365, Standard Deviation: 0.0000
+Max Gain: 0.3200, Max Loss 0.0000
+2014-11-14   2014-11-19
+Trend Down
+Max: 15.3800, Min: 14.4000, Avg: 14.8225
+Slop: -0.0372, Standard Deviation: 0.0142
+Max Gain: 0.0000, Max Loss -0.9800
+2014-11-19   2014-11-24
+Trend Up
+Max: 16.5400, Min: 14.4000, Avg: 15.2775
+Slop: 0.0813, Standard Deviation: 0.0414
+Max Gain: 2.1400, Max Loss 0.0000
+2014-11-24   2014-11-25
+Trend Down
+Max: 16.5400, Min: 16.4600, Avg: 16.5000
+Slop: -0.0091, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.0800
+2014-11-25   2014-11-27
+Trend Up
+Max: 17.5100, Min: 16.4600, Avg: 16.9967
+Slop: 0.0599, Standard Deviation: 0.0040
+Max Gain: 1.0500, Max Loss 0.0000
+2014-11-27   2014-11-28
+Trend Down
+Max: 17.5100, Min: 17.2600, Avg: 17.3850
+Slop: -0.0285, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.2500
+2014-11-28   2014-12-10
+Trend Up
+Max: 27.2700, Min: 17.2600, Avg: 21.8100
+Slop: 0.1426, Standard Deviation: 0.0849
+Max Gain: 10.0100, Max Loss 0.0000
+2014-12-10   2014-12-11
+Trend Down
+Max: 27.2700, Min: 24.7100, Avg: 25.9900
+Slop: -0.2918, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -2.5600
+2014-12-11   2014-12-17
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 27.9520
+Slop: 0.2291, Standard Deviation: 0.1015
+Max Gain: 8.0400, Max Loss 0.0000
+2014-12-17   2014-12-18
+Trend Down
+Max: 32.7500, Min: 31.7400, Avg: 32.2450
+Slop: -0.1151, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -1.0100
+Merge 0.056018
+Merge 0.056018
+2014-3-14   2014-4-9
+Trend Up
+Max: 11.1500, Min: 9.9500, Avg: 10.5163
+Slop: 0.0060, Standard Deviation: 0.0190
+Max Gain: 1.5900, Max Loss -0.6400
+2014-4-9   2014-4-10
+Trend Up
+Max: 12.1500, Min: 11.0800, Avg: 11.6150
+Slop: 0.1220, Standard Deviation: 0.0000
+Max Gain: 1.0700, Max Loss 0.0000
+2014-4-10   2014-4-21
+Trend Down
+Max: 12.1500, Min: 11.2800, Avg: 11.7738
+Slop: -0.0142, Standard Deviation: 0.0242
+Max Gain: 0.1500, Max Loss -1.0200
+2014-4-21   2014-8-1
+Trend Up
+Max: 13.0800, Min: 10.9500, Avg: 11.4767
+Slop: 0.0022, Standard Deviation: 0.0185
+Max Gain: 5.2200, Max Loss -3.8000
+2014-8-1   2014-8-4
+Trend Up
+Max: 13.4700, Min: 12.7000, Avg: 13.0850
+Slop: 0.0878, Standard Deviation: 0.0000
+Max Gain: 0.7700, Max Loss 0.0000
+2014-8-4   2014-10-14
+Trend Down
+Max: 13.6300, Min: 12.6200, Avg: 13.1746
+Slop: -0.0011, Standard Deviation: 0.0196
+Max Gain: 3.0600, Max Loss -3.5500
+2014-10-14   2014-10-15
+Trend Up
+Max: 13.3400, Min: 12.9800, Avg: 13.1600
+Slop: 0.0410, Standard Deviation: 0.0000
+Max Gain: 0.3600, Max Loss 0.0000
+2014-10-15   2014-11-6
+Trend Down
+Max: 13.3400, Min: 12.3300, Avg: 13.0435
+Slop: -0.0011, Standard Deviation: 0.0221
+Max Gain: 1.2300, Max Loss -1.3900
+2014-11-6   2014-11-12
+Trend Up
+Max: 15.3800, Min: 13.1800, Avg: 14.1140
+Slop: 0.0627, Standard Deviation: 0.0406
+Max Gain: 2.2000, Max Loss 0.0000
+2014-11-12   2014-11-13
+Trend Down
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: -0.0365, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.3200
+2014-11-13   2014-11-14
+Trend Up
+Max: 15.3800, Min: 15.0600, Avg: 15.2200
+Slop: 0.0365, Standard Deviation: 0.0000
+Max Gain: 0.3200, Max Loss 0.0000
+2014-11-14   2014-11-19
+Trend Down
+Max: 15.3800, Min: 14.4000, Avg: 14.8225
+Slop: -0.0372, Standard Deviation: 0.0142
+Max Gain: 0.0000, Max Loss -0.9800
+2014-11-19   2014-11-24
+Trend Up
+Max: 16.5400, Min: 14.4000, Avg: 15.2775
+Slop: 0.0813, Standard Deviation: 0.0414
+Max Gain: 2.1400, Max Loss 0.0000
+2014-11-24   2014-11-25
+Trend Down
+Max: 16.5400, Min: 16.4600, Avg: 16.5000
+Slop: -0.0091, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.0800
+2014-11-25   2014-11-27
+Trend Up
+Max: 17.5100, Min: 16.4600, Avg: 16.9967
+Slop: 0.0599, Standard Deviation: 0.0040
+Max Gain: 1.0500, Max Loss 0.0000
+2014-11-27   2014-11-28
+Trend Down
+Max: 17.5100, Min: 17.2600, Avg: 17.3850
+Slop: -0.0285, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -0.2500
+2014-11-28   2014-12-10
+Trend Up
+Max: 27.2700, Min: 17.2600, Avg: 21.8100
+Slop: 0.1426, Standard Deviation: 0.0849
+Max Gain: 10.0100, Max Loss 0.0000
+2014-12-10   2014-12-11
+Trend Down
+Max: 27.2700, Min: 24.7100, Avg: 25.9900
+Slop: -0.2918, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -2.5600
+2014-12-11   2014-12-17
+Trend Up
+Max: 32.7500, Min: 24.7100, Avg: 27.9520
+Slop: 0.2291, Standard Deviation: 0.1015
+Max Gain: 8.0400, Max Loss 0.0000
+2014-12-17   2014-12-18
+Trend Down
+Max: 32.7500, Min: 31.7400, Avg: 32.2450
+Slop: -0.1151, Standard Deviation: 0.0000
+Max Gain: 0.0000, Max Loss -1.0100

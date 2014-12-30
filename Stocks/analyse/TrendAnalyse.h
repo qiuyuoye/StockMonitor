@@ -63,15 +63,22 @@ typedef std::vector<PeriodItem> PeriodItemVec;
 class __declspec(dllexport) TrendAnalyse : public Analyse
 {
 public:
-	TrendAnalyse(void);
+
+	explicit TrendAnalyse(StockCPtr stockPtr, IndexType majorIndex, IndexType relIndex);
 	~TrendAnalyse(void);
 
 protected:
-	virtual void onAnalyse(const Stock* pStock);
+	virtual void onAnalyse();
 
-	virtual void printResult(const Stock* pStock);
+	virtual void printResult();
 
 private:
+	class DiffItem
+	{
+	public:
+		unsigned int m_index;
+		double m_value;
+	};
 
 	void analysisPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems);
 
@@ -79,13 +86,17 @@ private:
 
 	void mergePeriods(const std::vector<double>& datas, unsigned int size, PeriodItemVec& prdItems);
 
-	void mergeSimilarPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems, double minSlopDiff, double minFluDiff);
+	void mergeSimilarPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems);
 
 	void removeInvalides(PeriodItemVec& prdItems);
 
 	double getAvgSlops(const PeriodItemVec& prdItems);
 
 	double getAvgStandardDeviation(const PeriodItemVec& prdItems);
+	
+
+	IndexType m_majorIndex;
+	IndexType m_relIndex;
 
 };
 

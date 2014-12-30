@@ -37,13 +37,13 @@ class __declspec(dllexport) DataAnalyse : public Analyse
 {
 public:
 
-	DataAnalyse(void);
+	explicit DataAnalyse(StockCPtr stockPtr);
 	~DataAnalyse(void);
 
 protected:
-	virtual void onAnalyse(const Stock* pStock);
+	virtual void onAnalyse();
 
-	virtual void printResult(const Stock* pStock);
+	virtual void printResult();
 
 private:
 

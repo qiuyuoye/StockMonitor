@@ -149,9 +149,10 @@ void PeriodItem::print(const Stock& stocks, int offset)
 	
 }
 
-static const Stock* s_pStock = NULL;
-
-TrendAnalyse::TrendAnalyse(void)
+TrendAnalyse::TrendAnalyse(StockCPtr stockPtr, IndexType majorIndex, IndexType relIndex)
+	: Analyse(stockPtr)
+	, m_majorIndex(majorIndex)
+	, m_relIndex(relIndex)
 {
 }
 
@@ -160,27 +161,19 @@ TrendAnalyse::~TrendAnalyse(void)
 {
 }
 
-void TrendAnalyse::onAnalyse( const Stock* pStock )
+void TrendAnalyse::onAnalyse()
 {
-	s_pStock = pStock;
-
-	vector<double> adjCloseVec;
-	pStock->getAllAdjustClose(adjCloseVec, 311);
+	vector<double> majorVec;
+	m_stockPtr->getDatasByIndex(majorVec, m_majorIndex);
 
 	PeriodItemVec prdItemVec;
-	analysisPeriods(adjCloseVec, prdItemVec);
+	analysisPeriods(majorVec, prdItemVec);
 
-	for(auto iter = prdItemVec.begin(); iter != prdItemVec.end(); ++iter)
-	{
-		iter->print(*pStock, 311);
-	}
-
-	int j = 0;
+	
 }
 
-void TrendAnalyse::printResult( const Stock* pStock )
+void TrendAnalyse::printResult()
 {
-	s_pStock = NULL;
 }
 
 void TrendAnalyse::analysisPeriods( const std::vector<double>& datas, PeriodItemVec& prdItems )
@@ -192,9 +185,8 @@ void TrendAnalyse::analysisPeriods( const std::vector<double>& datas, PeriodItem
 	}
 
 	initPeriods(datas, prdItems);
-	mergePeriods(datas, 20, prdItems);
+	mergePeriods(datas, 30, prdItems);
 
-	int j = 0;
 }
 
 void TrendAnalyse::initPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems)
@@ -262,136 +254,57 @@ void TrendAnalyse::initPeriods(const std::vector<double>& datas, PeriodItemVec& 
 
 void TrendAnalyse::mergePeriods(const std::vector<double>& datas, unsigned int size, PeriodItemVec& prdItems)
 {
-
 	if(prdItems.size() <= size)
 	{
 		return;
 	}
 
-	
-	double a = 0.3f;
-	double b = 0.6f;
-	bool swither = false;
+	double a = 0.1f;
+
+	double avgSlop = getAvgSlops(prdItems);
+
+	Log("Merge %.6f", avgSlop);
+
 	while(prdItems.size() > size)
 	{
-		auto unmergeSize = prdItems.size();
-
-		double avgSlop = getAvgSlops(prdItems);
-		double avgSD = getAvgStandardDeviation(prdItems);
-
-		mergeSimilarPeriods(datas, prdItems, avgSlop * a, avgSD * b);
-
-		if(unmergeSize == prdItems.size())
-		{
-			if(a < 0.8)
-			{
-				swither = false;
-				a += 0.1;
-			}
-			else
-			{
-				if(swither)
-				{
-					b += 0.1f;
-					swither = false;
-				}
-				else
-				{
-					a += 0.1f;
-					swither = true;
-				}
-			}
-		}
-		else
-		{
-
-			Log("Merge: from %d to %d, a %.4f, b %.4f", unmergeSize, prdItems.size(), a, b);
-			a = 0.2f;
-			b = 0.4f;
-			swither = false;
-
-			if(prdItems.size() == 29)
-			{
-				for(auto iter = prdItems.begin(); iter != prdItems.end(); ++iter)
-				{
-					iter->print(*s_pStock, 311);
-				}
-			}
-		}
-
+		mergeSimilarPeriods(datas, prdItems);
 	}
 
-	int j  =0 ;
+	int j = 0;
 }
 
-void TrendAnalyse::mergeSimilarPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems, double minSlopDiff, double minFluDiff)
+void TrendAnalyse::mergeSimilarPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems)
 {
 	if(prdItems.empty())
 	{
 		return;
 	}
 
-	auto iterPre = prdItems.begin();
-	auto iter = prdItems.begin() + 1;
-	auto iterNext = iter + 1;
-
-	while(iter != prdItems.end())
+	vector<DiffItem> slopDiffs;
+	for(auto iter = prdItems.begin(); iter != prdItems.end(); ++iter)
 	{
-		int merge = 0; //0: not merge  1: merge front 2: merge next
-
-		double diffSlopPre = PeriodItem::getSlopDiff(*iterPre, *iter);
-		double diffFluPre = PeriodItem::getFluctuationDiff(*iterPre, *iter);
-		
-		if(diffSlopPre <= minSlopDiff)// && diffFluPre <= minFluDiff)
-		{
-			merge = 1;
-		}
-
+		auto iterNext = iter + 1;
 		if(iterNext != prdItems.end())
 		{
-			double diffSlopNext = PeriodItem::getSlopDiff(*iter, *iterNext);
-			double diffFluNext = PeriodItem::getFluctuationDiff(*iter, *iterNext);
-			if((merge == 0 && diffSlopNext <= minSlopDiff)// && diffFluNext <= minFluDiff)
-				|| (merge == 1 && diffSlopNext < diffSlopPre))// && diffFluNext < diffFluPre))
-			{
-				merge = 2;
-			}
-		}
-
-		if(merge == 1)
-		{
-			iterPre->m_endIndex = iter->m_endIndex;
-			iterPre->compute(datas);
-			iter->m_period = E_PRD_NONE;
-
-			++iter;
-			++iterNext;
-		}
-		else if(merge == 2)
-		{
-			iter->m_endIndex = iterNext->m_endIndex;
-			iter->compute(datas);
-			iterNext->m_period = E_PRD_NONE;
-
-			iterPre = iter;
-			iter = iterNext;
-			++iter;
-			if(iter != prdItems.end())
-			{
-				iterNext = iter + 1;
-			}
-		}
-		else
-		{
-			iterPre = iter;
-			iter = iterNext;
-			if(iterNext != prdItems.end())
-			{
-				++iterNext;
-			}
-			
+			DiffItem item;
+			item.m_index = distance(prdItems.begin(), iter);
+			item.m_value = PeriodItem::getSlopDiff(*iter, *iterNext);
+			slopDiffs.push_back(item);
 		}
 	}
+
+	DiffItem minItem = slopDiffs[0];
+	for_each(slopDiffs.begin(), slopDiffs.end(), [&minItem](const DiffItem& item)
+	{
+		if(item.m_value < minItem.m_value)
+		{
+			minItem = item;
+		}
+	});
+
+	prdItems[minItem.m_index].m_endIndex = prdItems[minItem.m_index + 1].m_endIndex;
+	prdItems[minItem.m_index].compute(datas);
+	prdItems[minItem.m_index + 1].m_period = E_PRD_NONE;
 
 	removeInvalides(prdItems);
 }

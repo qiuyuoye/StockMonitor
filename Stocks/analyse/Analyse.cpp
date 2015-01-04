@@ -3,7 +3,7 @@
 
 
 Analyse::Analyse(StockCPtr stockPtr)
-	:m_stockPtr(stockPtr)
+	:m_pStock(stockPtr)
 {
 }
 

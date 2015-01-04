@@ -20,10 +20,10 @@ public:
 
 	void updateAll();
 
-	Stock* getStock(const std::string& symbol);
+	StockCPtr getStock(const std::string& symbol);
 
 private:
-	typedef std::map<std::string, Stock*> StocksMap;
+	typedef std::map<std::string, StockPtr> StocksMap;
 
 	StockManager(void);
 	~StockManager(void);

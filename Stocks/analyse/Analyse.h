@@ -16,7 +16,7 @@ protected:
 
 	virtual void printResult(){};
 
-	StockCPtr m_stockPtr;
+	StockCPtr m_pStock;
 	
 };
 

@@ -42,7 +42,7 @@ DataAnalyse::~DataAnalyse(void)
 
 void DataAnalyse::onAnalyse()
 {
-	const ItemVec& items = m_stockPtr->getItems();
+	const ItemVec& items = m_pStock->getItems();
 	if(items.empty())
 	{
 		return;
@@ -66,9 +66,9 @@ void DataAnalyse::onAnalyse()
 
 void DataAnalyse::printResult()
 {
-	Log("----   DataAnalyse : %s  ----", m_stockPtr->getSymbol().c_str());
-	Log("Average Volume: %s", StringUtils::volumeToString(m_stockPtr->getSymbol(), m_avgVol).c_str());
-	Log("Max Volume: %s", StringUtils::volumeToString(m_stockPtr->getSymbol(), m_maxVol).c_str());
-	Log("Min Volume: %s", StringUtils::volumeToString(m_stockPtr->getSymbol(), m_minVol).c_str());
+	Log("----   DataAnalyse : %s  ----", m_pStock->getSymbol().c_str());
+	Log("Average Volume: %s", StringUtils::volumeToString(m_pStock->getSymbol(), m_avgVol).c_str());
+	Log("Max Volume: %s", StringUtils::volumeToString(m_pStock->getSymbol(), m_maxVol).c_str());
+	Log("Min Volume: %s", StringUtils::volumeToString(m_pStock->getSymbol(), m_minVol).c_str());
 	Log("-------------------");
 }

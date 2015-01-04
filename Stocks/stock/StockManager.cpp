@@ -6,6 +6,7 @@
 #include <sstream>
 #include <time.h>
 #include "utils/TimeUtils.h"
+#include <memory>
 
 using namespace std;
 
@@ -33,7 +34,7 @@ void StockManager::initialize()
 			continue;
 		}
 		string symbol = iter->substr(0, iter->size() - 4);
-		Stock *pStock = new Stock(symbol);
+		auto pStock = std::make_shared<Stock>(symbol);
 		m_stocksMap[symbol] = pStock;
 	}
 	m_initialized = true;
@@ -41,15 +42,11 @@ void StockManager::initialize()
 
 void StockManager::clear()
 {
-	for(auto iter = m_stocksMap.begin(); iter != m_stocksMap.end(); ++iter)
-	{
-		delete iter->second;
-	}
 	m_stocksMap.clear();
 	m_initialized = false;
 }
 
-Stock* StockManager::getStock(const std::string& symbol)
+StockCPtr StockManager::getStock(const std::string& symbol)
 {
 	if(!m_initialized)
 	{
@@ -62,13 +59,12 @@ Stock* StockManager::getStock(const std::string& symbol)
 		return iter->second;
 	}
 
-	Stock *pStock = new Stock(symbol);
+	auto pStock = std::make_shared<Stock>(symbol);
 	pStock->update();
 	if(!pStock->isValid())
 	{
-		delete pStock;
 		Log("No such stock symbol: %s", symbol.c_str());
-		return NULL;
+		return nullptr;
 	}
 	pStock->save();
 	m_stocksMap[symbol] = pStock;

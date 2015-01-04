@@ -27,13 +27,16 @@ enum IndexType
 	E_CLOSE,
 	E_ADJ_CLOSE,
 	E_VOLUME,
-};
+} ;
+
 
 
 #pragma warning(disable: 4251)
 class __declspec(dllexport) Stock
 {
 public:
+	static std::string indexTypeToString(IndexType eType);
+
 	explicit Stock(const std::string& symbol);
 	~Stock(void);
 
@@ -102,5 +105,5 @@ private:
 
 	bool m_vaild;
 };
-
+typedef std::shared_ptr<Stock> StockPtr;
 typedef std::shared_ptr<const Stock> StockCPtr;

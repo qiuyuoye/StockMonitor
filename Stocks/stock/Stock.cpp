@@ -424,3 +424,23 @@ void Stock::getDatasByIndex(std::vector<double>& datas, IndexType idxType, int s
 		break;
 	}
 }
+
+std::string Stock::indexTypeToString(IndexType eType)
+{
+	switch(eType)
+	{
+	case E_OPEN:
+		return "Open";
+	case E_HIGH:
+		return "High";
+	case E_LOW:
+		return "Low";
+	case E_CLOSE:
+		return "Close";
+	case E_ADJ_CLOSE:
+		return "Adjust Close";
+	case E_VOLUME:
+		return "Volume";
+	}
+	return "Unknown";
+}

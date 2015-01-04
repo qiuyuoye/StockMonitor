@@ -19,16 +19,16 @@ const std::string QUANDL_QUERY_URL="https://www.quandl.com/api/v1/datasets.json?
 static bool getHttpResponse(const string& url, string& response)
 {
 	HINTERNET hInternet1 = 
-		InternetOpenA(NULL,INTERNET_OPEN_TYPE_PRECONFIG,NULL,NULL,NULL);
-	if (NULL == hInternet1)
+		InternetOpenA(nullptr,INTERNET_OPEN_TYPE_PRECONFIG,nullptr,nullptr,NULL);
+	if (nullptr == hInternet1)
 	{
 		InternetCloseHandle(hInternet1);
 		return false;
 	}
 
 	HINTERNET hInternet2 = 
-		InternetOpenUrlA(hInternet1, url.c_str(),NULL,NULL,INTERNET_FLAG_NO_CACHE_WRITE,NULL);
-	if (NULL == hInternet2)
+		InternetOpenUrlA(hInternet1, url.c_str(),nullptr,NULL,INTERNET_FLAG_NO_CACHE_WRITE,NULL);
+	if (nullptr == hInternet2)
 	{
 		InternetCloseHandle(hInternet2);
 		InternetCloseHandle(hInternet1);

@@ -24,7 +24,7 @@ void Log(const char * pszFormat, ...)
 	OutputDebugStringW(wszBuf);
 	OutputDebugStringA("\n");
 
-	WideCharToMultiByte(CP_ACP, 0, wszBuf, sizeof(wszBuf), szBuf, sizeof(szBuf), NULL, FALSE);
+	WideCharToMultiByte(CP_ACP, 0, wszBuf, sizeof(wszBuf), szBuf, sizeof(szBuf), nullptr, FALSE);
 	printf("%s\n", szBuf);
 
 	std::ofstream file("log.txt", std::ios::app);

@@ -7,15 +7,15 @@ using namespace std;
 
 static std::string utf8Togbk(const char *src)
 {
-	int len = MultiByteToWideChar(CP_UTF8, 0, src, -1, NULL, 0);
+	int len = MultiByteToWideChar(CP_UTF8, 0, src, -1, nullptr, 0);
 	unsigned short * wszGBK = new unsigned short[len + 1];
 	memset(wszGBK, 0, len * 2 + 2);
 	MultiByteToWideChar(CP_UTF8, 0, (LPCSTR)src, -1, (LPWSTR)wszGBK, len);
 
-	len = WideCharToMultiByte(CP_ACP, 0, (LPCWSTR)wszGBK, -1, NULL, 0, NULL, NULL);
+	len = WideCharToMultiByte(CP_ACP, 0, (LPCWSTR)wszGBK, -1, nullptr, 0, nullptr, nullptr);
 	char *szGBK = new char[len + 1];
 	memset(szGBK, 0, len + 1);
-	WideCharToMultiByte(CP_ACP,0, (LPCWSTR)wszGBK, -1, szGBK, len, NULL, NULL);
+	WideCharToMultiByte(CP_ACP,0, (LPCWSTR)wszGBK, -1, szGBK, len, nullptr, nullptr);
 	std::string strTemp(szGBK);
 	if (strTemp.find('?') != std::string::npos)
 	{
@@ -35,7 +35,7 @@ FileUtils::FileUtils(void)
 
 	int nNum = WideCharToMultiByte(CP_ACP, 0, wszPath,
 		GetCurrentDirectoryW(sizeof(wszPath), wszPath),
-		s_rootDir, MAX_PATH, NULL, NULL);
+		s_rootDir, MAX_PATH, nullptr, nullptr);
 	s_rootDir[nNum] = '\\';
 }
 
@@ -74,15 +74,15 @@ bool FileUtils::isAbsolutePath(const std::string& fileName)
 
 unsigned char* FileUtils::getFileData(const char* pszFileName, const char* pszMode, unsigned long * pSize)
 {
-	unsigned char * pBuffer = NULL;
+	unsigned char * pBuffer = nullptr;
 	*pSize = 0;
 	do
 	{
 		// read the file from hardware
 		std::string fullPath = getFullPath(pszFileName);
-		FILE *fp = NULL;
+		FILE *fp = nullptr;
 		fopen_s(&fp, fullPath.c_str(), pszMode);
-		if(fp == NULL)
+		if(fp == nullptr)
 		{
 			break;
 		}

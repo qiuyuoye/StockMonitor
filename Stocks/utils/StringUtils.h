@@ -2,6 +2,7 @@
 
 #include <string>
 #include <vector>
+#include <sstream>
 
 
 class USE_DLL StringUtils
@@ -26,6 +27,7 @@ std::string StringUtils::formatWithCommas(T number)
 {
 	std::stringstream ss;
 	ss.imbue(std::locale(""));
+	ss.precision(2);
 	ss << std::fixed << number;
 	return ss.str();
 }

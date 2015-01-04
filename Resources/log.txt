@@ -15520,3 +15520,1512 @@ Trend Down
 Max: 32.7500, Min: 31.7400, Avg: 32.2450
 Slop: -0.1151, Standard Deviation: 0.0000
 Max Gain: 0.0000, Max Loss -1.0100
+Merge 0.021037
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+Stock Item: ??;
+2013-1-1  2013-1-11: Tread UP, Max 126574300.0000, Min 0.0000, Avg 70794077.7778, Max Gain 179954600.0000, Max Loss -62281300.0000, Slop 669252.5006, Standard Deviation 2115674.1743
+----------------Stock Item----------------
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+Stock Item: ??;
+2013-1-11  2013-1-15: Tread UP, Max 164308700.0000, Min 117673300.0000, Avg 144105100.0000, Max Gain 46635400.0000, Max Loss -13975400.0000, Slop 742999.0208, Standard Deviation 1378866.0457
+----------------Stock Item----------------
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+Stock Item: ??;
+2013-1-15  2013-1-25: Tread DOWN, Max 231183700.0000, Min 84813100.0000, Avg 130316711.1111, Max Gain 204170400.0000, Max Loss -247754900.0000, Slop -247881.5127, Standard Deviation 3315295.9766
+----------------Stock Item----------------
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+Stock Item: ??;
+2013-1-25  2013-1-30: Tread UP, Max 231065300.0000, Min 106748800.0000, Avg 178497950.0000, Max Gain 124316500.0000, Max Loss -55865000.0000, Slop 1038158.7564, Standard Deviation 2797769.2906
+----------------Stock Item----------------
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+Stock Item: ??;
+2013-1-30  2013-1-31: Tread DOWN, Max 175200300.0000, Min 123862400.0000, Avg 149531350.0000, Max Gain 0.0000, Max Loss -51337900.0000, Slop -2335824.2150, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+Stock Item: ??;
+2013-1-31  2013-2-1: Tread UP, Max 158870800.0000, Min 123862400.0000, Avg 141366600.0000, Max Gain 35008400.0000, Max Loss 0.0000, Slop 1592847.9437, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+Stock Item: ??;
+2013-2-1  2013-2-26: Tread DOWN, Max 209597400.0000, Min 0.0000, Avg 97072550.0000, Max Gain 302231800.0000, Max Loss -346393800.0000, Slop -118195.7522, Standard Deviation 2414099.3691
+----------------Stock Item----------------
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+Stock Item: ??;
+2013-2-26  2013-3-1: Tread UP, Max 171981500.0000, Min 114708800.0000, Avg 136969900.0000, Max Gain 57272700.0000, Max Loss -45031200.0000, Slop 185658.7572, Standard Deviation 1615862.9174
+----------------Stock Item----------------
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+Stock Item: ??;
+2013-3-1  2013-3-4: Tread UP, Max 219582300.0000, Min 126950300.0000, Avg 173266300.0000, Max Gain 92632000.0000, Max Loss 0.0000, Slop 4214665.3581, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+Stock Item: ??;
+2013-3-4  2013-3-5: Tread DOWN, Max 219582300.0000, Min 159346400.0000, Avg 189464350.0000, Max Gain 0.0000, Max Loss -60235900.0000, Slop -2740674.5082, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+Stock Item: ??;
+2013-3-5  2013-9-5: Tread DOWN, Max 278498100.0000, Min 0.0000, Avg 89165826.3158, Max Gain 2209377900.0000, Max Loss -2323805600.0000, Slop -39442.0332, Standard Deviation 2246454.2205
+----------------Stock Item----------------
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+Stock Item: ??;
+2013-9-5  2013-9-12: Tread UP, Max 423291100.0000, Min 44918700.0000, Avg 255239450.0000, Max Gain 378372400.0000, Max Loss -65826600.0000, Slop 2844105.6138, Standard Deviation 3873518.0867
+----------------Stock Item----------------
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+Stock Item: ??;
+2013-9-12  2014-4-9: Tread DOWN, Max 404920400.0000, Min 0.0000, Avg 91021149.3243, Max Gain 2574529900.0000, Max Loss -2859100800.0000, Slop -88079.5748, Standard Deviation 2777139.0413
+----------------Stock Item----------------
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+Stock Item: ??;
+2014-4-9  2014-4-10: Tread UP, Max 459621500.0000, Min 72893600.0000, Avg 266257550.0000, Max Gain 386727900.0000, Max Loss 0.0000, Slop 17595741.0305, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+Stock Item: ??;
+2014-4-10  2014-8-1: Tread DOWN, Max 459621500.0000, Min 0.0000, Avg 89685770.7317, Max Gain 1120080600.0000, Max Loss -1449944300.0000, Slop -185289.8219, Standard Deviation 2364766.3970
+----------------Stock Item----------------
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+Stock Item: ??;
+2014-8-1  2014-8-4: Tread UP, Max 272407500.0000, Min 129757800.0000, Avg 201082650.0000, Max Gain 142649700.0000, Max Loss 0.0000, Slop 6490421.7650, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+Stock Item: ??;
+2014-8-4  2014-11-6: Tread DOWN, Max 298392600.0000, Min 0.0000, Avg 124239939.1304, Max Gain 1423418000.0000, Max Loss -1564213700.0000, Slop -94206.8615, Standard Deviation 2826482.4604
+----------------Stock Item----------------
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+Stock Item: ??;
+2014-11-6  2014-11-12: Tread UP, Max 632214600.0000, Min 131611800.0000, Avg 490851580.0000, Max Gain 549432100.0000, Max Loss -143592900.0000, Slop 4616321.6200, Standard Deviation 10093359.5353
+----------------Stock Item----------------
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+Stock Item: ??;
+2014-11-12  2014-11-13: Tread DOWN, Max 537451000.0000, Min 512400900.0000, Avg 524925950.0000, Max Gain 0.0000, Max Loss -25050100.0000, Slop -1139755.0381, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+Stock Item: ??;
+2014-11-13  2014-11-14: Tread DOWN, Max 512400900.0000, Min 442371400.0000, Avg 477386150.0000, Max Gain 0.0000, Max Loss -70029500.0000, Slop -3186273.7250, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+Stock Item: ??;
+2014-11-14  2014-11-19: Tread DOWN, Max 442371400.0000, Min 228333200.0000, Avg 350528550.0000, Max Gain 0.0000, Max Loss -214038200.0000, Slop -3246176.2201, Standard Deviation 1211871.8134
+----------------Stock Item----------------
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+Stock Item: ??;
+2014-11-19  2014-11-24: Tread UP, Max 721024900.0000, Min 228333200.0000, Avg 420415475.0000, Max Gain 492691700.0000, Max Loss 0.0000, Slop 7472330.0811, Standard Deviation 5360349.9941
+----------------Stock Item----------------
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+Stock Item: ??;
+2014-11-24  2014-11-25: Tread DOWN, Max 721024900.0000, Min 346274700.0000, Avg 533649800.0000, Max Gain 0.0000, Max Loss -374750200.0000, Slop -17050767.4009, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+Stock Item: ??;
+2014-11-25  2014-11-27: Tread UP, Max 569435700.0000, Min 346274700.0000, Avg 457908066.6667, Max Gain 223161000.0000, Max Loss 0.0000, Slop 5076803.5667, Standard Deviation 7216.1448
+----------------Stock Item----------------
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+Stock Item: ??;
+2014-11-27  2014-11-28: Tread DOWN, Max 569435700.0000, Min 513278600.0000, Avg 541357150.0000, Max Gain 0.0000, Max Loss -56157100.0000, Slop -2555093.0994, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+Stock Item: ??;
+2014-11-28  2014-12-10: Tread UP, Max 1384499700.0000, Min 513278600.0000, Avg 911746022.2222, Max Gain 1303013700.0000, Max Loss -542938500.0000, Slop 4322834.7318, Standard Deviation 12127201.1715
+----------------Stock Item----------------
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+Stock Item: ??;
+2014-12-10  2014-12-11: Tread DOWN, Max 1273353800.0000, Min 842989900.0000, Avg 1058171850.0000, Max Gain 0.0000, Max Loss -430363900.0000, Slop -19581136.3320, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+Stock Item: ??;
+2014-12-11  2014-12-17: Tread UP, Max 1229474000.0000, Min 687947000.0000, Avg 948868760.0000, Max Gain 558133700.0000, Max Loss -171649600.0000, Slop 4396162.0923, Standard Deviation 10017186.8233
+----------------Stock Item----------------
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+Stock Item: ??;
+2014-12-17  2014-12-18: Tread DOWN, Max 1229474000.0000, Min 1011644600.0000, Avg 1120559300.0000, Max Gain 0.0000, Max Loss -217829400.0000, Slop -9911024.5504, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+Stock Item: ??7
+2013-1-1  2013-1-11: Tread UP, Max 126574300.0000, Min 0.0000, Avg 70794077.7778, Max Gain 179954600.0000, Max Loss -62281300.0000, Slop 669252.5006, Standard Deviation 2115674.1743
+----------------Stock Item----------------
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+Stock Item: ??7
+2013-1-11  2013-1-15: Tread UP, Max 164308700.0000, Min 117673300.0000, Avg 144105100.0000, Max Gain 46635400.0000, Max Loss -13975400.0000, Slop 742999.0208, Standard Deviation 1378866.0457
+----------------Stock Item----------------
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+Stock Item: ??7
+2013-1-15  2013-1-25: Tread DOWN, Max 231183700.0000, Min 84813100.0000, Avg 130316711.1111, Max Gain 204170400.0000, Max Loss -247754900.0000, Slop -247881.5127, Standard Deviation 3315295.9766
+----------------Stock Item----------------
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+Stock Item: ??7
+2013-1-25  2013-1-30: Tread UP, Max 231065300.0000, Min 106748800.0000, Avg 178497950.0000, Max Gain 124316500.0000, Max Loss -55865000.0000, Slop 1038158.7564, Standard Deviation 2797769.2906
+----------------Stock Item----------------
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+Stock Item: ??7
+2013-1-30  2013-1-31: Tread DOWN, Max 175200300.0000, Min 123862400.0000, Avg 149531350.0000, Max Gain 0.0000, Max Loss -51337900.0000, Slop -2335824.2150, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+Stock Item: ??7
+2013-1-31  2013-2-1: Tread UP, Max 158870800.0000, Min 123862400.0000, Avg 141366600.0000, Max Gain 35008400.0000, Max Loss 0.0000, Slop 1592847.9437, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+Stock Item: ??7
+2013-2-1  2013-2-26: Tread DOWN, Max 209597400.0000, Min 0.0000, Avg 97072550.0000, Max Gain 302231800.0000, Max Loss -346393800.0000, Slop -118195.7522, Standard Deviation 2414099.3691
+----------------Stock Item----------------
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+Stock Item: ??7
+2013-2-26  2013-3-1: Tread UP, Max 171981500.0000, Min 114708800.0000, Avg 136969900.0000, Max Gain 57272700.0000, Max Loss -45031200.0000, Slop 185658.7572, Standard Deviation 1615862.9174
+----------------Stock Item----------------
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+Stock Item: ??7
+2013-3-1  2013-3-4: Tread UP, Max 219582300.0000, Min 126950300.0000, Avg 173266300.0000, Max Gain 92632000.0000, Max Loss 0.0000, Slop 4214665.3581, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+Stock Item: ??7
+2013-3-4  2013-3-5: Tread DOWN, Max 219582300.0000, Min 159346400.0000, Avg 189464350.0000, Max Gain 0.0000, Max Loss -60235900.0000, Slop -2740674.5082, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+Stock Item: ??7
+2013-3-5  2013-9-5: Tread DOWN, Max 278498100.0000, Min 0.0000, Avg 89165826.3158, Max Gain 2209377900.0000, Max Loss -2323805600.0000, Slop -39442.0332, Standard Deviation 2246454.2205
+----------------Stock Item----------------
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+Stock Item: ??7
+2013-9-5  2013-9-12: Tread UP, Max 423291100.0000, Min 44918700.0000, Avg 255239450.0000, Max Gain 378372400.0000, Max Loss -65826600.0000, Slop 2844105.6138, Standard Deviation 3873518.0867
+----------------Stock Item----------------
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+Stock Item: ??7
+2013-9-12  2014-4-9: Tread DOWN, Max 404920400.0000, Min 0.0000, Avg 91021149.3243, Max Gain 2574529900.0000, Max Loss -2859100800.0000, Slop -88079.5748, Standard Deviation 2777139.0413
+----------------Stock Item----------------
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+Stock Item: ??7
+2014-4-9  2014-4-10: Tread UP, Max 459621500.0000, Min 72893600.0000, Avg 266257550.0000, Max Gain 386727900.0000, Max Loss 0.0000, Slop 17595741.0305, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+Stock Item: ??7
+2014-4-10  2014-8-1: Tread DOWN, Max 459621500.0000, Min 0.0000, Avg 89685770.7317, Max Gain 1120080600.0000, Max Loss -1449944300.0000, Slop -185289.8219, Standard Deviation 2364766.3970
+----------------Stock Item----------------
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+Stock Item: ??7
+2014-8-1  2014-8-4: Tread UP, Max 272407500.0000, Min 129757800.0000, Avg 201082650.0000, Max Gain 142649700.0000, Max Loss 0.0000, Slop 6490421.7650, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+Stock Item: ??7
+2014-8-4  2014-11-6: Tread DOWN, Max 298392600.0000, Min 0.0000, Avg 124239939.1304, Max Gain 1423418000.0000, Max Loss -1564213700.0000, Slop -94206.8615, Standard Deviation 2826482.4604
+----------------Stock Item----------------
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+Stock Item: ??7
+2014-11-6  2014-11-12: Tread UP, Max 632214600.0000, Min 131611800.0000, Avg 490851580.0000, Max Gain 549432100.0000, Max Loss -143592900.0000, Slop 4616321.6200, Standard Deviation 10093359.5353
+----------------Stock Item----------------
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+Stock Item: ??7
+2014-11-12  2014-11-13: Tread DOWN, Max 537451000.0000, Min 512400900.0000, Avg 524925950.0000, Max Gain 0.0000, Max Loss -25050100.0000, Slop -1139755.0381, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+Stock Item: ??7
+2014-11-13  2014-11-14: Tread DOWN, Max 512400900.0000, Min 442371400.0000, Avg 477386150.0000, Max Gain 0.0000, Max Loss -70029500.0000, Slop -3186273.7250, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+Stock Item: ??7
+2014-11-14  2014-11-19: Tread DOWN, Max 442371400.0000, Min 228333200.0000, Avg 350528550.0000, Max Gain 0.0000, Max Loss -214038200.0000, Slop -3246176.2201, Standard Deviation 1211871.8134
+----------------Stock Item----------------
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+Stock Item: ??7
+2014-11-19  2014-11-24: Tread UP, Max 721024900.0000, Min 228333200.0000, Avg 420415475.0000, Max Gain 492691700.0000, Max Loss 0.0000, Slop 7472330.0811, Standard Deviation 5360349.9941
+----------------Stock Item----------------
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+Stock Item: ??7
+2014-11-24  2014-11-25: Tread DOWN, Max 721024900.0000, Min 346274700.0000, Avg 533649800.0000, Max Gain 0.0000, Max Loss -374750200.0000, Slop -17050767.4009, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+Stock Item: ??7
+2014-11-25  2014-11-27: Tread UP, Max 569435700.0000, Min 346274700.0000, Avg 457908066.6667, Max Gain 223161000.0000, Max Loss 0.0000, Slop 5076803.5667, Standard Deviation 7216.1448
+----------------Stock Item----------------
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+Stock Item: ??7
+2014-11-27  2014-11-28: Tread DOWN, Max 569435700.0000, Min 513278600.0000, Avg 541357150.0000, Max Gain 0.0000, Max Loss -56157100.0000, Slop -2555093.0994, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+Stock Item: ??7
+2014-11-28  2014-12-10: Tread UP, Max 1384499700.0000, Min 513278600.0000, Avg 911746022.2222, Max Gain 1303013700.0000, Max Loss -542938500.0000, Slop 4322834.7318, Standard Deviation 12127201.1715
+----------------Stock Item----------------
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+Stock Item: ??7
+2014-12-10  2014-12-11: Tread DOWN, Max 1273353800.0000, Min 842989900.0000, Avg 1058171850.0000, Max Gain 0.0000, Max Loss -430363900.0000, Slop -19581136.3320, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+Stock Item: ??7
+2014-12-11  2014-12-17: Tread UP, Max 1229474000.0000, Min 687947000.0000, Avg 948868760.0000, Max Gain 558133700.0000, Max Loss -171649600.0000, Slop 4396162.0923, Standard Deviation 10017186.8233
+----------------Stock Item----------------
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+Stock Item: ??7
+2014-12-17  2014-12-18: Tread DOWN, Max 1229474000.0000, Min 1011644600.0000, Avg 1120559300.0000, Max Gain 0.0000, Max Loss -217829400.0000, Slop -9911024.5504, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.9000, Min 12.2700, Avg 12.7267, Max Gain 0.1900, Max Loss -0.8200, Slop -0.0036, Standard Deviation 0.0086
+Stock Item: Volume
+2013-1-1  2013-1-11: Tread UP, Max 126574300.0000, Min 0.0000, Avg 70794077.7778, Max Gain 179954600.0000, Max Loss -62281300.0000, Slop 669252.5006, Standard Deviation 2115674.1743
+----------------Stock Item----------------
+2013-1-11  2013-1-15: Tread UP, Max 13.1600, Min 12.2700, Avg 12.8500, Max Gain 0.8900, Max Loss 0.0000, Slop 0.0202, Standard Deviation 0.0184
+Stock Item: Volume
+2013-1-11  2013-1-15: Tread UP, Max 164308700.0000, Min 117673300.0000, Avg 144105100.0000, Max Gain 46635400.0000, Max Loss -13975400.0000, Slop 742999.0208, Standard Deviation 1378866.0457
+----------------Stock Item----------------
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.3800, Min 12.8600, Avg 13.1633, Max Gain 0.5500, Max Loss -0.6300, Slop -0.0005, Standard Deviation 0.0083
+Stock Item: Volume
+2013-1-15  2013-1-25: Tread DOWN, Max 231183700.0000, Min 84813100.0000, Avg 130316711.1111, Max Gain 204170400.0000, Max Loss -247754900.0000, Slop -247881.5127, Standard Deviation 3315295.9766
+----------------Stock Item----------------
+2013-1-25  2013-1-30: Tread UP, Max 14.7200, Min 13.0800, Avg 14.0250, Max Gain 1.6400, Max Loss 0.0000, Slop 0.0249, Standard Deviation 0.0094
+Stock Item: Volume
+2013-1-25  2013-1-30: Tread UP, Max 231065300.0000, Min 106748800.0000, Avg 178497950.0000, Max Gain 124316500.0000, Max Loss -55865000.0000, Slop 1038158.7564, Standard Deviation 2797769.2906
+----------------Stock Item----------------
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.7200, Min 14.6600, Avg 14.6900, Max Gain 0.0000, Max Loss -0.0600, Slop -0.0027, Standard Deviation 0.0000
+Stock Item: Volume
+2013-1-30  2013-1-31: Tread DOWN, Max 175200300.0000, Min 123862400.0000, Avg 149531350.0000, Max Gain 0.0000, Max Loss -51337900.0000, Slop -2335824.2150, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-1-31  2013-2-1: Tread UP, Max 15.2000, Min 14.6600, Avg 14.9300, Max Gain 0.5400, Max Loss 0.0000, Slop 0.0246, Standard Deviation 0.0000
+Stock Item: Volume
+2013-1-31  2013-2-1: Tread UP, Max 158870800.0000, Min 123862400.0000, Avg 141366600.0000, Max Gain 35008400.0000, Max Loss 0.0000, Slop 1592847.9437, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.2000, Min 13.0800, Avg 14.4317, Max Gain 0.6800, Max Loss -2.8000, Slop -0.0057, Standard Deviation 0.0122
+Stock Item: Volume
+2013-2-1  2013-2-26: Tread DOWN, Max 209597400.0000, Min 0.0000, Avg 97072550.0000, Max Gain 302231800.0000, Max Loss -346393800.0000, Slop -118195.7522, Standard Deviation 2414099.3691
+----------------Stock Item----------------
+2013-2-26  2013-3-1: Tread UP, Max 14.2600, Min 13.0800, Avg 13.7400, Max Gain 1.1800, Max Loss 0.0000, Slop 0.0179, Standard Deviation 0.0106
+Stock Item: Volume
+2013-2-26  2013-3-1: Tread UP, Max 171981500.0000, Min 114708800.0000, Avg 136969900.0000, Max Gain 57272700.0000, Max Loss -45031200.0000, Slop 185658.7572, Standard Deviation 1615862.9174
+----------------Stock Item----------------
+2013-3-1  2013-3-4: Tread DOWN, Max 14.2600, Min 13.3400, Avg 13.8000, Max Gain 0.0000, Max Loss -0.9200, Slop -0.0419, Standard Deviation 0.0000
+Stock Item: Volume
+2013-3-1  2013-3-4: Tread UP, Max 219582300.0000, Min 126950300.0000, Avg 173266300.0000, Max Gain 92632000.0000, Max Loss 0.0000, Slop 4214665.3581, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-3-4  2013-3-5: Tread UP, Max 13.9800, Min 13.3400, Avg 13.6600, Max Gain 0.6400, Max Loss 0.0000, Slop 0.0291, Standard Deviation 0.0000
+Stock Item: Volume
+2013-3-4  2013-3-5: Tread DOWN, Max 219582300.0000, Min 159346400.0000, Avg 189464350.0000, Max Gain 0.0000, Max Loss -60235900.0000, Slop -2740674.5082, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.9800, Min 9.5000, Avg 11.4196, Max Gain 10.4600, Max Loss -13.5000, Slop -0.0010, Standard Deviation 0.0116
+Stock Item: Volume
+2013-3-5  2013-9-5: Tread DOWN, Max 278498100.0000, Min 0.0000, Avg 89165826.3158, Max Gain 2209377900.0000, Max Loss -2323805600.0000, Slop -39442.0332, Standard Deviation 2246454.2205
+----------------Stock Item----------------
+2013-9-5  2013-9-12: Tread UP, Max 13.4200, Min 10.9400, Avg 12.1667, Max Gain 2.4800, Max Loss 0.0000, Slop 0.0226, Standard Deviation 0.0195
+Stock Item: Volume
+2013-9-5  2013-9-12: Tread UP, Max 423291100.0000, Min 44918700.0000, Avg 255239450.0000, Max Gain 378372400.0000, Max Loss -65826600.0000, Slop 2844105.6138, Standard Deviation 3873518.0867
+----------------Stock Item----------------
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.4200, Min 9.9500, Avg 11.6780, Max Gain 10.6300, Max Loss -12.9700, Slop -0.0007, Standard Deviation 0.0104
+Stock Item: Volume
+2013-9-12  2014-4-9: Tread DOWN, Max 404920400.0000, Min 0.0000, Avg 91021149.3243, Max Gain 2574529900.0000, Max Loss -2859100800.0000, Slop -88079.5748, Standard Deviation 2777139.0413
+----------------Stock Item----------------
+2014-4-9  2014-4-10: Tread UP, Max 12.1500, Min 11.0800, Avg 11.6150, Max Gain 1.0700, Max Loss 0.0000, Slop 0.0487, Standard Deviation 0.0000
+Stock Item: Volume
+2014-4-9  2014-4-10: Tread UP, Max 459621500.0000, Min 72893600.0000, Avg 266257550.0000, Max Gain 386727900.0000, Max Loss 0.0000, Slop 17595741.0305, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.0800, Min 10.9500, Avg 11.5080, Max Gain 5.3700, Max Loss -4.8200, Slop 0.0003, Standard Deviation 0.0078
+Stock Item: Volume
+2014-4-10  2014-8-1: Tread DOWN, Max 459621500.0000, Min 0.0000, Avg 89685770.7317, Max Gain 1120080600.0000, Max Loss -1449944300.0000, Slop -185289.8219, Standard Deviation 2364766.3970
+----------------Stock Item----------------
+2014-8-1  2014-8-4: Tread UP, Max 13.4700, Min 12.7000, Avg 13.0850, Max Gain 0.7700, Max Loss 0.0000, Slop 0.0350, Standard Deviation 0.0000
+Stock Item: Volume
+2014-8-1  2014-8-4: Tread UP, Max 272407500.0000, Min 129757800.0000, Avg 201082650.0000, Max Gain 142649700.0000, Max Loss 0.0000, Slop 6490421.7650, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.6300, Min 12.3300, Avg 13.1423, Max Gain 4.6500, Max Loss -4.9400, Slop -0.0002, Standard Deviation 0.0083
+Stock Item: Volume
+2014-8-4  2014-11-6: Tread DOWN, Max 298392600.0000, Min 0.0000, Avg 124239939.1304, Max Gain 1423418000.0000, Max Loss -1564213700.0000, Slop -94206.8615, Standard Deviation 2826482.4604
+----------------Stock Item----------------
+2014-11-6  2014-11-12: Tread UP, Max 15.3800, Min 13.1800, Avg 14.1140, Max Gain 2.2000, Max Loss 0.0000, Slop 0.0250, Standard Deviation 0.0162
+Stock Item: Volume
+2014-11-6  2014-11-12: Tread UP, Max 632214600.0000, Min 131611800.0000, Avg 490851580.0000, Max Gain 549432100.0000, Max Loss -143592900.0000, Slop 4616321.6200, Standard Deviation 10093359.5353
+----------------Stock Item----------------
+2014-11-12  2014-11-13: Tread DOWN, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.0000, Max Loss -0.3200, Slop -0.0146, Standard Deviation 0.0000
+Stock Item: Volume
+2014-11-12  2014-11-13: Tread DOWN, Max 537451000.0000, Min 512400900.0000, Avg 524925950.0000, Max Gain 0.0000, Max Loss -25050100.0000, Slop -1139755.0381, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-11-13  2014-11-14: Tread UP, Max 15.3800, Min 15.0600, Avg 15.2200, Max Gain 0.3200, Max Loss 0.0000, Slop 0.0146, Standard Deviation 0.0000
+Stock Item: Volume
+2014-11-13  2014-11-14: Tread DOWN, Max 512400900.0000, Min 442371400.0000, Avg 477386150.0000, Max Gain 0.0000, Max Loss -70029500.0000, Slop -3186273.7250, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-11-14  2014-11-19: Tread DOWN, Max 15.3800, Min 14.4000, Avg 14.8225, Max Gain 0.0000, Max Loss -0.9800, Slop -0.0149, Standard Deviation 0.0057
+Stock Item: Volume
+2014-11-14  2014-11-19: Tread DOWN, Max 442371400.0000, Min 228333200.0000, Avg 350528550.0000, Max Gain 0.0000, Max Loss -214038200.0000, Slop -3246176.2201, Standard Deviation 1211871.8134
+----------------Stock Item----------------
+2014-11-19  2014-11-24: Tread UP, Max 16.5400, Min 14.4000, Avg 15.2775, Max Gain 2.1400, Max Loss 0.0000, Slop 0.0325, Standard Deviation 0.0165
+Stock Item: Volume
+2014-11-19  2014-11-24: Tread UP, Max 721024900.0000, Min 228333200.0000, Avg 420415475.0000, Max Gain 492691700.0000, Max Loss 0.0000, Slop 7472330.0811, Standard Deviation 5360349.9941
+----------------Stock Item----------------
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.5400, Min 16.4600, Avg 16.5000, Max Gain 0.0000, Max Loss -0.0800, Slop -0.0036, Standard Deviation 0.0000
+Stock Item: Volume
+2014-11-24  2014-11-25: Tread DOWN, Max 721024900.0000, Min 346274700.0000, Avg 533649800.0000, Max Gain 0.0000, Max Loss -374750200.0000, Slop -17050767.4009, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-11-25  2014-11-27: Tread UP, Max 17.5100, Min 16.4600, Avg 16.9967, Max Gain 1.0500, Max Loss 0.0000, Slop 0.0239, Standard Deviation 0.0016
+Stock Item: Volume
+2014-11-25  2014-11-27: Tread UP, Max 569435700.0000, Min 346274700.0000, Avg 457908066.6667, Max Gain 223161000.0000, Max Loss 0.0000, Slop 5076803.5667, Standard Deviation 7216.1448
+----------------Stock Item----------------
+2014-11-27  2014-11-28: Tread DOWN, Max 17.5100, Min 17.2600, Avg 17.3850, Max Gain 0.0000, Max Loss -0.2500, Slop -0.0114, Standard Deviation 0.0000
+Stock Item: Volume
+2014-11-27  2014-11-28: Tread DOWN, Max 569435700.0000, Min 513278600.0000, Avg 541357150.0000, Max Gain 0.0000, Max Loss -56157100.0000, Slop -2555093.0994, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-11-28  2014-12-10: Tread UP, Max 27.2700, Min 17.2600, Avg 21.8100, Max Gain 10.0100, Max Loss 0.0000, Slop 0.0569, Standard Deviation 0.0339
+Stock Item: Volume
+2014-11-28  2014-12-10: Tread UP, Max 1384499700.0000, Min 513278600.0000, Avg 911746022.2222, Max Gain 1303013700.0000, Max Loss -542938500.0000, Slop 4322834.7318, Standard Deviation 12127201.1715
+----------------Stock Item----------------
+2014-12-10  2014-12-11: Tread DOWN, Max 27.2700, Min 24.7100, Avg 25.9900, Max Gain 0.0000, Max Loss -2.5600, Slop -0.1165, Standard Deviation 0.0000
+Stock Item: Volume
+2014-12-10  2014-12-11: Tread DOWN, Max 1273353800.0000, Min 842989900.0000, Avg 1058171850.0000, Max Gain 0.0000, Max Loss -430363900.0000, Slop -19581136.3320, Standard Deviation 0.0000
+----------------Stock Item----------------
+2014-12-11  2014-12-17: Tread UP, Max 32.7500, Min 24.7100, Avg 27.9520, Max Gain 8.0400, Max Loss 0.0000, Slop 0.0915, Standard Deviation 0.0405
+Stock Item: Volume
+2014-12-11  2014-12-17: Tread UP, Max 1229474000.0000, Min 687947000.0000, Avg 948868760.0000, Max Gain 558133700.0000, Max Loss -171649600.0000, Slop 4396162.0923, Standard Deviation 10017186.8233
+----------------Stock Item----------------
+2014-12-17  2014-12-18: Tread DOWN, Max 32.7500, Min 31.7400, Avg 32.2450, Max Gain 0.0000, Max Loss -1.0100, Slop -0.0460, Standard Deviation 0.0000
+Stock Item: Volume
+2014-12-17  2014-12-18: Tread DOWN, Max 1229474000.0000, Min 1011644600.0000, Avg 1120559300.0000, Max Gain 0.0000, Max Loss -217829400.0000, Slop -9911024.5504, Standard Deviation 0.0000
+----------------Stock Item----------------
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.900000, Min 12.270000, Avg 12.726667, Max Gain 0.190000, Max Loss -0.820000, Slop -0.003583, Standard Deviation 0.008649
+Stock Item: Volume
+2013-1-1  2013-1-11: Tread UP, Max 126,574,300.000000, Min 0.000000, Avg 70,794,077.777778, Max Gain 179,954,600.000000, Max Loss -62,281,300.000000, Slop 669,252.500599, Standard Deviation 2,115,674.174260
+----------------Stock Item----------------
+2013-1-11  2013-1-15: Tread UP, Max 13.160000, Min 12.270000, Avg 12.850000, Max Gain 0.890000, Max Loss 0.000000, Slop 0.020247, Standard Deviation 0.018427
+Stock Item: Volume
+2013-1-11  2013-1-15: Tread UP, Max 164,308,700.000000, Min 117,673,300.000000, Avg 144,105,100.000000, Max Gain 46,635,400.000000, Max Loss -13,975,400.000000, Slop 742,999.020833, Standard Deviation 1,378,866.045680
+----------------Stock Item----------------
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.380000, Min 12.860000, Avg 13.163333, Max Gain 0.550000, Max Loss -0.630000, Slop -0.000455, Standard Deviation 0.008325
+Stock Item: Volume
+2013-1-15  2013-1-25: Tread DOWN, Max 231,183,700.000000, Min 84,813,100.000000, Avg 130,316,711.111111, Max Gain 204,170,400.000000, Max Loss -247,754,900.000000, Slop -247,881.512733, Standard Deviation 3,315,295.976555
+----------------Stock Item----------------
+2013-1-25  2013-1-30: Tread UP, Max 14.720000, Min 13.080000, Avg 14.025000, Max Gain 1.640000, Max Loss 0.000000, Slop 0.024873, Standard Deviation 0.009445
+Stock Item: Volume
+2013-1-25  2013-1-30: Tread UP, Max 231,065,300.000000, Min 106,748,800.000000, Avg 178,497,950.000000, Max Gain 124,316,500.000000, Max Loss -55,865,000.000000, Slop 1,038,158.756370, Standard Deviation 2,797,769.290578
+----------------Stock Item----------------
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.720000, Min 14.660000, Avg 14.690000, Max Gain 0.000000, Max Loss -0.060000, Slop -0.002730, Standard Deviation 0.000000
+Stock Item: Volume
+2013-1-30  2013-1-31: Tread DOWN, Max 175,200,300.000000, Min 123,862,400.000000, Avg 149,531,350.000000, Max Gain 0.000000, Max Loss -51,337,900.000000, Slop -2,335,824.215041, Standard Deviation 0.000000
+----------------Stock Item----------------
+2013-1-31  2013-2-1: Tread UP, Max 15.200000, Min 14.660000, Avg 14.930000, Max Gain 0.540000, Max Loss 0.000000, Slop 0.024569, Standard Deviation 0.000000
+Stock Item: Volume
+2013-1-31  2013-2-1: Tread UP, Max 158,870,800.000000, Min 123,862,400.000000, Avg 141,366,600.000000, Max Gain 35,008,400.000000, Max Loss 0.000000, Slop 1,592,847.943719, Standard Deviation 0.000000
+----------------Stock Item----------------
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.200000, Min 13.080000, Avg 14.431667, Max Gain 0.680000, Max Loss -2.800000, Slop -0.005674, Standard Deviation 0.012179
+Stock Item: Volume
+2013-2-1  2013-2-26: Tread DOWN, Max 209,597,400.000000, Min 0.000000, Avg 97,072,550.000000, Max Gain 302,231,800.000000, Max Loss -346,393,800.000000, Slop -118,195.752163, Standard Deviation 2,414,099.369082
+----------------Stock Item----------------
+2013-2-26  2013-3-1: Tread UP, Max 14.260000, Min 13.080000, Avg 13.740000, Max Gain 1.180000, Max Loss 0.000000, Slop 0.017896, Standard Deviation 0.010588
+Stock Item: Volume
+2013-2-26  2013-3-1: Tread UP, Max 171,981,500.000000, Min 114,708,800.000000, Avg 136,969,900.000000, Max Gain 57,272,700.000000, Max Loss -45,031,200.000000, Slop 185,658.757165, Standard Deviation 1,615,862.917353
+----------------Stock Item----------------
+2013-3-1  2013-3-4: Tread DOWN, Max 14.260000, Min 13.340000, Avg 13.800000, Max Gain 0.000000, Max Loss -0.920000, Slop -0.041859, Standard Deviation 0.000000
+Stock Item: Volume
+2013-3-1  2013-3-4: Tread UP, Max 219,582,300.000000, Min 126,950,300.000000, Avg 173,266,300.000000, Max Gain 92,632,000.000000, Max Loss 0.000000, Slop 4,214,665.358102, Standard Deviation 0.000000
+----------------Stock Item----------------
+2013-3-4  2013-3-5: Tread UP, Max 13.980000, Min 13.340000, Avg 13.660000, Max Gain 0.640000, Max Loss 0.000000, Slop 0.029119, Standard Deviation 0.000000
+Stock Item: Volume
+2013-3-4  2013-3-5: Tread DOWN, Max 219,582,300.000000, Min 159,346,400.000000, Avg 189,464,350.000000, Max Gain 0.000000, Max Loss -60,235,900.000000, Slop -2,740,674.508206, Standard Deviation 0.000000
+----------------Stock Item----------------
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.980000, Min 9.500000, Avg 11.419624, Max Gain 10.460000, Max Loss -13.500000, Slop -0.001048, Standard Deviation 0.011610
+Stock Item: Volume
+2013-3-5  2013-9-5: Tread DOWN, Max 278,498,100.000000, Min 0.000000, Avg 89,165,826.315789, Max Gain 2,209,377,900.000000, Max Loss -2,323,805,600.000000, Slop -39,442.033187, Standard Deviation 2,246,454.220480
+----------------Stock Item----------------
+2013-9-5  2013-9-12: Tread UP, Max 13.420000, Min 10.940000, Avg 12.166667, Max Gain 2.480000, Max Loss 0.000000, Slop 0.022568, Standard Deviation 0.019484
+Stock Item: Volume
+2013-9-5  2013-9-12: Tread UP, Max 423,291,100.000000, Min 44,918,700.000000, Avg 255,239,450.000000, Max Gain 378,372,400.000000, Max Loss -65,826,600.000000, Slop 2,844,105.613784, Standard Deviation 3,873,518.086685
+----------------Stock Item----------------
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.420000, Min 9.950000, Avg 11.678041, Max Gain 10.630000, Max Loss -12.970000, Slop -0.000724, Standard Deviation 0.010413
+Stock Item: Volume
+2013-9-12  2014-4-9: Tread DOWN, Max 404,920,400.000000, Min 0.000000, Avg 91,021,149.324324, Max Gain 2,574,529,900.000000, Max Loss -2,859,100,800.000000, Slop -88,079.574781, Standard Deviation 2,777,139.041329
+----------------Stock Item----------------
+2014-4-9  2014-4-10: Tread UP, Max 12.150000, Min 11.080000, Avg 11.615000, Max Gain 1.070000, Max Loss 0.000000, Slop 0.048684, Standard Deviation 0.000000
+Stock Item: Volume
+2014-4-9  2014-4-10: Tread UP, Max 459,621,500.000000, Min 72,893,600.000000, Avg 266,257,550.000000, Max Gain 386,727,900.000000, Max Loss 0.000000, Slop 17,595,741.030547, Standard Deviation 0.000000
+----------------Stock Item----------------
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.080000, Min 10.950000, Avg 11.508049, Max Gain 5.370000, Max Loss -4.820000, Slop 0.000309, Standard Deviation 0.007842
+Stock Item: Volume
+2014-4-10  2014-8-1: Tread DOWN, Max 459,621,500.000000, Min 0.000000, Avg 89,685,770.731707, Max Gain 1,120,080,600.000000, Max Loss -1,449,944,300.000000, Slop -185,289.821890, Standard Deviation 2,364,766.396965
+----------------Stock Item----------------
+2014-8-1  2014-8-4: Tread UP, Max 13.470000, Min 12.700000, Avg 13.085000, Max Gain 0.770000, Max Loss 0.000000, Slop 0.035034, Standard Deviation 0.000000
+Stock Item: Volume
+2014-8-1  2014-8-4: Tread UP, Max 272,407,500.000000, Min 129,757,800.000000, Avg 201,082,650.000000, Max Gain 142,649,700.000000, Max Loss 0.000000, Slop 6,490,421.764981, Standard Deviation 0.000000
+----------------Stock Item----------------
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.630000, Min 12.330000, Avg 13.142319, Max Gain 4.650000, Max Loss -4.940000, Slop -0.000194, Standard Deviation 0.008256
+Stock Item: Volume
+2014-8-4  2014-11-6: Tread DOWN, Max 298,392,600.000000, Min 0.000000, Avg 124,239,939.130435, Max Gain 1,423,418,000.000000, Max Loss -1,564,213,700.000000, Slop -94,206.861458, Standard Deviation 2,826,482.460410
+----------------Stock Item----------------
+2014-11-6  2014-11-12: Tread UP, Max 15.380000, Min 13.180000, Avg 14.114000, Max Gain 2.200000, Max Loss 0.000000, Slop 0.025024, Standard Deviation 0.016192
+Stock Item: Volume
+2014-11-6  2014-11-12: Tread UP, Max 632,214,600.000000, Min 131,611,800.000000, Avg 490,851,580.000000, Max Gain 549,432,100.000000, Max Loss -143,592,900.000000, Slop 4,616,321.619958, Standard Deviation 10,093,359.535278
+----------------Stock Item----------------
+2014-11-12  2014-11-13: Tread DOWN, Max 15.380000, Min 15.060000, Avg 15.220000, Max Gain 0.000000, Max Loss -0.320000, Slop -0.014560, Standard Deviation 0.000000
+Stock Item: Volume
+2014-11-12  2014-11-13: Tread DOWN, Max 537,451,000.000000, Min 512,400,900.000000, Avg 524,925,950.000000, Max Gain 0.000000, Max Loss -25,050,100.000000, Slop -1,139,755.038075, Standard Deviation 0.000000
+----------------Stock Item----------------
+2014-11-13  2014-11-14: Tread UP, Max 15.380000, Min 15.060000, Avg 15.220000, Max Gain 0.320000, Max Loss 0.000000, Slop 0.014560, Standard Deviation 0.000000
+Stock Item: Volume
+2014-11-13  2014-11-14: Tread DOWN, Max 512,400,900.000000, Min 442,371,400.000000, Avg 477,386,150.000000, Max Gain 0.000000, Max Loss -70,029,500.000000, Slop -3,186,273.725011, Standard Deviation 0.000000
+----------------Stock Item----------------
+2014-11-14  2014-11-19: Tread DOWN, Max 15.380000, Min 14.400000, Avg 14.822500, Max Gain 0.000000, Max Loss -0.980000, Slop -0.014863, Standard Deviation 0.005687
+Stock Item: Volume
+2014-11-14  2014-11-19: Tread DOWN, Max 442,371,400.000000, Min 228,333,200.000000, Avg 350,528,550.000000, Max Gain 0.000000, Max Loss -214,038,200.000000, Slop -3,246,176.220063, Standard Deviation 1,211,871.813366
+----------------Stock Item----------------
+2014-11-19  2014-11-24: Tread UP, Max 16.540000, Min 14.400000, Avg 15.277500, Max Gain 2.140000, Max Loss 0.000000, Slop 0.032456, Standard Deviation 0.016515
+Stock Item: Volume
+2014-11-19  2014-11-24: Tread UP, Max 721,024,900.000000, Min 228,333,200.000000, Avg 420,415,475.000000, Max Gain 492,691,700.000000, Max Loss 0.000000, Slop 7,472,330.081090, Standard Deviation 5,360,349.994113
+----------------Stock Item----------------
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.540000, Min 16.460000, Avg 16.500000, Max Gain 0.000000, Max Loss -0.080000, Slop -0.003640, Standard Deviation 0.000000
+Stock Item: Volume
+2014-11-24  2014-11-25: Tread DOWN, Max 721,024,900.000000, Min 346,274,700.000000, Avg 533,649,800.000000, Max Gain 0.000000, Max Loss -374,750,200.000000, Slop -17,050,767.400919, Standard Deviation 0.000000
+----------------Stock Item----------------
+2014-11-25  2014-11-27: Tread UP, Max 17.510000, Min 16.460000, Avg 16.996667, Max Gain 1.050000, Max Loss 0.000000, Slop 0.023887, Standard Deviation 0.001592
+Stock Item: Volume
+2014-11-25  2014-11-27: Tread UP, Max 569,435,700.000000, Min 346,274,700.000000, Avg 457,908,066.666667, Max Gain 223,161,000.000000, Max Loss 0.000000, Slop 5,076,803.566691, Standard Deviation 7,216.144807
+----------------Stock Item----------------
+2014-11-27  2014-11-28: Tread DOWN, Max 17.510000, Min 17.260000, Avg 17.385000, Max Gain 0.000000, Max Loss -0.250000, Slop -0.011375, Standard Deviation 0.000000
+Stock Item: Volume
+2014-11-27  2014-11-28: Tread DOWN, Max 569,435,700.000000, Min 513,278,600.000000, Avg 541,357,150.000000, Max Gain 0.000000, Max Loss -56,157,100.000000, Slop -2,555,093.099377, Standard Deviation 0.000000
+----------------Stock Item----------------
+2014-11-28  2014-12-10: Tread UP, Max 27.270000, Min 17.260000, Avg 21.810000, Max Gain 10.010000, Max Loss 0.000000, Slop 0.056931, Standard Deviation 0.033892
+Stock Item: Volume
+2014-11-28  2014-12-10: Tread UP, Max 1,384,499,700.000000, Min 513,278,600.000000, Avg 911,746,022.222222, Max Gain 1,303,013,700.000000, Max Loss -542,938,500.000000, Slop 4,322,834.731778, Standard Deviation 12,127,201.171456
+----------------Stock Item----------------
+2014-12-10  2014-12-11: Tread DOWN, Max 27.270000, Min 24.710000, Avg 25.990000, Max Gain 0.000000, Max Loss -2.560000, Slop -0.116477, Standard Deviation 0.000000
+Stock Item: Volume
+2014-12-10  2014-12-11: Tread DOWN, Max 1,273,353,800.000000, Min 842,989,900.000000, Avg 1,058,171,850.000000, Max Gain 0.000000, Max Loss -430,363,900.000000, Slop -19,581,136.332022, Standard Deviation 0.000000
+----------------Stock Item----------------
+2014-12-11  2014-12-17: Tread UP, Max 32.750000, Min 24.710000, Avg 27.952000, Max Gain 8.040000, Max Loss 0.000000, Slop 0.091453, Standard Deviation 0.040503
+Stock Item: Volume
+2014-12-11  2014-12-17: Tread UP, Max 1,229,474,000.000000, Min 687,947,000.000000, Avg 948,868,760.000000, Max Gain 558,133,700.000000, Max Loss -171,649,600.000000, Slop 4,396,162.092277, Standard Deviation 10,017,186.823310
+----------------Stock Item----------------
+2014-12-17  2014-12-18: Tread DOWN, Max 32.750000, Min 31.740000, Avg 32.245000, Max Gain 0.000000, Max Loss -1.010000, Slop -0.045954, Standard Deviation 0.000000
+Stock Item: Volume
+2014-12-17  2014-12-18: Tread DOWN, Max 1,229,474,000.000000, Min 1,011,644,600.000000, Avg 1,120,559,300.000000, Max Gain 0.000000, Max Loss -217,829,400.000000, Slop -9,911,024.550438, Standard Deviation 0.000000
+----------------Stock Item----------------
+2013-1-1  2013-1-11: Tread FLUCTUATION_DOWN, Max 12.90, Min 12.27, Avg 12.73, Max Gain 0.19, Max Loss -0.82, Slop -0.00, Standard Deviation 0.01
+Stock Item: Volume
+2013-1-1  2013-1-11: Tread UP, Max 126,574,300.00, Min 0.00, Avg 70,794,077.78, Max Gain 179,954,600.00, Max Loss -62,281,300.00, Slop 669,252.50, Standard Deviation 2,115,674.17
+----------------Stock Item----------------
+2013-1-11  2013-1-15: Tread UP, Max 13.16, Min 12.27, Avg 12.85, Max Gain 0.89, Max Loss 0.00, Slop 0.02, Standard Deviation 0.02
+Stock Item: Volume
+2013-1-11  2013-1-15: Tread UP, Max 164,308,700.00, Min 117,673,300.00, Avg 144,105,100.00, Max Gain 46,635,400.00, Max Loss -13,975,400.00, Slop 742,999.02, Standard Deviation 1,378,866.05
+----------------Stock Item----------------
+2013-1-15  2013-1-25: Tread FLUCTUATION_DOWN, Max 13.38, Min 12.86, Avg 13.16, Max Gain 0.55, Max Loss -0.63, Slop -0.00, Standard Deviation 0.01
+Stock Item: Volume
+2013-1-15  2013-1-25: Tread DOWN, Max 231,183,700.00, Min 84,813,100.00, Avg 130,316,711.11, Max Gain 204,170,400.00, Max Loss -247,754,900.00, Slop -247,881.51, Standard Deviation 3,315,295.98
+----------------Stock Item----------------
+2013-1-25  2013-1-30: Tread UP, Max 14.72, Min 13.08, Avg 14.02, Max Gain 1.64, Max Loss 0.00, Slop 0.02, Standard Deviation 0.01
+Stock Item: Volume
+2013-1-25  2013-1-30: Tread UP, Max 231,065,300.00, Min 106,748,800.00, Avg 178,497,950.00, Max Gain 124,316,500.00, Max Loss -55,865,000.00, Slop 1,038,158.76, Standard Deviation 2,797,769.29
+----------------Stock Item----------------
+2013-1-30  2013-1-31: Tread FLUCTUATION_DOWN, Max 14.72, Min 14.66, Avg 14.69, Max Gain 0.00, Max Loss -0.06, Slop -0.00, Standard Deviation 0.00
+Stock Item: Volume
+2013-1-30  2013-1-31: Tread DOWN, Max 175,200,300.00, Min 123,862,400.00, Avg 149,531,350.00, Max Gain 0.00, Max Loss -51,337,900.00, Slop -2,335,824.22, Standard Deviation 0.00
+----------------Stock Item----------------
+2013-1-31  2013-2-1: Tread UP, Max 15.20, Min 14.66, Avg 14.93, Max Gain 0.54, Max Loss 0.00, Slop 0.02, Standard Deviation 0.00
+Stock Item: Volume
+2013-1-31  2013-2-1: Tread UP, Max 158,870,800.00, Min 123,862,400.00, Avg 141,366,600.00, Max Gain 35,008,400.00, Max Loss 0.00, Slop 1,592,847.94, Standard Deviation 0.00
+----------------Stock Item----------------
+2013-2-1  2013-2-26: Tread FLUCTUATION_DOWN, Max 15.20, Min 13.08, Avg 14.43, Max Gain 0.68, Max Loss -2.80, Slop -0.01, Standard Deviation 0.01
+Stock Item: Volume
+2013-2-1  2013-2-26: Tread DOWN, Max 209,597,400.00, Min 0.00, Avg 97,072,550.00, Max Gain 302,231,800.00, Max Loss -346,393,800.00, Slop -118,195.75, Standard Deviation 2,414,099.37
+----------------Stock Item----------------
+2013-2-26  2013-3-1: Tread UP, Max 14.26, Min 13.08, Avg 13.74, Max Gain 1.18, Max Loss 0.00, Slop 0.02, Standard Deviation 0.01
+Stock Item: Volume
+2013-2-26  2013-3-1: Tread UP, Max 171,981,500.00, Min 114,708,800.00, Avg 136,969,900.00, Max Gain 57,272,700.00, Max Loss -45,031,200.00, Slop 185,658.76, Standard Deviation 1,615,862.92
+----------------Stock Item----------------
+2013-3-1  2013-3-4: Tread DOWN, Max 14.26, Min 13.34, Avg 13.80, Max Gain 0.00, Max Loss -0.92, Slop -0.04, Standard Deviation 0.00
+Stock Item: Volume
+2013-3-1  2013-3-4: Tread UP, Max 219,582,300.00, Min 126,950,300.00, Avg 173,266,300.00, Max Gain 92,632,000.00, Max Loss 0.00, Slop 4,214,665.36, Standard Deviation 0.00
+----------------Stock Item----------------
+2013-3-4  2013-3-5: Tread UP, Max 13.98, Min 13.34, Avg 13.66, Max Gain 0.64, Max Loss 0.00, Slop 0.03, Standard Deviation 0.00
+Stock Item: Volume
+2013-3-4  2013-3-5: Tread DOWN, Max 219,582,300.00, Min 159,346,400.00, Avg 189,464,350.00, Max Gain 0.00, Max Loss -60,235,900.00, Slop -2,740,674.51, Standard Deviation 0.00
+----------------Stock Item----------------
+2013-3-5  2013-9-5: Tread FLUCTUATION_DOWN, Max 13.98, Min 9.50, Avg 11.42, Max Gain 10.46, Max Loss -13.50, Slop -0.00, Standard Deviation 0.01
+Stock Item: Volume
+2013-3-5  2013-9-5: Tread DOWN, Max 278,498,100.00, Min 0.00, Avg 89,165,826.32, Max Gain 2,209,377,900.00, Max Loss -2,323,805,600.00, Slop -39,442.03, Standard Deviation 2,246,454.22
+----------------Stock Item----------------
+2013-9-5  2013-9-12: Tread UP, Max 13.42, Min 10.94, Avg 12.17, Max Gain 2.48, Max Loss 0.00, Slop 0.02, Standard Deviation 0.02
+Stock Item: Volume
+2013-9-5  2013-9-12: Tread UP, Max 423,291,100.00, Min 44,918,700.00, Avg 255,239,450.00, Max Gain 378,372,400.00, Max Loss -65,826,600.00, Slop 2,844,105.61, Standard Deviation 3,873,518.09
+----------------Stock Item----------------
+2013-9-12  2014-4-9: Tread FLUCTUATION_DOWN, Max 13.42, Min 9.95, Avg 11.68, Max Gain 10.63, Max Loss -12.97, Slop -0.00, Standard Deviation 0.01
+Stock Item: Volume
+2013-9-12  2014-4-9: Tread DOWN, Max 404,920,400.00, Min 0.00, Avg 91,021,149.32, Max Gain 2,574,529,900.00, Max Loss -2,859,100,800.00, Slop -88,079.57, Standard Deviation 2,777,139.04
+----------------Stock Item----------------
+2014-4-9  2014-4-10: Tread UP, Max 12.15, Min 11.08, Avg 11.62, Max Gain 1.07, Max Loss 0.00, Slop 0.05, Standard Deviation 0.00
+Stock Item: Volume
+2014-4-9  2014-4-10: Tread UP, Max 459,621,500.00, Min 72,893,600.00, Avg 266,257,550.00, Max Gain 386,727,900.00, Max Loss 0.00, Slop 17,595,741.03, Standard Deviation 0.00
+----------------Stock Item----------------
+2014-4-10  2014-8-1: Tread FLUCTUATION_UP, Max 13.08, Min 10.95, Avg 11.51, Max Gain 5.37, Max Loss -4.82, Slop 0.00, Standard Deviation 0.01
+Stock Item: Volume
+2014-4-10  2014-8-1: Tread DOWN, Max 459,621,500.00, Min 0.00, Avg 89,685,770.73, Max Gain 1,120,080,600.00, Max Loss -1,449,944,300.00, Slop -185,289.82, Standard Deviation 2,364,766.40
+----------------Stock Item----------------
+2014-8-1  2014-8-4: Tread UP, Max 13.47, Min 12.70, Avg 13.09, Max Gain 0.77, Max Loss 0.00, Slop 0.04, Standard Deviation 0.00
+Stock Item: Volume
+2014-8-1  2014-8-4: Tread UP, Max 272,407,500.00, Min 129,757,800.00, Avg 201,082,650.00, Max Gain 142,649,700.00, Max Loss 0.00, Slop 6,490,421.76, Standard Deviation 0.00
+----------------Stock Item----------------
+2014-8-4  2014-11-6: Tread FLUCTUATION_DOWN, Max 13.63, Min 12.33, Avg 13.14, Max Gain 4.65, Max Loss -4.94, Slop -0.00, Standard Deviation 0.01
+Stock Item: Volume
+2014-8-4  2014-11-6: Tread DOWN, Max 298,392,600.00, Min 0.00, Avg 124,239,939.13, Max Gain 1,423,418,000.00, Max Loss -1,564,213,700.00, Slop -94,206.86, Standard Deviation 2,826,482.46
+----------------Stock Item----------------
+2014-11-6  2014-11-12: Tread UP, Max 15.38, Min 13.18, Avg 14.11, Max Gain 2.20, Max Loss 0.00, Slop 0.03, Standard Deviation 0.02
+Stock Item: Volume
+2014-11-6  2014-11-12: Tread UP, Max 632,214,600.00, Min 131,611,800.00, Avg 490,851,580.00, Max Gain 549,432,100.00, Max Loss -143,592,900.00, Slop 4,616,321.62, Standard Deviation 10,093,359.54
+----------------Stock Item----------------
+2014-11-12  2014-11-13: Tread DOWN, Max 15.38, Min 15.06, Avg 15.22, Max Gain 0.00, Max Loss -0.32, Slop -0.01, Standard Deviation 0.00
+Stock Item: Volume
+2014-11-12  2014-11-13: Tread DOWN, Max 537,451,000.00, Min 512,400,900.00, Avg 524,925,950.00, Max Gain 0.00, Max Loss -25,050,100.00, Slop -1,139,755.04, Standard Deviation 0.00
+----------------Stock Item----------------
+2014-11-13  2014-11-14: Tread UP, Max 15.38, Min 15.06, Avg 15.22, Max Gain 0.32, Max Loss 0.00, Slop 0.01, Standard Deviation 0.00
+Stock Item: Volume
+2014-11-13  2014-11-14: Tread DOWN, Max 512,400,900.00, Min 442,371,400.00, Avg 477,386,150.00, Max Gain 0.00, Max Loss -70,029,500.00, Slop -3,186,273.73, Standard Deviation 0.00
+----------------Stock Item----------------
+2014-11-14  2014-11-19: Tread DOWN, Max 15.38, Min 14.40, Avg 14.82, Max Gain 0.00, Max Loss -0.98, Slop -0.01, Standard Deviation 0.01
+Stock Item: Volume
+2014-11-14  2014-11-19: Tread DOWN, Max 442,371,400.00, Min 228,333,200.00, Avg 350,528,550.00, Max Gain 0.00, Max Loss -214,038,200.00, Slop -3,246,176.22, Standard Deviation 1,211,871.81
+----------------Stock Item----------------
+2014-11-19  2014-11-24: Tread UP, Max 16.54, Min 14.40, Avg 15.28, Max Gain 2.14, Max Loss 0.00, Slop 0.03, Standard Deviation 0.02
+Stock Item: Volume
+2014-11-19  2014-11-24: Tread UP, Max 721,024,900.00, Min 228,333,200.00, Avg 420,415,475.00, Max Gain 492,691,700.00, Max Loss 0.00, Slop 7,472,330.08, Standard Deviation 5,360,349.99
+----------------Stock Item----------------
+2014-11-24  2014-11-25: Tread FLUCTUATION_DOWN, Max 16.54, Min 16.46, Avg 16.50, Max Gain 0.00, Max Loss -0.08, Slop -0.00, Standard Deviation 0.00
+Stock Item: Volume
+2014-11-24  2014-11-25: Tread DOWN, Max 721,024,900.00, Min 346,274,700.00, Avg 533,649,800.00, Max Gain 0.00, Max Loss -374,750,200.00, Slop -17,050,767.40, Standard Deviation 0.00
+----------------Stock Item----------------
+2014-11-25  2014-11-27: Tread UP, Max 17.51, Min 16.46, Avg 17.00, Max Gain 1.05, Max Loss 0.00, Slop 0.02, Standard Deviation 0.00
+Stock Item: Volume
+2014-11-25  2014-11-27: Tread UP, Max 569,435,700.00, Min 346,274,700.00, Avg 457,908,066.67, Max Gain 223,161,000.00, Max Loss 0.00, Slop 5,076,803.57, Standard Deviation 7,216.14
+----------------Stock Item----------------
+2014-11-27  2014-11-28: Tread DOWN, Max 17.51, Min 17.26, Avg 17.39, Max Gain 0.00, Max Loss -0.25, Slop -0.01, Standard Deviation 0.00
+Stock Item: Volume
+2014-11-27  2014-11-28: Tread DOWN, Max 569,435,700.00, Min 513,278,600.00, Avg 541,357,150.00, Max Gain 0.00, Max Loss -56,157,100.00, Slop -2,555,093.10, Standard Deviation 0.00
+----------------Stock Item----------------
+2014-11-28  2014-12-10: Tread UP, Max 27.27, Min 17.26, Avg 21.81, Max Gain 10.01, Max Loss 0.00, Slop 0.06, Standard Deviation 0.03
+Stock Item: Volume
+2014-11-28  2014-12-10: Tread UP, Max 1,384,499,700.00, Min 513,278,600.00, Avg 911,746,022.22, Max Gain 1,303,013,700.00, Max Loss -542,938,500.00, Slop 4,322,834.73, Standard Deviation 12,127,201.17
+----------------Stock Item----------------
+2014-12-10  2014-12-11: Tread DOWN, Max 27.27, Min 24.71, Avg 25.99, Max Gain 0.00, Max Loss -2.56, Slop -0.12, Standard Deviation 0.00
+Stock Item: Volume
+2014-12-10  2014-12-11: Tread DOWN, Max 1,273,353,800.00, Min 842,989,900.00, Avg 1,058,171,850.00, Max Gain 0.00, Max Loss -430,363,900.00, Slop -19,581,136.33, Standard Deviation 0.00
+----------------Stock Item----------------
+2014-12-11  2014-12-17: Tread UP, Max 32.75, Min 24.71, Avg 27.95, Max Gain 8.04, Max Loss 0.00, Slop 0.09, Standard Deviation 0.04
+Stock Item: Volume
+2014-12-11  2014-12-17: Tread UP, Max 1,229,474,000.00, Min 687,947,000.00, Avg 948,868,760.00, Max Gain 558,133,700.00, Max Loss -171,649,600.00, Slop 4,396,162.09, Standard Deviation 10,017,186.82
+----------------Stock Item----------------
+2014-12-17  2014-12-18: Tread DOWN, Max 32.75, Min 31.74, Avg 32.24, Max Gain 0.00, Max Loss -1.01, Slop -0.05, Standard Deviation 0.00
+Stock Item: Volume
+2014-12-17  2014-12-18: Tread DOWN, Max 1,229,474,000.00, Min 1,011,644,600.00, Avg 1,120,559,300.00, Max Gain 0.00, Max Loss -217,829,400.00, Slop -9,911,024.55, Standard Deviation 0.00

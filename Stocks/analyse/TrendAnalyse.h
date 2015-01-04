@@ -4,12 +4,16 @@
 #include "stock/Stock.h"
 
 #include <vector>
+#include <set>
+#include <map>
 
-enum Period
+enum Trend
 {
-	E_PRD_NONE,
-	E_PRD_UP,
-	E_PRD_DOWN,
+	E_TRD_NONE,
+	E_TRD_UP,
+	E_TRD_FLUCTUATION_UP,
+	E_TRD_DOWN,
+	E_TRD_FLUCTUATION_DOWN,
 };
 
 class __declspec(dllexport) PeriodItem
@@ -33,11 +37,13 @@ public:
 
 	void computeTrend(const std::vector<double>& datas);
 
-	void print(const Stock& stocks, int offset);
+	void print(StockCPtr pStock, int offset);
 
 	int getDays() const {	return m_endIndex - m_startIndex + 1;};
 
-	Period m_period;
+	std::string getPeriod();
+
+	Trend m_period;
 
 	unsigned int m_startIndex;
 	unsigned int m_endIndex;
@@ -64,8 +70,13 @@ class __declspec(dllexport) TrendAnalyse : public Analyse
 {
 public:
 
-	explicit TrendAnalyse(StockCPtr stockPtr, IndexType majorIndex, IndexType relIndex);
+	explicit TrendAnalyse(StockCPtr stockPtr, IndexType majorIndex);
 	~TrendAnalyse(void);
+
+	void pushRelative(IndexType relIdx)
+	{
+		m_relIdxVec.push_back(relIdx);
+	}
 
 protected:
 	virtual void onAnalyse();
@@ -80,23 +91,26 @@ private:
 		double m_value;
 	};
 
-	void analysisPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems);
+	typedef std::map<IndexType, PeriodItemVec> PrdItemVecMap;
 
-	void initPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems);
+	void analysisMajor();
 
-	void mergePeriods(const std::vector<double>& datas, unsigned int size, PeriodItemVec& prdItems);
+	void initMajorPrds(const std::vector<double>& datas);
 
-	void mergeSimilarPeriods(const std::vector<double>& datas, PeriodItemVec& prdItems);
+	void mergePeriods(const std::vector<double>& datas, unsigned int size);
 
-	void removeInvalides(PeriodItemVec& prdItems);
+	void mergeSimilarPeriods(const std::vector<double>& datas);
 
 	double getAvgSlops(const PeriodItemVec& prdItems);
 
 	double getAvgStandardDeviation(const PeriodItemVec& prdItems);
+
+	void analyseRelPeriods();
 	
+	IndexType m_majorIdx;
+	std::vector<IndexType> m_relIdxVec;
 
-	IndexType m_majorIndex;
-	IndexType m_relIndex;
-
+	PeriodItemVec m_majorVec;
+	PrdItemVecMap m_relPrdsMap;
 };
 

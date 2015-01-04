@@ -1,0 +1,35 @@
+﻿生成启动时间为 2015/1/4 15:24:08。
+     1>项目“D:\cocos2d_ws_action\tools workspace\StockMonitor\Stocks\Stocks.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\Stocks.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D STOCKS_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Stocks.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt analyse\Analyse.cpp analyse\DataAnalyse.cpp analyse\TrendAnalyse.cpp stock\Stock.cpp stock\StockConfig.cpp stock\StockManager.cpp stock\StockRequest.cpp stock\StockSession.cpp utils\FileUtils.cpp utils\MathUtil.cpp utils\StringUtils.cpp utils\TimeUtils.cpp
+         Analyse.cpp
+     1>analyse\Analyse.cpp(1): fatal error C1083: 无法打开预编译头文件:“Release\Stocks.pch”: No such file or directory
+         DataAnalyse.cpp
+     1>analyse\DataAnalyse.cpp(1): fatal error C1083: 无法打开预编译头文件:“Release\Stocks.pch”: No such file or directory
+         TrendAnalyse.cpp
+     1>analyse\TrendAnalyse.cpp(1): fatal error C1083: 无法打开预编译头文件:“Release\Stocks.pch”: No such file or directory
+         Stock.cpp
+     1>stock\Stock.cpp(1): fatal error C1083: 无法打开预编译头文件:“Release\Stocks.pch”: No such file or directory
+         StockConfig.cpp
+     1>stock\StockConfig.cpp(1): fatal error C1083: 无法打开预编译头文件:“Release\Stocks.pch”: No such file or directory
+         StockManager.cpp
+     1>stock\StockManager.cpp(1): fatal error C1083: 无法打开预编译头文件:“Release\Stocks.pch”: No such file or directory
+         StockRequest.cpp
+     1>stock\StockRequest.cpp(1): fatal error C1083: 无法打开预编译头文件:“Release\Stocks.pch”: No such file or directory
+         StockSession.cpp
+     1>stock\StockSession.cpp(1): fatal error C1083: 无法打开预编译头文件:“Release\Stocks.pch”: No such file or directory
+         FileUtils.cpp
+     1>utils\FileUtils.cpp(1): fatal error C1083: 无法打开预编译头文件:“Release\Stocks.pch”: No such file or directory
+         MathUtil.cpp
+     1>utils\MathUtil.cpp(3): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "StdAfx.h"”?
+         StringUtils.cpp
+     1>utils\StringUtils.cpp(1): fatal error C1083: 无法打开预编译头文件:“Release\Stocks.pch”: No such file or directory
+         TimeUtils.cpp
+     1>utils\TimeUtils.cpp(1): fatal error C1083: 无法打开预编译头文件:“Release\Stocks.pch”: No such file or directory
+     1>已完成生成项目“D:\cocos2d_ws_action\tools workspace\StockMonitor\Stocks\Stocks.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.12

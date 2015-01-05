@@ -11,10 +11,9 @@ public:
 	explicit DataAnalyse(StockCPtr stockPtr, IndexType indexType);
 	~DataAnalyse(void);
 
-protected:
-	virtual void onAnalyse();
+	virtual void analyse();
 
-	virtual void printResult();
+	virtual void print();
 
 private:
 	IndexType m_indexType;

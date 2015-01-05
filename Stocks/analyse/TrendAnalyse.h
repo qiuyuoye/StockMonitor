@@ -73,15 +73,24 @@ public:
 	explicit TrendAnalyse(StockCPtr stockPtr, IndexType majorIndex);
 	~TrendAnalyse(void);
 
+	virtual void analyse();
+
+	virtual void print();
+
 	void pushRelative(IndexType relIdx)
 	{
 		m_relIdxVec.push_back(relIdx);
 	}
 
-protected:
-	virtual void onAnalyse();
+	const PeriodItemVec& getMajor()
+	{
+		return m_majorVec;
+	}
 
-	virtual void printResult();
+	const PeriodItemVec& getRelative(IndexType relIdx)
+	{
+		return m_relPrdsMap[relIdx];
+	}
 
 private:
 	class DiffItem
@@ -112,5 +121,7 @@ private:
 
 	PeriodItemVec m_majorVec;
 	PrdItemVecMap m_relPrdsMap;
+
+	int m_mergedSize;
 };
 

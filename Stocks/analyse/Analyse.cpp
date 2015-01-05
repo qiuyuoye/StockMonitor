@@ -11,9 +11,3 @@ Analyse::Analyse(StockCPtr stockPtr)
 Analyse::~Analyse(void)
 {
 }
-
-void Analyse::analyse()
-{
-	onAnalyse();
-	printResult();
-}

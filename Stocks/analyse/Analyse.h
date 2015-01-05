@@ -9,12 +9,11 @@ public:
 	explicit Analyse(StockCPtr stockPtr);
 	~Analyse(void);
 
-	void analyse();
+	virtual void analyse(){};
+
+	virtual void print(){};
 
 protected:
-	virtual void onAnalyse(){};
-
-	virtual void printResult(){};
 
 	StockCPtr m_pStock;
 	

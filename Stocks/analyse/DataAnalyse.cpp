@@ -17,7 +17,7 @@ DataAnalyse::~DataAnalyse(void)
 {
 }
 
-void DataAnalyse::onAnalyse()
+void DataAnalyse::analyse()
 {
 	std::vector<double> datas;
 	m_pStock->getDatasByIndex(datas, m_indexType);
@@ -43,7 +43,7 @@ void DataAnalyse::onAnalyse()
 
 }
 
-void DataAnalyse::printResult()
+void DataAnalyse::print()
 {
 	Log("--------------   DataAnalyse : %s  ----------------", m_pStock->getSymbol().c_str());
 	Log("Average: %s, Max: %s, Min: %s", 

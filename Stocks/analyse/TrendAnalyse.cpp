@@ -172,16 +172,16 @@ TrendAnalyse::TrendAnalyse(StockCPtr stockPtr, IndexType majorIndex)
 	: Analyse(stockPtr)
 	, m_majorIdx(majorIndex)
 	, m_relIdxVec()
+	, m_mergedSize(-1)
 {
 }
 
 
 TrendAnalyse::~TrendAnalyse(void)
 {
-	int j = 0;
 }
 
-void TrendAnalyse::onAnalyse()
+void TrendAnalyse::analyse()
 {
 	analysisMajor();
 
@@ -189,7 +189,7 @@ void TrendAnalyse::onAnalyse()
 
 }
 
-void TrendAnalyse::printResult()
+void TrendAnalyse::print()
 {
 	for(UINT i = 0; i < m_majorVec.size(); ++i)
 	{
@@ -215,8 +215,13 @@ void TrendAnalyse::analysisMajor()
 		return;
 	}
 
+	int size = m_mergedSize;
+	if(size < 0)
+	{
+		size = majorVec.size() / 15;
+	}
 	initMajorPrds(majorVec);
-	mergePeriods(majorVec, 30);
+	mergePeriods(majorVec, size);
 
 }
 

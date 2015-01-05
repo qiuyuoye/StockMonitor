@@ -25,10 +25,17 @@ int _tmain(int argc, _TCHAR* argv[])
 	//StockManager::getInstance().updateAll();
 
 	StockCPtr pStock = StockManager::getInstance().getStock("SS_600030");
-	TrendAnalyse *pAnaylse = new TrendAnalyse(pStock, E_ADJ_CLOSE);
-	pAnaylse->pushRelative(E_VOLUME);
-	pAnaylse->analyse();
-	delete pAnaylse;
+	
+	{
+		DataAnalyse anaylse(pStock, E_VOLUME);
+		anaylse.analyse();
+	}
+	{
+		TrendAnalyse anaylse(pStock, E_ADJ_CLOSE);
+		anaylse.pushRelative(E_VOLUME);
+		anaylse.analyse();
+	}
+
  	return 0;
 }
 
